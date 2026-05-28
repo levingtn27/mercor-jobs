@@ -1,0 +1,39 @@
+name: Mercor Jobs Sync
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'   # every 4 hours
+  workflow_dispatch:          # manual trigger from GitHub UI
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write         # needed to push jobs.json back to repo
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run scraper
+        env:
+          FIREBASE_API_KEY:      ${{ secrets.FIREBASE_API_KEY }}
+          MERCOR_REFRESH_TOKEN:  ${{ secrets.MERCOR_REFRESH_TOKEN }}
+        run: python scraper.py
+
+      - name: Commit & push jobs.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add jobs.json
+          # Only commit if something actually changed
+          git diff --staged --quiet || git commit -m "chore: sync Mercor jobs $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
