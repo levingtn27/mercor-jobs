@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T15:01:48.518330+00:00",
-  "total": 162,
+  "updated_at": "2026-05-30T05:58:46.973200+00:00",
+  "total": 154,
   "jobs": [
     {
       "id": "list_AAABnmqtC-4kWIlmD1BMM5kW",
@@ -35,23 +35,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnmqXTEjhNZZoyHRI97Mh",
       "created_at": "2026-05-27T17:59:20"
-    },
-    {
-      "id": "list_AAABnmdtbHOvTAvOCc1EZYsF",
-      "title": "PowerPoint Formatting Expert",
-      "domain": "Arts & Design",
-      "pay": "$80 \u2013 $150 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABnmdtbHOvTAvOCc1EZYsF",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnmdtbHOvTAvOCc1EZYsF",
-      "created_at": "2026-05-27T03:14:45"
     },
     {
       "id": "list_AAABnmcJdQOFlQJfXD1CeKag",
@@ -422,7 +405,7 @@
     {
       "id": "list_AAABnk63lEFdmCHlC61OQ56O",
       "title": "Health Insurance Expert",
-      "domain": "Law",
+      "domain": "Data Analysis",
       "pay": "$1.1K \u2013 $1.4K / hr",
       "commitment": "part-time",
       "tab": "project-based",
@@ -452,23 +435,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnkba4LW8UaGzEWND55fu",
       "created_at": "2026-05-20T19:26:50"
-    },
-    {
-      "id": "list_AAABnkbV_Kt0v6SOfk5OY62l",
-      "title": "Search Fund / Entrepreneurship through Acquisition (ETA) Expert",
-      "domain": "Finance",
-      "pay": "$1.0K / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABnkbV_Kt0v6SOfk5OY62l",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnkbV_Kt0v6SOfk5OY62l",
-      "created_at": "2026-05-20T19:21:30"
     },
     {
       "id": "list_AAABnkZ4wiDh3d6MuLhH-LCo",
@@ -503,23 +469,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnkZvs3A6IWmnzIJChZcp",
       "created_at": "2026-05-20T17:29:46"
-    },
-    {
-      "id": "list_AAABnkKfIa1n4GJSEKRIEqCQ",
-      "title": "STEM PhDs and Technical Domain Experts",
-      "domain": "Data Analysis",
-      "pay": "$55 \u2013 $80 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABnkKfIa1n4GJSEKRIEqCQ",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnkKfIa1n4GJSEKRIEqCQ",
-      "created_at": "2026-05-19T23:43:05"
     },
     {
       "id": "list_AAABnkGV0qQnsd2SWxJINKun",
@@ -616,27 +565,6 @@
       "created_at": "2026-05-15T13:38:50"
     },
     {
-      "id": "list_AAABnigaKwo0DE78ARJGoYs4",
-      "title": "React engineers with 2 years experience \u00b7 20h/week",
-      "domain": "Software Engineering",
-      "pay": "$50 \u2013 $80 / hr",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "CA",
-        "UK",
-        "US"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABnigaKwo0DE78ARJGoYs4",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnigaKwo0DE78ARJGoYs4",
-      "created_at": "2026-05-14T20:07:44"
-    },
-    {
       "id": "list_AAABniS_WuybtkEEZz5NnJCI",
       "title": "Visual Slide Design Expert (PowerPoint Aesthetics & Design)",
       "domain": "Arts & Design",
@@ -673,10 +601,10 @@
       "created_at": "2026-05-14T00:48:41"
     },
     {
-      "id": "list_AAABniAdbe44Pmy-5iNOHZqy",
-      "title": "Commerce Specialist \u2014 Consumer AI Agents",
-      "domain": "Business Operations",
-      "pay": "$47 \u2013 $55 / hr",
+      "id": "list_AAABniAdj3HtQpx7u1pFDLDR",
+      "title": "Structural/Civil Engineer \u2014 Visual Knowledge Work",
+      "domain": "Other Engineering",
+      "pay": "$68 \u2013 $80 / hr",
       "commitment": "hourly",
       "tab": "project-based",
       "location": "Remote",
@@ -684,10 +612,10 @@
       "hired_count": null,
       "is_new": true,
       "closing_soon": false,
-      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABniAdbe44Pmy-5iNOHZqy",
+      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABniAdj3HtQpx7u1pFDLDR",
       "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABniAdbe44Pmy-5iNOHZqy",
-      "created_at": "2026-05-13T06:54:20"
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABniAdj3HtQpx7u1pFDLDR",
+      "created_at": "2026-05-13T06:54:29"
     },
     {
       "id": "list_AAABniAdGBs7daBgs2dDhIo4",
@@ -705,23 +633,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABniAdGBs7daBgs2dDhIo4",
       "created_at": "2026-05-13T06:53:58"
-    },
-    {
-      "id": "list_AAABniAc5SpjhCIaLZ9E6oXE",
-      "title": "Finance Expert \u2014 Document Understanding",
-      "domain": "Finance",
-      "pay": "$85 \u2013 $100 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABniAc5SpjhCIaLZ9E6oXE",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABniAc5SpjhCIaLZ9E6oXE",
-      "created_at": "2026-05-13T06:53:45"
     },
     {
       "id": "list_AAABnh7mSXDbVv1EDKtP5IH3",
@@ -758,23 +669,6 @@
       "created_at": "2026-05-13T01:14:28"
     },
     {
-      "id": "list_AAABnh7mRPOpUed6tQBK0bnB",
-      "title": "Generalist - English & Gujarati",
-      "domain": "Miscellaneous",
-      "pay": "$15 \u2013 $20 / hr",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABnh7mRPOpUed6tQBK0bnB",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnh7mRPOpUed6tQBK0bnB",
-      "created_at": "2026-05-13T01:14:27"
-    },
-    {
       "id": "list_AAABnh7mQVTevMoBjeVBfpFJ",
       "title": "Generalist - English & Malayalam",
       "domain": "Miscellaneous",
@@ -789,6 +683,23 @@
       "referral_link": "https://work.mercor.com/explore?listingId=list_AAABnh7mQVTevMoBjeVBfpFJ",
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnh7mQVTevMoBjeVBfpFJ",
+      "created_at": "2026-05-13T01:14:27"
+    },
+    {
+      "id": "list_AAABnh7mRPOpUed6tQBK0bnB",
+      "title": "Generalist - English & Gujarati",
+      "domain": "Miscellaneous",
+      "pay": "$15 \u2013 $20 / hr",
+      "commitment": "part-time",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABnh7mRPOpUed6tQBK0bnB",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnh7mRPOpUed6tQBK0bnB",
       "created_at": "2026-05-13T01:14:27"
     },
     {
@@ -909,6 +820,23 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnh7hosVpG_ST5_FEQaWo",
       "created_at": "2026-05-13T01:09:24"
+    },
+    {
+      "id": "list_AAABnhmjW_mV-5PoVkdCdId5",
+      "title": "Expert Software Engineer \u2013 Scala / COBOL / ABAP / Verilog / Fortran / Slang",
+      "domain": "Software Engineering",
+      "pay": "$120 \u2013 $200 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABnhmjW_mV-5PoVkdCdId5",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnhmjW_mV-5PoVkdCdId5",
+      "created_at": "2026-05-12T00:43:17"
     },
     {
       "id": "list_AAABng2NoAUb8kixvstENpET",
@@ -1174,23 +1102,6 @@
       "created_at": "2026-05-04T18:32:51"
     },
     {
-      "id": "list_AAABnd0_i7HkvuPZUt1LkbpI",
-      "title": "Generalist Expert",
-      "domain": "Miscellaneous",
-      "pay": "$60 \u2013 $200 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABnd0_i7HkvuPZUt1LkbpI",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnd0_i7HkvuPZUt1LkbpI",
-      "created_at": "2026-04-30T07:17:03"
-    },
-    {
       "id": "list_AAABndlXXp3YPj6RjGRJ0JFN",
       "title": "Expert Professionals - Operations",
       "domain": "Business Operations",
@@ -1329,26 +1240,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABndgXCuyulraxxjNGD5QZ",
       "created_at": "2026-04-29T07:14:42"
-    },
-    {
-      "id": "list_AAABndgXCEQamyh0JGJI4Jsj",
-      "title": "Radiology Expert",
-      "domain": "Medicine",
-      "pay": "$130 \u2013 $180 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA",
-        "CAN"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABndgXCEQamyh0JGJI4Jsj",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABndgXCEQamyh0JGJI4Jsj",
-      "created_at": "2026-04-29T07:14:41"
     },
     {
       "id": "list_AAABndgXBMSOUadAUdNJQJw9",
@@ -1726,28 +1617,9 @@
       "created_at": "2026-04-22T18:26:47"
     },
     {
-      "id": "list_AAABnbZxrVSpBppBmI9NqaXU",
-      "title": "Civic and Public Administration Expert",
+      "id": "list_AAABnbZxJcEQwRGhO3BKIZEQ",
+      "title": "Research Operations & Administration Expert",
       "domain": "Life, Physical, and Social Science",
-      "pay": "$850 \u2013 $1.0K / hr",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABnbZxrVSpBppBmI9NqaXU",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnbZxrVSpBppBmI9NqaXU",
-      "created_at": "2026-04-22T18:26:37"
-    },
-    {
-      "id": "list_AAABnbZwYeDvJK7ONAlGaYcD",
-      "title": "Manufacturing - Supply Chain & Logistics Expert",
-      "domain": "Business Operations",
       "pay": "$1.1K \u2013 $1.4K / hr",
       "commitment": "part-time",
       "tab": "project-based",
@@ -1758,10 +1630,10 @@
       "hired_count": null,
       "is_new": true,
       "closing_soon": false,
-      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABnbZwYeDvJK7ONAlGaYcD",
+      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABnbZxJcEQwRGhO3BKIZEQ",
       "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnbZwYeDvJK7ONAlGaYcD",
-      "created_at": "2026-04-22T18:25:12"
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnbZxJcEQwRGhO3BKIZEQ",
+      "created_at": "2026-04-22T18:26:02"
     },
     {
       "id": "list_AAABnbZvZkzU0BqxmLBK_Ztw",
@@ -1781,25 +1653,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnbZvZkzU0BqxmLBK_Ztw",
       "created_at": "2026-04-22T18:24:07"
-    },
-    {
-      "id": "list_AAABnbZvDKIb-RuZETZLroCz",
-      "title": "Medical Devices Expert",
-      "domain": "Other Engineering",
-      "pay": "$1.1K \u2013 $1.4K / hr",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABnbZvDKIb-RuZETZLroCz",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnbZvDKIb-RuZETZLroCz",
-      "created_at": "2026-04-22T18:23:44"
     },
     {
       "id": "list_AAABnbZuQaqhOK0yBtdK_7xi",
@@ -1838,25 +1691,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnbZsP8rVe0Qk8aRJY7jZ",
       "created_at": "2026-04-22T18:20:41"
-    },
-    {
-      "id": "list_AAABnbZr47Ow4rJsBl9FbZgw",
-      "title": "Vocational Training Expert",
-      "domain": "Business Operations",
-      "pay": "$850 \u2013 $1.0K / hr",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABnbZr47Ow4rJsBl9FbZgw",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnbZr47Ow4rJsBl9FbZgw",
-      "created_at": "2026-04-22T18:20:17"
     },
     {
       "id": "list_AAABnbNtVQ1UjgdoykpMS7mg",
@@ -1935,23 +1769,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnZhYSxAoLrdiWypFAIui",
       "created_at": "2026-04-16T22:10:16"
-    },
-    {
-      "id": "list_AAABnZJpiPirt3fW0apPU7Bw",
-      "title": "Software Engineer",
-      "domain": "Software Engineering",
-      "pay": "$40 \u2013 $50 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABnZJpiPirt3fW0apPU7Bw",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnZJpiPirt3fW0apPU7Bw",
-      "created_at": "2026-04-15T18:31:23"
     },
     {
       "id": "list_AAABnY3O3HxPihnbtTVNeLaf",
@@ -2058,6 +1875,25 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnX448T_RbqxVdfhBUJ9N",
       "created_at": "2026-04-11T20:25:54"
+    },
+    {
+      "id": "list_AAABnXjWyfZ24TPuXm1JBaoq",
+      "title": "STEM Undergraduates",
+      "domain": "Life, Physical, and Social Science",
+      "pay": "$42 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABnXjWyfZ24TPuXm1JBaoq",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnXjWyfZ24TPuXm1JBaoq",
+      "created_at": "2026-04-10T19:20:36"
     },
     {
       "id": "list_AAABnXhvagXHJt27tM9AQqyk",
@@ -2702,25 +2538,6 @@
       "created_at": "2026-02-13T06:43:02"
     },
     {
-      "id": "list_AAABnEvLz6Hhzqkiv5NOcJiJ",
-      "title": "Tax Controversy Specialist",
-      "domain": "Law",
-      "pay": "$80 \u2013 $120 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABnEvLz6Hhzqkiv5NOcJiJ",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnEvLz6Hhzqkiv5NOcJiJ",
-      "created_at": "2026-02-11T08:22:54"
-    },
-    {
       "id": "list_AAABnEvGkiQNJqTWnM1DDoj7",
       "title": "Real Estate Specialist",
       "domain": "Finance",
@@ -2871,10 +2688,10 @@
       "created_at": "2025-10-25T20:46:59"
     },
     {
-      "id": "list_AAABmhz_U7R6OwXfEh1BwLFS",
-      "title": "Buyers and Purchasing Agents",
+      "id": "list_AAABmhiQhJ5y-RCF0qRAAqEN",
+      "title": "Real Estate Sales Agents",
       "domain": "Business Operations",
-      "pay": "$500 \u2013 $1.0K / hr",
+      "pay": "$1.5K \u2013 $1.7K / hr",
       "commitment": "part-time",
       "tab": "project-based",
       "location": "Remote",
@@ -2882,10 +2699,10 @@
       "hired_count": null,
       "is_new": true,
       "closing_soon": false,
-      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABmhz_U7R6OwXfEh1BwLFS",
+      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABmhiQhJ5y-RCF0qRAAqEN",
       "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABmhz_U7R6OwXfEh1BwLFS",
-      "created_at": "2025-10-25T20:11:27"
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABmhiQhJ5y-RCF0qRAAqEN",
+      "created_at": "2025-10-24T23:31:56"
     },
     {
       "id": "list_AAABmg-4qQcPC7gJSpNLYqH3",
@@ -2920,6 +2737,40 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABma2ZUAY6qJXJRCdFIoVk",
       "created_at": "2025-10-04T05:02:10"
+    },
+    {
+      "id": "list_AAABma2LKquJPz8ym99Oi41g",
+      "title": "Corporate Finance Expert",
+      "domain": "Finance",
+      "pay": "$100 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABma2LKquJPz8ym99Oi41g",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABma2LKquJPz8ym99Oi41g",
+      "created_at": "2025-10-04T04:46:43"
+    },
+    {
+      "id": "list_AAABma2F_qUphez53UxNILuK",
+      "title": "Hedge Fund Expert",
+      "domain": "Finance",
+      "pay": "$200 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/explore?listingId=list_AAABma2F_qUphez53UxNILuK",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABma2F_qUphez53UxNILuK",
+      "created_at": "2025-10-04T04:41:04"
     },
     {
       "id": "list_AAABma2CDcUFzlFWk4pFtr-h",
