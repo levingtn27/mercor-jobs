@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-09-19T05:21:54.893939+00:00",
-  "total": 398,
+  "updated_at": "2026-09-20T10:38:41.511285+00:00",
+  "total": 386,
   "jobs": [
+    {
+      "id": "list_AAABoLisIUHmi29LQupO77BO",
+      "title": "RN Annotators",
+      "domain": "Medicine",
+      "pay": "$55 - $65 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoLisIUHmi29LQupO77BO/rn-annotators?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoLisIUHmi29LQupO77BO&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoLisIUHmi29LQupO77BO",
+      "created_at": "2026-09-19T07:58:03"
+    },
     {
       "id": "list_AAABoLamNYyXfp8BirlEU7-n",
       "title": "STEM Expert",
@@ -1193,23 +1210,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoKIv5yrqvN56ZlRMUJj0",
       "created_at": "2026-09-14T23:10:44"
-    },
-    {
-      "id": "list_AAABoKH4sPkuUOgbJ_1LDZtK",
-      "title": "Product Design Expert",
-      "domain": "Arts & Design",
-      "pay": "$75 - $85 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoKH4sPkuUOgbJ_1LDZtK/product-design-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoKH4sPkuUOgbJ_1LDZtK&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoKH4sPkuUOgbJ_1LDZtK",
-      "created_at": "2026-09-14T22:10:25"
     },
     {
       "id": "list_AAABoKHds2e4X1lxEltFyJa7",
@@ -2709,23 +2709,6 @@
       "created_at": "2026-09-04T02:04:10"
     },
     {
-      "id": "list_AAABoGooQsEAmK1CcHpFAaCM",
-      "title": "Bilingual Turkish STEM Expert (PhD) \u2014 AI Safety",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$30 - $34 / hr",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote \u2014 MENA preferred",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGooQsEAmK1CcHpFAaCM/bilingual-turkish-stem-expert-phd-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGooQsEAmK1CcHpFAaCM&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGooQsEAmK1CcHpFAaCM",
-      "created_at": "2026-09-04T02:03:39"
-    },
-    {
       "id": "list_AAABoGooAs3CWs5MUptF8rRh",
       "title": "Bilingual Russian STEM Expert (PhD) \u2014 AI Safety",
       "domain": "Life, Physical, and Social Science",
@@ -2741,57 +2724,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGooAs3CWs5MUptF8rRh",
       "created_at": "2026-09-04T02:03:22"
-    },
-    {
-      "id": "list_AAABoGon4PfvcmZO7_tO-Y2-",
-      "title": "Bilingual Russian Generalist Expert \u2014 AI Safety",
-      "domain": "Miscellaneous",
-      "pay": "$38 - $42 / hr",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote \u2014 Eastern Europe preferred",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGon4PfvcmZO7_tO-Y2-/bilingual-russian-generalist-expert-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGon4PfvcmZO7_tO-Y2-&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGon4PfvcmZO7_tO-Y2-",
-      "created_at": "2026-09-04T02:03:14"
-    },
-    {
-      "id": "list_AAABoGonusqvafpPe0ZFgaWH",
-      "title": "Bilingual Polish STEM Expert (PhD) \u2014 AI Safety",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$50 - $54 / hr",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote \u2014 Eastern Europe preferred",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGonusqvafpPe0ZFgaWH/bilingual-polish-stem-expert-phd-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGonusqvafpPe0ZFgaWH&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGonusqvafpPe0ZFgaWH",
-      "created_at": "2026-09-04T02:03:04"
-    },
-    {
-      "id": "list_AAABoGonOrCV9mdgmSxBEJS5",
-      "title": "Bilingual Indonesian STEM Expert (PhD) \u2014 AI Safety",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$19 - $23 / hr",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote \u2014 Southeast Asia preferred",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGonOrCV9mdgmSxBEJS5/bilingual-indonesian-stem-expert-phd-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGonOrCV9mdgmSxBEJS5&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGonOrCV9mdgmSxBEJS5",
-      "created_at": "2026-09-04T02:02:31"
     },
     {
       "id": "list_AAABoGom9AgLA41IuM1LlZV0",
@@ -3032,25 +2964,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGiMT6K_w_9Sf8dGloOf",
       "created_at": "2026-09-03T18:33:41"
-    },
-    {
-      "id": "list_AAABoGiJLfnjasEiXatMCJlf",
-      "title": "Real Estate Practice Reviewer",
-      "domain": "Business Operations",
-      "pay": "$55 - $60 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGiJLfnjasEiXatMCJlf/real-estate-practice-reviewer?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGiJLfnjasEiXatMCJlf&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGiJLfnjasEiXatMCJlf",
-      "created_at": "2026-09-03T18:30:16"
     },
     {
       "id": "list_AAABoGhhxWgF7ygE2LZOgIy3",
@@ -3465,23 +3378,6 @@
       "created_at": "2026-08-28T22:17:17"
     },
     {
-      "id": "list_AAABoEnUuGFy6LPctnpJn5YU",
-      "title": "Spanish Learner",
-      "domain": "Language and Audio",
-      "pay": "$30 - $37 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoEnUuGFy6LPctnpJn5YU/spanish-learner?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoEnUuGFy6LPctnpJn5YU&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoEnUuGFy6LPctnpJn5YU",
-      "created_at": "2026-08-28T19:24:33"
-    },
-    {
       "id": "list_AAABoEkua7cfqnA6nQJO8pfj",
       "title": "Surety Underwriter",
       "domain": "Finance",
@@ -3579,23 +3475,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoEkkCQUpcxmBNbhA2LdS",
       "created_at": "2026-08-28T16:11:34"
-    },
-    {
-      "id": "list_AAABoEkE3Fx5nN65LndAloi6",
-      "title": "Spanish Tutors",
-      "domain": "Humanities",
-      "pay": "$60 - $65 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoEkE3Fx5nN65LndAloi6/spanish-tutors?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoEkE3Fx5nN65LndAloi6&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoEkE3Fx5nN65LndAloi6",
-      "created_at": "2026-08-28T15:37:30"
     },
     {
       "id": "list_AAABoDrYQdAJqq6xRalOo4e9",
@@ -3929,63 +3808,6 @@
       "created_at": "2026-08-22T12:41:47"
     },
     {
-      "id": "list_AAABoCWUQw5m1AlrVM1M-p7i",
-      "title": "Financial and Investment Analysts",
-      "domain": "Finance",
-      "pay": "$70 - $110 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoCWUQw5m1AlrVM1M-p7i/financial-and-investment-analysts?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCWUQw5m1AlrVM1M-p7i&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWUQw5m1AlrVM1M-p7i",
-      "created_at": "2026-08-21T18:27:48"
-    },
-    {
-      "id": "list_AAABoCWSTbhgejc0oLZDmbSP",
-      "title": "Financial Managers",
-      "domain": "Finance",
-      "pay": "$70 - $110 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoCWSTbhgejc0oLZDmbSP/financial-managers?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCWSTbhgejc0oLZDmbSP&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWSTbhgejc0oLZDmbSP",
-      "created_at": "2026-08-21T18:25:40"
-    },
-    {
-      "id": "list_AAABoCWQb4FmwzobPGdMDZ9E",
-      "title": "General and Operations Managers",
-      "domain": "Business Operations",
-      "pay": "$70 - $110 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoCWQb4FmwzobPGdMDZ9E/general-and-operations-managers?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCWQb4FmwzobPGdMDZ9E&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWQb4FmwzobPGdMDZ9E",
-      "created_at": "2026-08-21T18:23:37"
-    },
-    {
       "id": "list_AAABoBt9Gyyhs3BhJitBYYIf",
       "title": "Business & Sales Operations Domain Expert",
       "domain": "Business Operations",
@@ -4192,23 +4014,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn__WZShhSQKfvlJLs54R",
       "created_at": "2026-08-14T10:34:29"
-    },
-    {
-      "id": "list_AAABn_yKfqds5igulYhMdqS4",
-      "title": "Applied History & Political Science Benchmark Specialist",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$44 - $56 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn_yKfqds5igulYhMdqS4/applied-history-political-science-benchmark-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn_yKfqds5igulYhMdqS4&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn_yKfqds5igulYhMdqS4",
-      "created_at": "2026-08-13T19:12:43"
     },
     {
       "id": "list_AAABn_yIZR1__lQF4UFJWK4b",
@@ -6669,27 +6474,10 @@
       "created_at": "2026-03-12T21:39:08"
     },
     {
-      "id": "list_AAABnMGxTAHltg__YT9Cvpll",
-      "title": "Japanese Professional Voice Actor",
-      "domain": "Language and Audio",
-      "pay": "$40 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABnMGxTAHltg__YT9Cvpll/japanese-professional-voice-actor?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnMGxTAHltg__YT9Cvpll&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnMGxTAHltg__YT9Cvpll",
-      "created_at": "2026-03-06T05:49:07"
-    },
-    {
       "id": "list_AAABnMB3puxa1EtTnExL_6Va",
       "title": "French Professional Voice Actor",
       "domain": "Language and Audio",
-      "pay": "$45 - $225 / hr",
+      "pay": "$45 / hr",
       "commitment": "hourly",
       "tab": "project-based",
       "location": "Remote",
@@ -6706,7 +6494,7 @@
       "id": "list_AAABnL0gc9WpbcHgYspDGqSC",
       "title": "Mexican Spanish Professional Voice Actor",
       "domain": "Language and Audio",
-      "pay": "$35 - $175 / hr",
+      "pay": "$35 / hr",
       "commitment": "hourly",
       "tab": "project-based",
       "location": "Remote",
