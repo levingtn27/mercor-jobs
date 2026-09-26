@@ -1,7 +1,75 @@
 {
-  "updated_at": "2026-09-26T11:54:02.086002+00:00",
-  "total": 357,
+  "updated_at": "2026-09-26T17:36:23.194786+00:00",
+  "total": 374,
   "jobs": [
+    {
+      "id": "list_AAABoN3f7l-LB1Be6AdMFJqm",
+      "title": "Systems & Integration Engineering Experts",
+      "domain": "Other Engineering",
+      "pay": "$100 - $120 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoN3f7l-LB1Be6AdMFJqm/systems-integration-engineering-experts?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoN3f7l-LB1Be6AdMFJqm&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoN3f7l-LB1Be6AdMFJqm",
+      "created_at": "2026-09-26T13:20:35"
+    },
+    {
+      "id": "list_AAABoN3XEiwdzQPPxfdGkJ7M",
+      "title": "Software & Firmware Engineering Experts",
+      "domain": "Software Engineering",
+      "pay": "$100 - $120 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoN3XEiwdzQPPxfdGkJ7M/software-firmware-engineering-experts?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoN3XEiwdzQPPxfdGkJ7M&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoN3XEiwdzQPPxfdGkJ7M",
+      "created_at": "2026-09-26T13:10:55"
+    },
+    {
+      "id": "list_AAABoN3On6pC5dA5aDRBErDP",
+      "title": "Mechanical Engineering Experts",
+      "domain": "Other Engineering",
+      "pay": "$100 - $120 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoN3On6pC5dA5aDRBErDP/mechanical-engineering-experts?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoN3On6pC5dA5aDRBErDP&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoN3On6pC5dA5aDRBErDP",
+      "created_at": "2026-09-26T13:01:41"
+    },
+    {
+      "id": "list_AAABoN2AhG3DPZYg43dGFICd",
+      "title": "Electrical & Hardware Engineering Experts",
+      "domain": "Other Engineering",
+      "pay": "$100 - $120 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoN2AhG3DPZYg43dGFICd/electrical-hardware-engineering-experts?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoN2AhG3DPZYg43dGFICd&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoN2AhG3DPZYg43dGFICd",
+      "created_at": "2026-09-26T11:36:22"
+    },
     {
       "id": "list_AAABoNh6pneKJYR-IGNBcqWr",
       "title": "Senior Product Designer, UI/UX",
@@ -3455,7 +3523,7 @@
     {
       "id": "list_AAABoDrzM0tDu5h1kLlPKL7x",
       "title": "AI Safety Specialist",
-      "domain": "Data Analysis",
+      "domain": "Law",
       "pay": "$37 / hr",
       "commitment": "task-based",
       "tab": "project-based",
@@ -3582,6 +3650,25 @@
       "created_at": "2026-08-24T19:35:10"
     },
     {
+      "id": "list_AAABoDT_548oyfsZk-FIq7-W",
+      "title": "Computer and Information Systems Managers",
+      "domain": "Business Operations",
+      "pay": "$70 - $110 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoDT_548oyfsZk-FIq7-W/computer-and-information-systems-managers?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoDT_548oyfsZk-FIq7-W&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoDT_548oyfsZk-FIq7-W",
+      "created_at": "2026-08-24T18:19:41"
+    },
+    {
       "id": "list_AAABoCsHMxyMxKGdglJH5aMR",
       "title": "Material Science PhD Coding Experts",
       "domain": "Life, Physical, and Social Science",
@@ -3648,6 +3735,234 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCl905TW9jWTfs9Oh44S",
       "created_at": "2026-08-22T12:41:47"
+    },
+    {
+      "id": "list_AAABoCWcdRfMfHbtzjdKpL9-",
+      "title": "Compliance Officers",
+      "domain": "Law",
+      "pay": "$70 - $110 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoCWcdRfMfHbtzjdKpL9-/compliance-officers?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCWcdRfMfHbtzjdKpL9-&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWcdRfMfHbtzjdKpL9-",
+      "created_at": "2026-08-21T18:36:45"
+    },
+    {
+      "id": "list_AAABoCWbRrO5te8zK09LMLK-",
+      "title": "Industrial Engineers",
+      "domain": "Other Engineering",
+      "pay": "$70 - $110 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoCWbRrO5te8zK09LMLK-/industrial-engineers?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCWbRrO5te8zK09LMLK-&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWbRrO5te8zK09LMLK-",
+      "created_at": "2026-08-21T18:35:28"
+    },
+    {
+      "id": "list_AAABoCWaT-Nn5YtIt9tNC7Hh",
+      "title": "Medical and Health Services Managers",
+      "domain": "Business Operations",
+      "pay": "$70 - $110 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoCWaT-Nn5YtIt9tNC7Hh/medical-and-health-services-managers?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCWaT-Nn5YtIt9tNC7Hh&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWaT-Nn5YtIt9tNC7Hh",
+      "created_at": "2026-08-21T18:34:25"
+    },
+    {
+      "id": "list_AAABoCWZLgyS_XMeXVxE9pIU",
+      "title": "Nurse Practitioners",
+      "domain": "Medicine",
+      "pay": "$70 - $110 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoCWZLgyS_XMeXVxE9pIU/nurse-practitioners?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCWZLgyS_XMeXVxE9pIU&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWZLgyS_XMeXVxE9pIU",
+      "created_at": "2026-08-21T18:33:10"
+    },
+    {
+      "id": "list_AAABoCWYDMNhGrqsq-5IU6Eq",
+      "title": "Mechanical Engineers",
+      "domain": "Other Engineering",
+      "pay": "$70 - $110 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoCWYDMNhGrqsq-5IU6Eq/mechanical-engineers?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCWYDMNhGrqsq-5IU6Eq&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWYDMNhGrqsq-5IU6Eq",
+      "created_at": "2026-08-21T18:31:56"
+    },
+    {
+      "id": "list_AAABoCWWr6HmJrVOgcREqpk2",
+      "title": "Lawyers",
+      "domain": "Law",
+      "pay": "$70 - $110 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoCWWr6HmJrVOgcREqpk2/lawyers?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCWWr6HmJrVOgcREqpk2&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWWr6HmJrVOgcREqpk2",
+      "created_at": "2026-08-21T18:30:27"
+    },
+    {
+      "id": "list_AAABoCWVcMofSHRAcwdM2LBU",
+      "title": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+      "domain": "Business Operations",
+      "pay": "$70 - $110 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoCWVcMofSHRAcwdM2LBU/sales-representatives-wholesale-and-manufacturing-except-technical-and-scientific-products?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCWVcMofSHRAcwdM2LBU&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWVcMofSHRAcwdM2LBU",
+      "created_at": "2026-08-21T18:29:05"
+    },
+    {
+      "id": "list_AAABoCWUQw5m1AlrVM1M-p7i",
+      "title": "Financial and Investment Analysts",
+      "domain": "Finance",
+      "pay": "$70 - $110 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoCWUQw5m1AlrVM1M-p7i/financial-and-investment-analysts?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCWUQw5m1AlrVM1M-p7i&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWUQw5m1AlrVM1M-p7i",
+      "created_at": "2026-08-21T18:27:48"
+    },
+    {
+      "id": "list_AAABoCWSTbhgejc0oLZDmbSP",
+      "title": "Financial Managers",
+      "domain": "Finance",
+      "pay": "$70 - $110 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoCWSTbhgejc0oLZDmbSP/financial-managers?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCWSTbhgejc0oLZDmbSP&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWSTbhgejc0oLZDmbSP",
+      "created_at": "2026-08-21T18:25:40"
+    },
+    {
+      "id": "list_AAABoCWQb4FmwzobPGdMDZ9E",
+      "title": "General and Operations Managers",
+      "domain": "Business Operations",
+      "pay": "$70 - $110 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoCWQb4FmwzobPGdMDZ9E/general-and-operations-managers?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCWQb4FmwzobPGdMDZ9E&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWQb4FmwzobPGdMDZ9E",
+      "created_at": "2026-08-21T18:23:37"
+    },
+    {
+      "id": "list_AAABoCV6ZKL0cmUT7-BExqtw",
+      "title": "Project Management Specialists",
+      "domain": "Business Operations",
+      "pay": "$70 - $110 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoCV6ZKL0cmUT7-BExqtw/project-management-specialists?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCV6ZKL0cmUT7-BExqtw&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCV6ZKL0cmUT7-BExqtw",
+      "created_at": "2026-08-21T17:59:33"
+    },
+    {
+      "id": "list_AAABoCVpVbx3Il0MJIpLTKHA",
+      "title": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+      "domain": "Business Operations",
+      "pay": "$70 - $110 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoCVpVbx3Il0MJIpLTKHA/sales-representatives-wholesale-and-manufacturing-technical-and-scientific-products?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCVpVbx3Il0MJIpLTKHA&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCVpVbx3Il0MJIpLTKHA",
+      "created_at": "2026-08-21T17:40:55"
     },
     {
       "id": "list_AAABoBt9Gyyhs3BhJitBYYIf",
