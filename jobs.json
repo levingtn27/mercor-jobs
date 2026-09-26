@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T17:36:23.194786+00:00",
+  "updated_at": "2026-09-26T20:00:06.434030+00:00",
   "total": 374,
   "jobs": [
     {
@@ -260,6 +260,25 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoNLsLfvO46zBcIpE4ZlF",
       "created_at": "2026-09-24T10:18:08"
+    },
+    {
+      "id": "list_AAABoNEASAHvBkQQfdJC0ar3",
+      "title": "Securities, Commodities, and Financial Services Sales Agents",
+      "domain": "Finance",
+      "pay": "$70 - $110 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoNEASAHvBkQQfdJC0ar3/securities-commodities-and-financial-services-sales-agents?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoNEASAHvBkQQfdJC0ar3&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoNEASAHvBkQQfdJC0ar3",
+      "created_at": "2026-09-24T01:20:51"
     },
     {
       "id": "list_AAABoNB0XIYO9wcITgdLWrr3",
@@ -6226,23 +6245,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnOP9NgGZSJmIf4dF5rx2",
       "created_at": "2026-03-12T21:39:08"
-    },
-    {
-      "id": "list_AAABnMCrtsSIatLMMLND8KTc",
-      "title": "Hindi Professional Voice Actor",
-      "domain": "Language and Audio",
-      "pay": "$15 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABnMCrtsSIatLMMLND8KTc/hindi-professional-voice-actor?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnMCrtsSIatLMMLND8KTc&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnMCrtsSIatLMMLND8KTc",
-      "created_at": "2026-03-06T01:03:24"
     },
     {
       "id": "list_AAABnJ0Tj07Vgzf7imVMBZB6",
