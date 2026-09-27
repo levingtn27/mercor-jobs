@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-27T16:00:06.450569+00:00",
-  "total": 374,
+  "updated_at": "2026-09-27T20:00:07.260106+00:00",
+  "total": 373,
   "jobs": [
     {
       "id": "list_AAABoN-_LPytxeq_xJtDeYhr",
@@ -3307,23 +3307,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoF6Jhh_gEMICBt9PQoR0",
       "created_at": "2026-09-01T19:54:26"
-    },
-    {
-      "id": "list_AAABoFcZs9ZCx_Kw9NREGpBI",
-      "title": "Materials & Engineering Specialist",
-      "domain": "Other Engineering",
-      "pay": "$60 - $90 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoFcZs9ZCx_Kw9NREGpBI/materials-engineering-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoFcZs9ZCx_Kw9NREGpBI&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoFcZs9ZCx_Kw9NREGpBI",
-      "created_at": "2026-08-31T09:14:57"
     },
     {
       "id": "list_AAABoFcY8EKGD1geuEpN-Lqi",
