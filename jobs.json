@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T16:00:06.365299+00:00",
+  "updated_at": "2026-09-28T20:00:06.232370+00:00",
   "total": 373,
   "jobs": [
     {
@@ -767,26 +767,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoLBLyxtYgIe8NZNJkZaA",
       "created_at": "2026-09-17T16:55:52"
-    },
-    {
-      "id": "list_AAABoLBLph8Z1igmnmVD66c4",
-      "title": "Private Equity Associate \u2013 Infrastructure (US/UK)",
-      "domain": "Finance",
-      "pay": "$80 - $100 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "United States or United Kingdom (remote)",
-      "eligible": [
-        "USA",
-        "GBR"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoLBLph8Z1igmnmVD66c4/private-equity-associate-infrastructure-us-uk?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoLBLph8Z1igmnmVD66c4&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoLBLph8Z1igmnmVD66c4",
-      "created_at": "2026-09-17T16:55:43"
     },
     {
       "id": "list_AAABoKver4zykD33JeRD2YDT",
@@ -2961,6 +2941,23 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGoo3l5-iyoJ2QdMfKfq",
       "created_at": "2026-09-04T02:04:18"
+    },
+    {
+      "id": "list_AAABoGonOrCV9mdgmSxBEJS5",
+      "title": "Bilingual Indonesian STEM Expert (PhD) \u2014 AI Safety",
+      "domain": "Life, Physical, and Social Science",
+      "pay": "$19 - $23 / hr",
+      "commitment": "part-time",
+      "tab": "project-based",
+      "location": "Remote \u2014 Southeast Asia preferred",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoGonOrCV9mdgmSxBEJS5/bilingual-indonesian-stem-expert-phd-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGonOrCV9mdgmSxBEJS5&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGonOrCV9mdgmSxBEJS5",
+      "created_at": "2026-09-04T02:02:31"
     },
     {
       "id": "list_AAABoGolm5CWpzcwJl5F57V6",
