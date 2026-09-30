@@ -1,7 +1,45 @@
 {
-  "updated_at": "2026-09-29T20:00:06.201385+00:00",
-  "total": 358,
+  "updated_at": "2026-09-30T00:00:05.449335+00:00",
+  "total": 352,
   "jobs": [
+    {
+      "id": "list_AAABoO9-ZN2SY-OreZ1K5oxH",
+      "title": "Neurologists (MD/DO) \u2013 Paid Research Study (Migraine)",
+      "domain": "Medicine",
+      "pay": "$150 / hr",
+      "commitment": "task-based",
+      "tab": "project-based",
+      "location": "Remote (United States)",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoO9-ZN2SY-OreZ1K5oxH/neurologists-md-do-paid-research-study-migraine?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoO9-ZN2SY-OreZ1K5oxH&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoO9-ZN2SY-OreZ1K5oxH",
+      "created_at": "2026-09-29T23:27:13"
+    },
+    {
+      "id": "list_AAABoO94SrBCWFrRmM1A07Rq",
+      "title": "Urologists & Medical Oncologists (Prostate Cancer) \u2013 Paid Research Study",
+      "domain": "Medicine",
+      "pay": "$175 / hr",
+      "commitment": "task-based",
+      "tab": "project-based",
+      "location": "Remote (United States)",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoO94SrBCWFrRmM1A07Rq/urologists-medical-oncologists-prostate-cancer-paid-research-study?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoO94SrBCWFrRmM1A07Rq&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoO94SrBCWFrRmM1A07Rq",
+      "created_at": "2026-09-29T23:20:33"
+    },
     {
       "id": "list_AAABoOvIuKMeHSOvRRVIN53M",
       "title": "Auditor",
@@ -476,23 +514,6 @@
       "created_at": "2026-09-21T23:55:06"
     },
     {
-      "id": "list_AAABoMYTZMoA9n-S3ttLwqcq",
-      "title": "Insurance Actuarial Specialists",
-      "domain": "Finance",
-      "pay": "$80 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoMYTZMoA9n-S3ttLwqcq/insurance-actuarial-specialists?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoMYTZMoA9n-S3ttLwqcq&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoMYTZMoA9n-S3ttLwqcq",
-      "created_at": "2026-09-21T22:25:54"
-    },
-    {
       "id": "list_AAABoMYQ0qNlviukgg1BYo3b",
       "title": "Software Engineer Expert",
       "domain": "Software Engineering",
@@ -542,23 +563,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoMYLLjnYTu7guGBC84v6",
       "created_at": "2026-09-21T22:16:56"
-    },
-    {
-      "id": "list_AAABoMYK0t7PpErLlBZDmqd3",
-      "title": "Insurance Underwriting Specialists",
-      "domain": "Finance",
-      "pay": "$80 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoMYK0t7PpErLlBZDmqd3/insurance-underwriting-specialists?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoMYK0t7PpErLlBZDmqd3&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoMYK0t7PpErLlBZDmqd3",
-      "created_at": "2026-09-21T22:16:33"
     },
     {
       "id": "list_AAABoMYGCQn-i-aomjxI0rpw",
@@ -2570,25 +2574,6 @@
       "created_at": "2026-09-10T14:42:52"
     },
     {
-      "id": "list_AAABoIqHLogJb_4sGONOU6VZ",
-      "title": "Multilingual Outpatient Physician (MD) \u2014 Clinical Documentation & AI Evaluation",
-      "domain": "Medicine",
-      "pay": "$170 - $190 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoIqHLogJb_4sGONOU6VZ/multilingual-outpatient-physician-md-clinical-documentation-ai-evaluation?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoIqHLogJb_4sGONOU6VZ&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoIqHLogJb_4sGONOU6VZ",
-      "created_at": "2026-09-10T08:55:10"
-    },
-    {
       "id": "list_AAABoIcnmT3k_xSnNc9OZ7EN",
       "title": "Chemicals Safety for Redteaming",
       "domain": "Life, Physical, and Social Science",
@@ -3607,57 +3592,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoDT_548oyfsZk-FIq7-W",
       "created_at": "2026-08-24T18:19:41"
-    },
-    {
-      "id": "list_AAABoCsHMxyMxKGdglJH5aMR",
-      "title": "Material Science PhD Coding Experts",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$70 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoCsHMxyMxKGdglJH5aMR/material-science-phd-coding-experts?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCsHMxyMxKGdglJH5aMR&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCsHMxyMxKGdglJH5aMR",
-      "created_at": "2026-08-22T19:51:27"
-    },
-    {
-      "id": "list_AAABoCsEpVgw9J3DAXxPH6BU",
-      "title": "Biology PhD Coding Experts",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$70 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoCsEpVgw9J3DAXxPH6BU/biology-phd-coding-experts?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCsEpVgw9J3DAXxPH6BU&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCsEpVgw9J3DAXxPH6BU",
-      "created_at": "2026-08-22T19:48:40"
-    },
-    {
-      "id": "list_AAABoCsDEmSxlzTM0Z5BmaPQ",
-      "title": "Chemistry PhD Coding Experts",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$70 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoCsDEmSxlzTM0Z5BmaPQ/chemistry-phd-coding-experts?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCsDEmSxlzTM0Z5BmaPQ&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCsDEmSxlzTM0Z5BmaPQ",
-      "created_at": "2026-08-22T19:46:57"
     },
     {
       "id": "list_AAABoCl905TW9jWTfs9Oh44S",
@@ -5024,25 +4958,6 @@
       "created_at": "2026-07-28T12:35:21"
     },
     {
-      "id": "list_AAABn6eJ78USrtQ6MyRO1KxJ",
-      "title": "Medicare Advantage Members (Devoted Health) \u2013 Insight Study",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$120 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote (United States)",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn6eJ78USrtQ6MyRO1KxJ/medicare-advantage-members-devoted-health-insight-study?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn6eJ78USrtQ6MyRO1KxJ&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn6eJ78USrtQ6MyRO1KxJ",
-      "created_at": "2026-07-28T07:04:23"
-    },
-    {
       "id": "list_AAABn6cbz1DVowHS5z1HsIWl",
       "title": "Management Consultant Talent Network",
       "domain": "Business Operations",
@@ -5487,23 +5402,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnt-8MlDeId9gbqBF77Ec",
       "created_at": "2026-06-19T11:55:13"
-    },
-    {
-      "id": "list_AAABntuaT0FMXQxE29xCl5zb",
-      "title": "Financial Professional",
-      "domain": "Finance",
-      "pay": "$100 - $200 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABntuaT0FMXQxE29xCl5zb/financial-professional?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABntuaT0FMXQxE29xCl5zb&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABntuaT0FMXQxE29xCl5zb",
-      "created_at": "2026-06-18T16:39:44"
     },
     {
       "id": "list_AAABntuaNTXiEE0T4IZB8o2S",
