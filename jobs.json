@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T08:00:16.898178+00:00",
-  "total": 354,
+  "updated_at": "2026-09-30T12:00:05.352513+00:00",
+  "total": 353,
   "jobs": [
     {
       "id": "list_AAABoPDII7B-8WgpI_tO4YbK",
@@ -2952,23 +2952,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGooH80BbOEfTJlNVYkp",
       "created_at": "2026-09-04T02:03:30"
-    },
-    {
-      "id": "list_AAABoGolm5CWpzcwJl5F57V6",
-      "title": "Bilingual Portuguese STEM Expert (PhD) \u2014 AI Safety",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$50 - $54 / hr",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote \u2014 Western Europe preferred",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGolm5CWpzcwJl5F57V6/bilingual-portuguese-stem-expert-phd-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGolm5CWpzcwJl5F57V6&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGolm5CWpzcwJl5F57V6",
-      "created_at": "2026-09-04T02:00:45"
     },
     {
       "id": "list_AAABoGolFcf4EGaPYLlNLIS8",
