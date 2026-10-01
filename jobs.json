@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T12:00:05.621940+00:00",
-  "total": 331,
+  "updated_at": "2026-10-01T16:00:06.324351+00:00",
+  "total": 333,
   "jobs": [
     {
       "id": "list_AAABoPTEz86y9nW5ZppKFo4B",
@@ -2895,6 +2895,28 @@
       "created_at": "2026-09-02T03:23:22"
     },
     {
+      "id": "list_AAABoGAkZhPWPiQWt3lKTZZA",
+      "title": "PDF Annotation & Transcription Experts \u2013 Japanese",
+      "domain": "Language and Audio",
+      "pay": "$31 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "JPN",
+        "USA",
+        "CAN",
+        "GBR"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoGAkZhPWPiQWt3lKTZZA/pdf-annotation-transcription-experts-japanese?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGAkZhPWPiQWt3lKTZZA&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGAkZhPWPiQWt3lKTZZA",
+      "created_at": "2026-09-02T03:23:13"
+    },
+    {
       "id": "list_AAABoGAQfhxYOAZAd21EGaDv",
       "title": "PDF Annotation & Transcription Experts \u2013 Odiya",
       "domain": "Language and Audio",
@@ -4697,6 +4719,25 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn5fWWsFd-1_gtnNH_qia",
       "created_at": "2026-07-25T05:53:55"
+    },
+    {
+      "id": "list_AAABn5fKp0M0gzrmJ8pN_ZZO",
+      "title": "Pharmacist",
+      "domain": "Medicine",
+      "pay": "$70 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABn5fKp0M0gzrmJ8pN_ZZO/pharmacist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn5fKp0M0gzrmJ8pN_ZZO&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn5fKp0M0gzrmJ8pN_ZZO",
+      "created_at": "2026-07-25T05:41:09"
     },
     {
       "id": "list_AAABn2445JJgOdUpk4dC65kk",
