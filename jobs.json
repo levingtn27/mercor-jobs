@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T20:00:06.405794+00:00",
+  "updated_at": "2026-10-01T00:00:05.863287+00:00",
   "total": 346,
   "jobs": [
     {
@@ -3564,25 +3564,6 @@
       "created_at": "2026-08-21T18:33:10"
     },
     {
-      "id": "list_AAABoCWYDMNhGrqsq-5IU6Eq",
-      "title": "Mechanical Engineers",
-      "domain": "Other Engineering",
-      "pay": "$70 - $110 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoCWYDMNhGrqsq-5IU6Eq/mechanical-engineers?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCWYDMNhGrqsq-5IU6Eq&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWYDMNhGrqsq-5IU6Eq",
-      "created_at": "2026-08-21T18:31:56"
-    },
-    {
       "id": "list_AAABoCWWr6HmJrVOgcREqpk2",
       "title": "Lawyers",
       "domain": "Law",
@@ -5635,6 +5616,23 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnlNc5vKNKKMWYLxGQ7NX",
       "created_at": "2026-05-23T05:44:18"
+    },
+    {
+      "id": "list_AAABnkKfIa1n4GJSEKRIEqCQ",
+      "title": "STEM PhDs and Technical Domain Experts",
+      "domain": "Data Analysis",
+      "pay": "$55 - $80 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABnkKfIa1n4GJSEKRIEqCQ/stem-phds-and-technical-domain-experts?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnkKfIa1n4GJSEKRIEqCQ&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnkKfIa1n4GJSEKRIEqCQ",
+      "created_at": "2026-05-19T23:43:05"
     },
     {
       "id": "list_AAABnfiedfZUWZxgc0lLT79a",
