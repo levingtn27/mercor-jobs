@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T04:00:04.937183+00:00",
-  "total": 339,
+  "updated_at": "2026-10-01T08:00:05.969927+00:00",
+  "total": 331,
   "jobs": [
     {
       "id": "list_AAABoPTEz86y9nW5ZppKFo4B",
@@ -109,23 +109,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoO94SrBCWFrRmM1A07Rq",
       "created_at": "2026-09-29T23:20:33"
-    },
-    {
-      "id": "list_AAABoOvH6OmrG3_gclNDyZUg",
-      "title": "Legal Expert \u2014 Real Estate",
-      "domain": "Law",
-      "pay": "$120 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoOvH6OmrG3_gclNDyZUg/legal-expert-real-estate?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoOvH6OmrG3_gclNDyZUg&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoOvH6OmrG3_gclNDyZUg",
-      "created_at": "2026-09-29T06:09:02"
     },
     {
       "id": "list_AAABoOppU3x5v3XMbLRHP4rK",
@@ -3871,25 +3854,6 @@
       "created_at": "2026-08-12T23:23:30"
     },
     {
-      "id": "list_AAABn_eRV6pvGcNgaf1Ml6eM",
-      "title": "Visual Quality Expert (Film, VFX & Animation)",
-      "domain": "Arts & Design",
-      "pay": "$60 - $90 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote, United States (PST to EST hours)",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn_eRV6pvGcNgaf1Ml6eM/visual-quality-expert-film-vfx-animation?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn_eRV6pvGcNgaf1Ml6eM&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn_eRV6pvGcNgaf1Ml6eM",
-      "created_at": "2026-08-12T20:02:05"
-    },
-    {
       "id": "list_AAABn_cnGneX3MsXDwZIK5rB",
       "title": "Investment Banking & M&A - Finance Domain Expert",
       "domain": "Finance",
@@ -4032,44 +3996,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn_cBCuQM7WBSR_BNoqrS",
       "created_at": "2026-08-12T17:24:29"
-    },
-    {
-      "id": "list_AAABn_OGMHJsH_BxwWdHBb2O",
-      "title": "Enterprise Sales Domain Expert",
-      "domain": "Business Operations",
-      "pay": "$60 - $90 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "US Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn_OGMHJsH_BxwWdHBb2O/enterprise-sales-domain-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn_OGMHJsH_BxwWdHBb2O&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn_OGMHJsH_BxwWdHBb2O",
-      "created_at": "2026-08-12T01:11:25"
-    },
-    {
-      "id": "list_AAABn_KWz-kENVKtMexCTp41",
-      "title": "Character and Facial Animation Consultant",
-      "domain": "Arts & Design",
-      "pay": "$60 - $90 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Playa Vista, CA or New York, NY",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn_KWz-kENVKtMexCTp41/character-and-facial-animation-consultant?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn_KWz-kENVKtMexCTp41&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn_KWz-kENVKtMexCTp41",
-      "created_at": "2026-08-11T20:49:57"
     },
     {
       "id": "list_AAABn_Iz3TRXq5o1-J5Gdot8",
@@ -4625,25 +4551,6 @@
       "created_at": "2026-07-30T05:10:36"
     },
     {
-      "id": "list_AAABn6-FbUkEfuWP0o9Ax519",
-      "title": "Project Coordinator",
-      "domain": "Business Operations",
-      "pay": "$45 - $55 / hr",
-      "commitment": "full-time",
-      "tab": "project-based",
-      "location": "United States",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn6-FbUkEfuWP0o9Ax519/project-coordinator?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn6-FbUkEfuWP0o9Ax519&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn6-FbUkEfuWP0o9Ax519",
-      "created_at": "2026-07-29T20:16:24"
-    },
-    {
       "id": "list_AAABn6vGkxZngsMTe7xP7rqG",
       "title": "Data Scientist Talent Network",
       "domain": "Data Analysis",
@@ -5113,23 +5020,6 @@
       "created_at": "2026-06-19T11:55:13"
     },
     {
-      "id": "list_AAABntuaNTXiEE0T4IZB8o2S",
-      "title": "Lawyers",
-      "domain": "Law",
-      "pay": "$100 - $200 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABntuaNTXiEE0T4IZB8o2S/lawyers?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABntuaNTXiEE0T4IZB8o2S&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABntuaNTXiEE0T4IZB8o2S",
-      "created_at": "2026-06-18T16:39:37"
-    },
-    {
       "id": "list_AAABnr6UO2Q-_nQyuwJD6Ykq",
       "title": "Personalized Life Assistant Expert",
       "domain": "Life, Physical, and Social Science",
@@ -5147,23 +5037,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnr6UO2Q-_nQyuwJD6Ykq",
       "created_at": "2026-06-13T01:24:06"
-    },
-    {
-      "id": "list_AAABnpAtSArGUxb8oUFBsbI_",
-      "title": "AI Safety Experts \u2014 English & Urdu",
-      "domain": "Data Analysis",
-      "pay": "$16 - $22 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABnpAtSArGUxb8oUFBsbI_/ai-safety-experts-english-urdu?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnpAtSArGUxb8oUFBsbI_&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnpAtSArGUxb8oUFBsbI_",
-      "created_at": "2026-06-04T01:09:07"
     },
     {
       "id": "list_AAABnpArMaV3rY0o6SdM76o3",
@@ -5501,23 +5374,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnlNc5vKNKKMWYLxGQ7NX",
       "created_at": "2026-05-23T05:44:18"
-    },
-    {
-      "id": "list_AAABnkKfIa1n4GJSEKRIEqCQ",
-      "title": "STEM PhDs and Technical Domain Experts",
-      "domain": "Data Analysis",
-      "pay": "$55 - $80 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABnkKfIa1n4GJSEKRIEqCQ/stem-phds-and-technical-domain-experts?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnkKfIa1n4GJSEKRIEqCQ&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnkKfIa1n4GJSEKRIEqCQ",
-      "created_at": "2026-05-19T23:43:05"
     },
     {
       "id": "list_AAABnfiedfZUWZxgc0lLT79a",
