@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-10-01T00:00:05.863287+00:00",
-  "total": 346,
+  "updated_at": "2026-10-01T04:00:04.937183+00:00",
+  "total": 339,
   "jobs": [
+    {
+      "id": "list_AAABoPTEz86y9nW5ZppKFo4B",
+      "title": "Emergency Medicine Physician (MD)",
+      "domain": "Medicine",
+      "pay": "$150 - $170 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoPTEz86y9nW5ZppKFo4B/emergency-medicine-physician-md?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoPTEz86y9nW5ZppKFo4B&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoPTEz86y9nW5ZppKFo4B",
+      "created_at": "2026-10-01T00:02:14"
+    },
     {
       "id": "list_AAABoPJ_fWgrIgAI-ilEL5S3",
       "title": "Lean Engineer, Formal Mathematics (Lean 4, Mathlib, Theorem Proving)",
@@ -2659,23 +2678,6 @@
       "created_at": "2026-09-09T14:33:43"
     },
     {
-      "id": "list_AAABoGorD4_0Vf2K8rNDXaf6",
-      "title": "Bilingual Ukrainian STEM Expert (PhD) \u2014 AI Safety",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$48 - $52 / hr",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote \u2014 Eastern Europe preferred",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGorD4_0Vf2K8rNDXaf6/bilingual-ukrainian-stem-expert-phd-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGorD4_0Vf2K8rNDXaf6&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGorD4_0Vf2K8rNDXaf6",
-      "created_at": "2026-09-04T02:06:42"
-    },
-    {
       "id": "list_AAABoGoq3ncJjgsCnJNK0bGY",
       "title": "Bilingual Ukrainian Generalist Expert \u2014 AI Safety",
       "domain": "Miscellaneous",
@@ -2691,40 +2693,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGoq3ncJjgsCnJNK0bGY",
       "created_at": "2026-09-04T02:06:29"
-    },
-    {
-      "id": "list_AAABoGoqvGsyCypevb5Pma1q",
-      "title": "Bilingual Thai STEM Expert (PhD) \u2014 AI Safety",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$24 - $28 / hr",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote \u2014 Southeast Asia preferred",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGoqvGsyCypevb5Pma1q/bilingual-thai-stem-expert-phd-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGoqvGsyCypevb5Pma1q&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGoqvGsyCypevb5Pma1q",
-      "created_at": "2026-09-04T02:06:21"
-    },
-    {
-      "id": "list_AAABoGoqT80lMXZ4nKZMLKpa",
-      "title": "Bilingual Norwegian STEM Expert (PhD) \u2014 AI Safety",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$77 - $81 / hr",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote \u2014 Norway preferred",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGoqT80lMXZ4nKZMLKpa/bilingual-norwegian-stem-expert-phd-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGoqT80lMXZ4nKZMLKpa&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGoqT80lMXZ4nKZMLKpa",
-      "created_at": "2026-09-04T02:05:53"
     },
     {
       "id": "list_AAABoGoqKtveaq068PRM447F",
@@ -2744,23 +2712,6 @@
       "created_at": "2026-09-04T02:05:44"
     },
     {
-      "id": "list_AAABoGoqCzRBhnxDNLNLLprc",
-      "title": "Bilingual Finnish STEM Expert (PhD) \u2014 AI Safety",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$61 - $65 / hr",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote \u2014 Western Europe preferred",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGoqCzRBhnxDNLNLLprc/bilingual-finnish-stem-expert-phd-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGoqCzRBhnxDNLNLLprc&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGoqCzRBhnxDNLNLLprc",
-      "created_at": "2026-09-04T02:05:35"
-    },
-    {
       "id": "list_AAABoGop6k8mMtntLiREupRP",
       "title": "Bilingual Finnish Generalist Expert \u2014 AI Safety",
       "domain": "Miscellaneous",
@@ -2776,25 +2727,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGop6k8mMtntLiREupRP",
       "created_at": "2026-09-04T02:05:27"
-    },
-    {
-      "id": "list_AAABoGopz4HvwGs07r1BDIXr",
-      "title": "Bilingual Dutch (Belgium) STEM Expert (PhD) \u2014 AI Safety",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$61 - $65 / hr",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Belgium",
-      "eligible": [
-        "BEL"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGopz4HvwGs07r1BDIXr/bilingual-dutch-belgium-stem-expert-phd-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGopz4HvwGs07r1BDIXr&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGopz4HvwGs07r1BDIXr",
-      "created_at": "2026-09-04T02:05:20"
     },
     {
       "id": "list_AAABoGopY_i3_FUE_eFDKYKk",
@@ -2814,40 +2746,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGopY_i3_FUE_eFDKYKk",
       "created_at": "2026-09-04T02:04:53"
-    },
-    {
-      "id": "list_AAABoGopTmNgRzvyoYtJm6fQ",
-      "title": "Bilingual Danish STEM Expert (PhD) \u2014 AI Safety",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$61 - $65 / hr",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote \u2014 Western Europe preferred",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGopTmNgRzvyoYtJm6fQ/bilingual-danish-stem-expert-phd-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGopTmNgRzvyoYtJm6fQ&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGopTmNgRzvyoYtJm6fQ",
-      "created_at": "2026-09-04T02:04:47"
-    },
-    {
-      "id": "list_AAABoGopBgYxYIsDwzhBg58x",
-      "title": "Bilingual Croatian STEM Expert (PhD) \u2014 AI Safety",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$48 - $52 / hr",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote \u2014 Eastern Europe preferred",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGopBgYxYIsDwzhBg58x/bilingual-croatian-stem-expert-phd-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGopBgYxYIsDwzhBg58x&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGopBgYxYIsDwzhBg58x",
-      "created_at": "2026-09-04T02:04:29"
     },
     {
       "id": "list_AAABoGoo3l5-iyoJ2QdMfKfq",
@@ -2882,23 +2780,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGooH80BbOEfTJlNVYkp",
       "created_at": "2026-09-04T02:03:30"
-    },
-    {
-      "id": "list_AAABoGolFcf4EGaPYLlNLIS8",
-      "title": "Bilingual Korean STEM Expert (PhD) \u2014 AI Safety",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$63 - $67 / hr",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote \u2014 East Asia preferred",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGolFcf4EGaPYLlNLIS8/bilingual-korean-stem-expert-phd-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGolFcf4EGaPYLlNLIS8&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGolFcf4EGaPYLlNLIS8",
-      "created_at": "2026-09-04T02:00:10"
     },
     {
       "id": "list_AAABoGoitTOPJMQxfvRLMbSI",
@@ -4843,7 +4724,11 @@
       "tab": "project-based",
       "location": "Remote",
       "eligible": [
-        "USA"
+        "USA",
+        "GBR",
+        "CAN",
+        "AUS",
+        "NZL"
       ],
       "hired_count": null,
       "is_new": true,
