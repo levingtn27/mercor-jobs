@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-10-02T16:00:05.922535+00:00",
-  "total": 316,
+  "updated_at": "2026-10-02T20:00:06.025963+00:00",
+  "total": 317,
   "jobs": [
+    {
+      "id": "list_AAABoP3B8SkA4VcfExhLrYa3",
+      "title": "Behavioral Health Expert, AI Safety and Model Evaluation",
+      "domain": "Life, Physical, and Social Science",
+      "pay": "$45 - $70 / hr",
+      "commitment": "part-time",
+      "tab": "project-based",
+      "location": "United States",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoP3B8SkA4VcfExhLrYa3/behavioral-health-expert-ai-safety-and-model-evaluation?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoP3B8SkA4VcfExhLrYa3&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoP3B8SkA4VcfExhLrYa3",
+      "created_at": "2026-10-02T17:55:41"
+    },
     {
       "id": "list_AAABoPZg1QTdDCv7EsVGvoqf",
       "title": "Baseball Fan \u2013 Live MLB Game AI Evaluator (US)",
@@ -90,25 +109,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoPCke-s0JMTy24RAioi9",
       "created_at": "2026-09-30T04:48:27"
-    },
-    {
-      "id": "list_AAABoO9-ZN2SY-OreZ1K5oxH",
-      "title": "Neurologists (MD/DO) \u2013 Paid Research Study (Migraine)",
-      "domain": "Medicine",
-      "pay": "$150 / hr",
-      "commitment": "task-based",
-      "tab": "project-based",
-      "location": "Remote (United States)",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoO9-ZN2SY-OreZ1K5oxH/neurologists-md-do-paid-research-study-migraine?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoO9-ZN2SY-OreZ1K5oxH&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoO9-ZN2SY-OreZ1K5oxH",
-      "created_at": "2026-09-29T23:27:13"
     },
     {
       "id": "list_AAABoO94SrBCWFrRmM1A07Rq",
@@ -2506,6 +2506,23 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGoq3ncJjgsCnJNK0bGY",
       "created_at": "2026-09-04T02:06:29"
+    },
+    {
+      "id": "list_AAABoGoqvGsyCypevb5Pma1q",
+      "title": "Bilingual Thai STEM Expert (PhD) \u2014 AI Safety",
+      "domain": "Life, Physical, and Social Science",
+      "pay": "$24 - $28 / hr",
+      "commitment": "part-time",
+      "tab": "project-based",
+      "location": "Remote \u2014 Southeast Asia preferred",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoGoqvGsyCypevb5Pma1q/bilingual-thai-stem-expert-phd-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGoqvGsyCypevb5Pma1q&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGoqvGsyCypevb5Pma1q",
+      "created_at": "2026-09-04T02:06:21"
     },
     {
       "id": "list_AAABoGoqKtveaq068PRM447F",
