@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T04:00:05.666982+00:00",
-  "total": 319,
+  "updated_at": "2026-10-03T08:00:05.749868+00:00",
+  "total": 316,
   "jobs": [
     {
       "id": "list_AAABoP7zQyYkhVTS2sBLR5bK",
@@ -3660,23 +3660,6 @@
       "created_at": "2026-08-13T19:10:00"
     },
     {
-      "id": "list_AAABn_wL0VJzHS7tVYNPVJ52",
-      "title": "Generalist Expert (UK/Europe)",
-      "domain": "Miscellaneous",
-      "pay": "$50 - $70 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn_wL0VJzHS7tVYNPVJ52/generalist-expert-uk-europe?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn_wL0VJzHS7tVYNPVJ52&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn_wL0VJzHS7tVYNPVJ52",
-      "created_at": "2026-08-13T16:54:21"
-    },
-    {
       "id": "list_AAABn_hhrTE1vz-dk6ZLW7ot",
       "title": "Generalist Search Expert",
       "domain": "Humanities",
@@ -3891,23 +3874,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn_IzT2flOAEpVdlGZ7p2",
       "created_at": "2026-08-11T19:01:17"
-    },
-    {
-      "id": "list_AAABn-6oGNFXnUAaNf5Cnp1f",
-      "title": "Senior Design Expert - Paid AI Design Research Study",
-      "domain": "Arts & Design",
-      "pay": "$150 - $250 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn-6oGNFXnUAaNf5Cnp1f/senior-design-expert-paid-ai-design-research-study?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn-6oGNFXnUAaNf5Cnp1f&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn-6oGNFXnUAaNf5Cnp1f",
-      "created_at": "2026-08-11T02:30:22"
     },
     {
       "id": "list_AAABn-4PicfjeenulMRFuZPZ",
@@ -5227,23 +5193,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnfiedfZUWZxgc0lLT79a",
       "created_at": "2026-05-05T14:50:27"
-    },
-    {
-      "id": "list_AAABneUZLDuzTnVTY75GrKTO",
-      "title": "Professional Design Experts",
-      "domain": "Arts & Design",
-      "pay": "$80 - $180 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABneUZLDuzTnVTY75GrKTO/professional-design-experts?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABneUZLDuzTnVTY75GrKTO&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABneUZLDuzTnVTY75GrKTO",
-      "created_at": "2026-05-01T19:52:05"
     },
     {
       "id": "list_AAABnQw10KNPyjduO8lAFo-e",
