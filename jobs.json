@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-10-03T16:00:06.303121+00:00",
-  "total": 318,
+  "updated_at": "2026-10-03T20:00:06.182010+00:00",
+  "total": 319,
   "jobs": [
+    {
+      "id": "list_AAABoQMZF0hsBewKgBRLHYYt",
+      "title": "Multimodal Image Expert",
+      "domain": "Arts & Design",
+      "pay": "$30 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoQMZF0hsBewKgBRLHYYt/multimodal-image-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoQMZF0hsBewKgBRLHYYt&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoQMZF0hsBewKgBRLHYYt",
+      "created_at": "2026-10-03T18:48:58"
+    },
     {
       "id": "list_AAABoP7zQyYkhVTS2sBLR5bK",
       "title": "STEM Expert Task Pilot",
