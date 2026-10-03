@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-10-02T20:00:06.025963+00:00",
-  "total": 317,
+  "updated_at": "2026-10-03T00:00:05.922414+00:00",
+  "total": 320,
   "jobs": [
+    {
+      "id": "list_AAABoP45Rv7xHNa1xtpEZ7nZ",
+      "title": "Task Writer: Project Agentic-MME",
+      "domain": "Miscellaneous",
+      "pay": "$60 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoP45Rv7xHNa1xtpEZ7nZ/task-writer-project-agentic-mme?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoP45Rv7xHNa1xtpEZ7nZ&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoP45Rv7xHNa1xtpEZ7nZ",
+      "created_at": "2026-10-02T20:06:02"
+    },
     {
       "id": "list_AAABoP3B8SkA4VcfExhLrYa3",
       "title": "Behavioral Health Expert, AI Safety and Model Evaluation",
@@ -5200,6 +5217,23 @@
       "created_at": "2026-05-23T05:44:18"
     },
     {
+      "id": "list_AAABnkKfIa1n4GJSEKRIEqCQ",
+      "title": "STEM PhDs and Technical Domain Experts",
+      "domain": "Data Analysis",
+      "pay": "$55 - $80 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABnkKfIa1n4GJSEKRIEqCQ/stem-phds-and-technical-domain-experts?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnkKfIa1n4GJSEKRIEqCQ&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnkKfIa1n4GJSEKRIEqCQ",
+      "created_at": "2026-05-19T23:43:05"
+    },
+    {
       "id": "list_AAABnfiedfZUWZxgc0lLT79a",
       "title": "Customer Success Engineer (LatAm)",
       "domain": "Software Engineering",
@@ -5648,6 +5682,23 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnHwUEBQJcy230-lMq6-9",
       "created_at": "2026-02-20T17:23:36"
+    },
+    {
+      "id": "list_AAABnDc53yqj2XaoeQtKIpJU",
+      "title": "Generalist",
+      "domain": "Miscellaneous",
+      "pay": "$22 - $27 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABnDc53yqj2XaoeQtKIpJU/generalist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnDc53yqj2XaoeQtKIpJU&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnDc53yqj2XaoeQtKIpJU",
+      "created_at": "2026-02-07T08:31:06"
     },
     {
       "id": "list_AAABm9Edxc-X1o57aoNE9Ylz",
