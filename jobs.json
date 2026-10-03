@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-10-03T00:00:05.922414+00:00",
-  "total": 320,
+  "updated_at": "2026-10-03T04:00:05.666982+00:00",
+  "total": 319,
   "jobs": [
+    {
+      "id": "list_AAABoP7zQyYkhVTS2sBLR5bK",
+      "title": "STEM Expert Task Pilot",
+      "domain": "Life, Physical, and Social Science",
+      "pay": "$2.0K / hr",
+      "commitment": "task-based",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoP7zQyYkhVTS2sBLR5bK/stem-expert-task-pilot?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoP7zQyYkhVTS2sBLR5bK&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoP7zQyYkhVTS2sBLR5bK",
+      "created_at": "2026-10-02T23:29:10"
+    },
     {
       "id": "list_AAABoP45Rv7xHNa1xtpEZ7nZ",
       "title": "Task Writer: Project Agentic-MME",
@@ -148,7 +165,7 @@
     },
     {
       "id": "list_AAABoOppU3x5v3XMbLRHP4rK",
-      "title": "Economics Research Expert",
+      "title": "Senior Economics Research Expert",
       "domain": "Life, Physical, and Social Science",
       "pay": "$120 - $150 / hr",
       "commitment": "hourly",
@@ -158,7 +175,7 @@
       "hired_count": null,
       "is_new": true,
       "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoOppU3x5v3XMbLRHP4rK/economics-research-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoOppU3x5v3XMbLRHP4rK&utm_medium=direct&utm_source=referral",
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoOppU3x5v3XMbLRHP4rK/senior-economics-research-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoOppU3x5v3XMbLRHP4rK&utm_medium=direct&utm_source=referral",
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoOppU3x5v3XMbLRHP4rK",
       "created_at": "2026-09-28T23:46:06"
@@ -2525,23 +2542,6 @@
       "created_at": "2026-09-04T02:06:29"
     },
     {
-      "id": "list_AAABoGoqvGsyCypevb5Pma1q",
-      "title": "Bilingual Thai STEM Expert (PhD) \u2014 AI Safety",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$24 - $28 / hr",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote \u2014 Southeast Asia preferred",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGoqvGsyCypevb5Pma1q/bilingual-thai-stem-expert-phd-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGoqvGsyCypevb5Pma1q&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGoqvGsyCypevb5Pma1q",
-      "created_at": "2026-09-04T02:06:21"
-    },
-    {
       "id": "list_AAABoGoqKtveaq068PRM447F",
       "title": "Bilingual Norwegian Generalist Expert \u2014 AI Safety",
       "domain": "Miscellaneous",
@@ -2735,28 +2735,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGQSNXPZAh8oJJFO-Z0n",
       "created_at": "2026-09-02T21:41:50"
-    },
-    {
-      "id": "list_AAABoGAkiMm1pHEH5l1GVbdH",
-      "title": "PDF Annotation & Transcription Experts \u2013 Korean",
-      "domain": "Language and Audio",
-      "pay": "$31 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "KOR",
-        "USA",
-        "CAN",
-        "GBR"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGAkiMm1pHEH5l1GVbdH/pdf-annotation-transcription-experts-korean?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGAkiMm1pHEH5l1GVbdH&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGAkiMm1pHEH5l1GVbdH",
-      "created_at": "2026-09-02T03:23:22"
     },
     {
       "id": "list_AAABoGAkZhPWPiQWt3lKTZZA",
