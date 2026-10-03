@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T12:00:05.917907+00:00",
-  "total": 319,
+  "updated_at": "2026-10-03T16:00:06.303121+00:00",
+  "total": 318,
   "jobs": [
     {
       "id": "list_AAABoP7zQyYkhVTS2sBLR5bK",
@@ -5710,23 +5710,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnHwUEBQJcy230-lMq6-9",
       "created_at": "2026-02-20T17:23:36"
-    },
-    {
-      "id": "list_AAABnDc53yqj2XaoeQtKIpJU",
-      "title": "Generalist",
-      "domain": "Miscellaneous",
-      "pay": "$22 - $27 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABnDc53yqj2XaoeQtKIpJU/generalist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnDc53yqj2XaoeQtKIpJU&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnDc53yqj2XaoeQtKIpJU",
-      "created_at": "2026-02-07T08:31:06"
     },
     {
       "id": "list_AAABm9Edxc-X1o57aoNE9Ylz",
