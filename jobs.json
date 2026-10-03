@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T08:00:05.749868+00:00",
-  "total": 316,
+  "updated_at": "2026-10-03T12:00:05.917907+00:00",
+  "total": 319,
   "jobs": [
     {
       "id": "list_AAABoP7zQyYkhVTS2sBLR5bK",
@@ -2759,25 +2759,6 @@
       "created_at": "2026-09-02T03:23:13"
     },
     {
-      "id": "list_AAABoGAQfhxYOAZAd21EGaDv",
-      "title": "PDF Annotation & Transcription Experts \u2013 Odiya",
-      "domain": "Language and Audio",
-      "pay": "$10 - $11 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "IND"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGAQfhxYOAZAd21EGaDv/pdf-annotation-transcription-experts-odiya?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGAQfhxYOAZAd21EGaDv&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGAQfhxYOAZAd21EGaDv",
-      "created_at": "2026-09-02T03:01:28"
-    },
-    {
       "id": "list_AAABoGAQVAqOlMhVPlVA36qk",
       "title": "PDF Annotation & Transcription Experts \u2013 Malayalam",
       "domain": "Language and Audio",
@@ -3070,6 +3051,39 @@
       "created_at": "2026-08-28T19:24:33"
     },
     {
+      "id": "list_AAABoEkkCQUpcxmBNbhA2LdS",
+      "title": "Life & Annuity Specialist",
+      "domain": "Finance",
+      "pay": "$80 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote - United States, Canada, or United Kingdom",
+      "eligible": [
+        "USA",
+        "CAN",
+        "GBR",
+        "AUS",
+        "NZL",
+        "IRL",
+        "MLT",
+        "NLD",
+        "SWE",
+        "DNK",
+        "NOR",
+        "FIN",
+        "DEU",
+        "AUT",
+        "BEL"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoEkkCQUpcxmBNbhA2LdS/life-annuity-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoEkkCQUpcxmBNbhA2LdS&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoEkkCQUpcxmBNbhA2LdS",
+      "created_at": "2026-08-28T16:11:34"
+    },
+    {
       "id": "list_AAABoEkE3Fx5nN65LndAloi6",
       "title": "Spanish Tutors",
       "domain": "Humanities",
@@ -3163,6 +3177,39 @@
       "created_at": "2026-08-25T21:19:58"
     },
     {
+      "id": "list_AAABoDqT-fFk8Q_QPjlNk6CW",
+      "title": "Reinsurance & Program Business Specialist",
+      "domain": "Finance",
+      "pay": "$80 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote - United States, Canada, or United Kingdom",
+      "eligible": [
+        "USA",
+        "CAN",
+        "GBR",
+        "AUS",
+        "NZL",
+        "IRL",
+        "MLT",
+        "NLD",
+        "SWE",
+        "DNK",
+        "NOR",
+        "FIN",
+        "DEU",
+        "AUT",
+        "BEL"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoDqT-fFk8Q_QPjlNk6CW/reinsurance-program-business-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoDqT-fFk8Q_QPjlNk6CW&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoDqT-fFk8Q_QPjlNk6CW",
+      "created_at": "2026-08-25T20:19:31"
+    },
+    {
       "id": "list_AAABoDqSlwwRWmQrkTVBWJbl",
       "title": "Senior Multiline Claims Examiner",
       "domain": "Miscellaneous",
@@ -3194,6 +3241,60 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoDqSlwwRWmQrkTVBWJbl",
       "created_at": "2026-08-25T20:18:01"
+    },
+    {
+      "id": "list_AAABoDqSRnKpi5jNXhdLjLoU",
+      "title": "Policy Administration & Insurance Operations Manager",
+      "domain": "Business Operations",
+      "pay": "$80 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote - United States, Canada, or United Kingdom",
+      "eligible": [
+        "USA",
+        "CAN",
+        "GBR",
+        "AUS",
+        "NZL",
+        "IRL",
+        "MLT",
+        "NLD",
+        "SWE",
+        "DNK",
+        "NOR",
+        "FIN",
+        "DEU",
+        "AUT",
+        "BEL"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoDqSRnKpi5jNXhdLjLoU/policy-administration-insurance-operations-manager?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoDqSRnKpi5jNXhdLjLoU&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoDqSRnKpi5jNXhdLjLoU",
+      "created_at": "2026-08-25T20:17:40"
+    },
+    {
+      "id": "list_AAABoDqR9Ga0wprP-cBJ5IMJ",
+      "title": "Multiline P&C Underwriter",
+      "domain": "Finance",
+      "pay": "$80 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote - United States, Canada, or United Kingdom",
+      "eligible": [
+        "USA",
+        "CAN",
+        "GBR"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoDqR9Ga0wprP-cBJ5IMJ/multiline-p-c-underwriter?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoDqR9Ga0wprP-cBJ5IMJ&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoDqR9Ga0wprP-cBJ5IMJ",
+      "created_at": "2026-08-25T20:17:19"
     },
     {
       "id": "list_AAABoDaJyTMiOtlXq15DFq6-",
