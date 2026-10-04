@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-04T16:00:06.282967+00:00",
-  "total": 315,
+  "updated_at": "2026-10-04T20:00:05.419821+00:00",
+  "total": 314,
   "jobs": [
     {
       "id": "list_AAABoQMZF0hsBewKgBRLHYYt",
@@ -2979,23 +2979,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoEpy3lTX4ecyqy9GZ6_u",
       "created_at": "2026-08-28T22:17:17"
-    },
-    {
-      "id": "list_AAABoEnUuGFy6LPctnpJn5YU",
-      "title": "Spanish Learner",
-      "domain": "Language and Audio",
-      "pay": "$30 - $37 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoEnUuGFy6LPctnpJn5YU/spanish-learner?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoEnUuGFy6LPctnpJn5YU&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoEnUuGFy6LPctnpJn5YU",
-      "created_at": "2026-08-28T19:24:33"
     },
     {
       "id": "list_AAABoEkkCQUpcxmBNbhA2LdS",
