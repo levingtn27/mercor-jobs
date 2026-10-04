@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-04T04:00:05.876187+00:00",
-  "total": 316,
+  "updated_at": "2026-10-04T08:00:05.960221+00:00",
+  "total": 315,
   "jobs": [
     {
       "id": "list_AAABoQMZF0hsBewKgBRLHYYt",
@@ -37,25 +37,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoP3B8SkA4VcfExhLrYa3",
       "created_at": "2026-10-02T17:55:41"
-    },
-    {
-      "id": "list_AAABoPZg1QTdDCv7EsVGvoqf",
-      "title": "Baseball Fan \u2013 Live MLB Game AI Evaluator (US)",
-      "domain": "Miscellaneous",
-      "pay": "$100 - $120 / hr",
-      "commitment": "task-based",
-      "tab": "project-based",
-      "location": "Remote (United States)",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoPZg1QTdDCv7EsVGvoqf/baseball-fan-live-mlb-game-ai-evaluator-us?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoPZg1QTdDCv7EsVGvoqf&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoPZg1QTdDCv7EsVGvoqf",
-      "created_at": "2026-10-01T07:32:16"
     },
     {
       "id": "list_AAABoPTEz86y9nW5ZppKFo4B",
