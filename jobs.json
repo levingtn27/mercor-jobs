@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T20:00:06.182010+00:00",
-  "total": 319,
+  "updated_at": "2026-10-04T00:00:05.409254+00:00",
+  "total": 317,
   "jobs": [
     {
       "id": "list_AAABoQMZF0hsBewKgBRLHYYt",
@@ -18,23 +18,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoQMZF0hsBewKgBRLHYYt",
       "created_at": "2026-10-03T18:48:58"
-    },
-    {
-      "id": "list_AAABoP7zQyYkhVTS2sBLR5bK",
-      "title": "STEM Expert Task Pilot",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$2.0K / hr",
-      "commitment": "task-based",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoP7zQyYkhVTS2sBLR5bK/stem-expert-task-pilot?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoP7zQyYkhVTS2sBLR5bK&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoP7zQyYkhVTS2sBLR5bK",
-      "created_at": "2026-10-02T23:29:10"
     },
     {
       "id": "list_AAABoP45Rv7xHNa1xtpEZ7nZ",
@@ -184,7 +167,7 @@
       "id": "list_AAABoOppU3x5v3XMbLRHP4rK",
       "title": "Senior Economics Research Expert",
       "domain": "Life, Physical, and Social Science",
-      "pay": "$120 - $150 / hr",
+      "pay": "$150 - $250 / hr",
       "commitment": "hourly",
       "tab": "project-based",
       "location": "Remote",
@@ -618,23 +601,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoMYLLjnYTu7guGBC84v6",
       "created_at": "2026-09-21T22:16:56"
-    },
-    {
-      "id": "list_AAABoMYGCQn-i-aomjxI0rpw",
-      "title": "Management Consulting Expert",
-      "domain": "Business Operations",
-      "pay": "$100 - $150 / hr",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoMYGCQn-i-aomjxI0rpw/management-consulting-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoMYGCQn-i-aomjxI0rpw&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoMYGCQn-i-aomjxI0rpw",
-      "created_at": "2026-09-21T22:11:19"
     },
     {
       "id": "list_AAABoLisIUHmi29LQupO77BO",
