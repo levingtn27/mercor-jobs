@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-05T17:48:48.088766+00:00",
-  "total": 316,
+  "updated_at": "2026-10-05T20:00:06.493904+00:00",
+  "total": 314,
   "jobs": [
     {
       "id": "list_AAABoQMZF0hsBewKgBRLHYYt",
@@ -3000,26 +3000,6 @@
       "created_at": "2026-09-04T02:04:53"
     },
     {
-      "id": "list_AAABoGopTmNgRzvyoYtJm6fQ",
-      "title": "Bilingual Danish STEM Expert (PhD) \u2014 AI Safety",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$61 - $65 / hr",
-      "pay_min": 61.0,
-      "pay_max": 65.0,
-      "pay_unit": "hour",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote \u2014 Western Europe preferred",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGopTmNgRzvyoYtJm6fQ/bilingual-danish-stem-expert-phd-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGopTmNgRzvyoYtJm6fQ&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGopTmNgRzvyoYtJm6fQ",
-      "created_at": "2026-09-04T02:04:47"
-    },
-    {
       "id": "list_AAABoGoo3l5-iyoJ2QdMfKfq",
       "title": "Bilingual Croatian Generalist Expert \u2014 AI Safety",
       "domain": "Miscellaneous",
@@ -3253,28 +3233,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoF__GX9ydZzPYZ9PNYAt",
       "created_at": "2026-09-02T02:42:28"
-    },
-    {
-      "id": "list_AAABoF_qSyGoO9IK3gJCz6e2",
-      "title": "PDF Annotation & Transcription Experts \u2013 Bengali",
-      "domain": "Miscellaneous",
-      "pay": "$10 - $11 / hr",
-      "pay_min": 10.0,
-      "pay_max": 11.0,
-      "pay_unit": "hour",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "IND"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoF_qSyGoO9IK3gJCz6e2/pdf-annotation-transcription-experts-bengali?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoF_qSyGoO9IK3gJCz6e2&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoF_qSyGoO9IK3gJCz6e2",
-      "created_at": "2026-09-02T02:19:45"
     },
     {
       "id": "list_AAABoF6Jhh_gEMICBt9PQoR0",
