@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-04T20:00:05.419821+00:00",
-  "total": 314,
+  "updated_at": "2026-10-05T00:00:05.928830+00:00",
+  "total": 315,
   "jobs": [
     {
       "id": "list_AAABoQMZF0hsBewKgBRLHYYt",
@@ -4439,6 +4439,25 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn6i483EoSNpFPh1PSKFO",
       "created_at": "2026-07-28T12:35:21"
+    },
+    {
+      "id": "list_AAABn6eJ78USrtQ6MyRO1KxJ",
+      "title": "Medicare Advantage Members (Devoted Health) \u2013 Insight Study",
+      "domain": "Life, Physical, and Social Science",
+      "pay": "$120 / hr",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote (United States)",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABn6eJ78USrtQ6MyRO1KxJ/medicare-advantage-members-devoted-health-insight-study?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn6eJ78USrtQ6MyRO1KxJ&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn6eJ78USrtQ6MyRO1KxJ",
+      "created_at": "2026-07-28T07:04:23"
     },
     {
       "id": "list_AAABn6cbz1DVowHS5z1HsIWl",
