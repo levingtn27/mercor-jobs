@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T20:00:06.493904+00:00",
+  "updated_at": "2026-10-06T00:00:05.143011+00:00",
   "total": 314,
   "jobs": [
     {
@@ -5260,6 +5260,26 @@
       "created_at": "2026-07-26T00:12:45"
     },
     {
+      "id": "list_AAABn5VZd-pn1Ae-osROeqoW",
+      "title": "STEM PhDs and Technical Domain Experts",
+      "domain": "Data Analysis",
+      "pay": "$60 - $120 / hr",
+      "pay_min": 60.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABn5VZd-pn1Ae-osROeqoW/stem-phds-and-technical-domain-experts?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn5VZd-pn1Ae-osROeqoW&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn5VZd-pn1Ae-osROeqoW",
+      "created_at": "2026-07-24T18:18:16"
+    },
+    {
       "id": "list_AAABn2445JJgOdUpk4dC65kk",
       "title": "Voice Actor: CX Agent Voice Cloning (African American)",
       "domain": "Language and Audio",
@@ -6031,26 +6051,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnlNc5vKNKKMWYLxGQ7NX",
       "created_at": "2026-05-23T05:44:18"
-    },
-    {
-      "id": "list_AAABnkKfIa1n4GJSEKRIEqCQ",
-      "title": "STEM PhDs and Technical Domain Experts",
-      "domain": "Data Analysis",
-      "pay": "$55 - $80 / hr",
-      "pay_min": 55.0,
-      "pay_max": 80.0,
-      "pay_unit": "hour",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABnkKfIa1n4GJSEKRIEqCQ/stem-phds-and-technical-domain-experts?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnkKfIa1n4GJSEKRIEqCQ&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnkKfIa1n4GJSEKRIEqCQ",
-      "created_at": "2026-05-19T23:43:05"
     },
     {
       "id": "list_AAABnfiedfZUWZxgc0lLT79a",
