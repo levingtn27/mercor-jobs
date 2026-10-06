@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T08:00:05.869112+00:00",
-  "total": 315,
+  "updated_at": "2026-10-06T12:00:05.256673+00:00",
+  "total": 312,
   "jobs": [
     {
       "id": "list_AAABoQ-cdi_vZ6xXGWdM4YRV",
@@ -667,26 +667,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoMZlDn5LJvVj3XBA3YGz",
       "created_at": "2026-09-21T23:55:06"
-    },
-    {
-      "id": "list_AAABoMYQ0qNlviukgg1BYo3b",
-      "title": "Software Engineer Expert",
-      "domain": "Software Engineering",
-      "pay": "$100 - $150 / hr",
-      "pay_min": 100.0,
-      "pay_max": 150.0,
-      "pay_unit": "hour",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoMYQ0qNlviukgg1BYo3b/software-engineer-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoMYQ0qNlviukgg1BYo3b&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoMYQ0qNlviukgg1BYo3b",
-      "created_at": "2026-09-21T22:23:06"
     },
     {
       "id": "list_AAABoMYOnfvwhSWfsFJBSaTQ",
@@ -3232,28 +3212,6 @@
       "created_at": "2026-09-02T21:41:50"
     },
     {
-      "id": "list_AAABoGAQVAqOlMhVPlVA36qk",
-      "title": "PDF Annotation & Transcription Experts \u2013 Malayalam",
-      "domain": "Language and Audio",
-      "pay": "$10 - $11 / hr",
-      "pay_min": 10.0,
-      "pay_max": 11.0,
-      "pay_unit": "hour",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "IND"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGAQVAqOlMhVPlVA36qk/pdf-annotation-transcription-experts-malayalam?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGAQVAqOlMhVPlVA36qk&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGAQVAqOlMhVPlVA36qk",
-      "created_at": "2026-09-02T03:01:17"
-    },
-    {
       "id": "list_AAABoF__GX9ydZzPYZ9PNYAt",
       "title": "PDF Annotation & Transcription Experts \u2013 Telugu",
       "domain": "Language and Audio",
@@ -4283,26 +4241,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoAA0CcB7r_IpsvtENYja",
       "created_at": "2026-08-14T12:16:45"
-    },
-    {
-      "id": "list_AAABn_yKs7zLvfVYPg5O87wF",
-      "title": "Applied Philosophy Benchmark Specialist",
-      "domain": "Humanities",
-      "pay": "$50 - $63 / hr",
-      "pay_min": 50.0,
-      "pay_max": 63.0,
-      "pay_unit": "hour",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn_yKs7zLvfVYPg5O87wF/applied-philosophy-benchmark-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn_yKs7zLvfVYPg5O87wF&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn_yKs7zLvfVYPg5O87wF",
-      "created_at": "2026-08-13T19:12:56"
     },
     {
       "id": "list_AAABn_yJR4hKB_2XSltNpq3n",
