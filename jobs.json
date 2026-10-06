@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T00:00:05.143011+00:00",
-  "total": 314,
+  "updated_at": "2026-10-06T04:00:05.644591+00:00",
+  "total": 312,
   "jobs": [
     {
       "id": "list_AAABoQMZF0hsBewKgBRLHYYt",
@@ -5178,28 +5178,6 @@
       "created_at": "2026-07-28T12:35:21"
     },
     {
-      "id": "list_AAABn6eJ78USrtQ6MyRO1KxJ",
-      "title": "Medicare Advantage Members (Devoted Health) \u2013 Insight Study",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$120 / hr",
-      "pay_min": 120.0,
-      "pay_max": 120.0,
-      "pay_unit": "hour",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote (United States)",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn6eJ78USrtQ6MyRO1KxJ/medicare-advantage-members-devoted-health-insight-study?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn6eJ78USrtQ6MyRO1KxJ&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn6eJ78USrtQ6MyRO1KxJ",
-      "created_at": "2026-07-28T07:04:23"
-    },
-    {
       "id": "list_AAABn6cbz1DVowHS5z1HsIWl",
       "title": "Management Consultant Talent Network",
       "domain": "Business Operations",
@@ -5660,26 +5638,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnr6UO2Q-_nQyuwJD6Ykq",
       "created_at": "2026-06-13T01:24:06"
-    },
-    {
-      "id": "list_AAABnpArMaV3rY0o6SdM76o3",
-      "title": "AI Safety Experts \u2014 English & Kannada",
-      "domain": "Miscellaneous",
-      "pay": "$16 - $22 / hr",
-      "pay_min": 16.0,
-      "pay_max": 22.0,
-      "pay_unit": "hour",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABnpArMaV3rY0o6SdM76o3/ai-safety-experts-english-kannada?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnpArMaV3rY0o6SdM76o3&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnpArMaV3rY0o6SdM76o3",
-      "created_at": "2026-06-04T01:06:50"
     },
     {
       "id": "list_AAABnpApucbJSHrM35xOZ5Bq",
