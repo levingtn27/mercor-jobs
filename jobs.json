@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T20:00:06.804576+00:00",
+  "updated_at": "2026-10-07T00:00:05.309326+00:00",
   "total": 306,
   "jobs": [
     {
@@ -67,6 +67,26 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoQ-cSgR4ID6BkOdMpplc",
       "created_at": "2026-10-06T05:07:43"
+    },
+    {
+      "id": "list_AAABoQ9G4DSSNzu_zvdIJYwu",
+      "title": "Database Systems Evaluation Expert",
+      "domain": "Software Engineering",
+      "pay": "$2.2K / task",
+      "pay_min": 2200.0,
+      "pay_max": 2200.0,
+      "pay_unit": "task",
+      "commitment": "task-based",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoQ9G4DSSNzu_zvdIJYwu/database-systems-evaluation-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoQ9G4DSSNzu_zvdIJYwu&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoQ9G4DSSNzu_zvdIJYwu",
+      "created_at": "2026-10-06T03:34:25"
     },
     {
       "id": "list_AAABoQMZF0hsBewKgBRLHYYt",
@@ -5534,26 +5554,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnpAZ6Dy4XN87koBPT4LM",
       "created_at": "2026-06-04T00:47:57"
-    },
-    {
-      "id": "list_AAABnpAWb5MITgeY5UhGjZ5i",
-      "title": "AI Safety Experts \u2014 English & Assamese",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$16 - $22 / hr",
-      "pay_min": 16.0,
-      "pay_max": 22.0,
-      "pay_unit": "hour",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABnpAWb5MITgeY5UhGjZ5i/ai-safety-experts-english-assamese?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnpAWb5MITgeY5UhGjZ5i&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnpAWb5MITgeY5UhGjZ5i",
-      "created_at": "2026-06-04T00:44:10"
     },
     {
       "id": "list_AAABnpARxg6eQEbj43JIy5re",
