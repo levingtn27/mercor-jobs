@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T12:00:05.185465+00:00",
-  "total": 304,
+  "updated_at": "2026-10-07T16:00:06.609068+00:00",
+  "total": 305,
   "jobs": [
     {
       "id": "list_AAABoQ-cdi_vZ6xXGWdM4YRV",
@@ -3212,6 +3212,28 @@
       "created_at": "2026-09-02T21:41:50"
     },
     {
+      "id": "list_AAABoF__GX9ydZzPYZ9PNYAt",
+      "title": "PDF Annotation & Transcription Experts \u2013 Telugu",
+      "domain": "Language and Audio",
+      "pay": "$10 - $11 / hr",
+      "pay_min": 10.0,
+      "pay_max": 11.0,
+      "pay_unit": "hour",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "IND"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoF__GX9ydZzPYZ9PNYAt/pdf-annotation-transcription-experts-telugu?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoF__GX9ydZzPYZ9PNYAt&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoF__GX9ydZzPYZ9PNYAt",
+      "created_at": "2026-09-02T02:42:28"
+    },
+    {
       "id": "list_AAABoF6Jhh_gEMICBt9PQoR0",
       "title": "Pediatric Inpatient Nurses (RN)",
       "domain": "Medicine",
@@ -4419,6 +4441,26 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn_ceM32i-kJsjw1JprLh",
       "created_at": "2026-08-12T17:56:19"
+    },
+    {
+      "id": "list_AAABn_cdAAvfNLL-cMhAHZ3I",
+      "title": "Music & Lyrics Expert - Greek",
+      "domain": "Arts & Design",
+      "pay": "$17 - $42 / hr",
+      "pay_min": 17.0,
+      "pay_max": 42.0,
+      "pay_unit": "hour",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABn_cdAAvfNLL-cMhAHZ3I/music-lyrics-expert-greek?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn_cdAAvfNLL-cMhAHZ3I&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn_cdAAvfNLL-cMhAHZ3I",
+      "created_at": "2026-08-12T17:55:00"
     },
     {
       "id": "list_AAABn_cBCuQM7WBSR_BNoqrS",
@@ -5649,26 +5691,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnpAZ6Dy4XN87koBPT4LM",
       "created_at": "2026-06-04T00:47:57"
-    },
-    {
-      "id": "list_AAABnpAPoL4kShewbrNKtLTV",
-      "title": "AI Safety Experts \u2014 English & Odia",
-      "domain": "Data Analysis",
-      "pay": "$16 - $22 / hr",
-      "pay_min": 16.0,
-      "pay_max": 22.0,
-      "pay_unit": "hour",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABnpAPoL4kShewbrNKtLTV/ai-safety-experts-english-odia?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnpAPoL4kShewbrNKtLTV&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnpAPoL4kShewbrNKtLTV",
-      "created_at": "2026-06-04T00:36:43"
     },
     {
       "id": "list_AAABnoTi00jc2tVdQ0xG17qd",
