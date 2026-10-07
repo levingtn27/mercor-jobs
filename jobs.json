@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T00:00:05.309326+00:00",
+  "updated_at": "2026-10-07T04:00:04.945875+00:00",
   "total": 306,
   "jobs": [
     {
@@ -3319,26 +3319,6 @@
       "created_at": "2026-08-31T09:14:07"
     },
     {
-      "id": "list_AAABoFcXq-GdBUxvUuBByYMp",
-      "title": "Drug Discovery Scientist",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$60 - $90 / hr",
-      "pay_min": 60.0,
-      "pay_max": 90.0,
-      "pay_unit": "hour",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoFcXq-GdBUxvUuBByYMp/drug-discovery-scientist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoFcXq-GdBUxvUuBByYMp&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoFcXq-GdBUxvUuBByYMp",
-      "created_at": "2026-08-31T09:12:44"
-    },
-    {
       "id": "list_AAABoEwwgpr7smpYapZMPKgR",
       "title": "Electrical Test Automation Engineer",
       "domain": "Other Engineering",
@@ -3507,6 +3487,42 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoEpy3lTX4ecyqy9GZ6_u",
       "created_at": "2026-08-28T22:17:17"
+    },
+    {
+      "id": "list_AAABoEkqQU78csAYr-xLJqzy",
+      "title": "Disability Claims & Underwriting Specialist",
+      "domain": "Life, Physical, and Social Science",
+      "pay": "$80 / hr",
+      "pay_min": 80.0,
+      "pay_max": 80.0,
+      "pay_unit": "hour",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote - United States, Canada, or United Kingdom",
+      "eligible": [
+        "USA",
+        "CAN",
+        "GBR",
+        "AUS",
+        "NZL",
+        "IRL",
+        "MLT",
+        "NLD",
+        "SWE",
+        "DNK",
+        "NOR",
+        "FIN",
+        "DEU",
+        "AUT",
+        "BEL"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoEkqQU78csAYr-xLJqzy/disability-claims-underwriting-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoEkqQU78csAYr-xLJqzy&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoEkqQU78csAYr-xLJqzy",
+      "created_at": "2026-08-28T16:18:21"
     },
     {
       "id": "list_AAABoEkE3Fx5nN65LndAloi6",
