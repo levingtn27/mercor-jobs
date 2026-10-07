@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T04:00:04.945875+00:00",
-  "total": 306,
+  "updated_at": "2026-10-07T08:00:07.478177+00:00",
+  "total": 303,
   "jobs": [
     {
       "id": "list_AAABoQ-cdi_vZ6xXGWdM4YRV",
@@ -3009,26 +3009,6 @@
       "created_at": "2026-09-09T14:33:43"
     },
     {
-      "id": "list_AAABoGrsxlOwlscUlUdGdJmZ",
-      "title": "Bilingual Writer - Portuguese (Brazil)",
-      "domain": "Language and Audio",
-      "pay": "$12 / hr",
-      "pay_min": 12.6,
-      "pay_max": 12.6,
-      "pay_unit": "hour",
-      "commitment": "task-based",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGrsxlOwlscUlUdGdJmZ/bilingual-writer-portuguese-brazil?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGrsxlOwlscUlUdGdJmZ&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGrsxlOwlscUlUdGdJmZ",
-      "created_at": "2026-09-04T05:38:17"
-    },
-    {
       "id": "list_AAABoGoq3ncJjgsCnJNK0bGY",
       "title": "Bilingual Ukrainian Generalist Expert \u2014 AI Safety",
       "domain": "Miscellaneous",
@@ -5572,26 +5552,6 @@
       "created_at": "2026-06-04T00:47:57"
     },
     {
-      "id": "list_AAABnpARxg6eQEbj43JIy5re",
-      "title": "AI Safety Experts \u2014 English & Gujarati",
-      "domain": "Data Analysis",
-      "pay": "$16 - $22 / hr",
-      "pay_min": 16.0,
-      "pay_max": 22.0,
-      "pay_unit": "hour",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABnpARxg6eQEbj43JIy5re/ai-safety-experts-english-gujarati?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnpARxg6eQEbj43JIy5re&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnpARxg6eQEbj43JIy5re",
-      "created_at": "2026-06-04T00:39:04"
-    },
-    {
       "id": "list_AAABnpAPoL4kShewbrNKtLTV",
       "title": "AI Safety Experts \u2014 English & Odia",
       "domain": "Data Analysis",
@@ -5610,26 +5570,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnpAPoL4kShewbrNKtLTV",
       "created_at": "2026-06-04T00:36:43"
-    },
-    {
-      "id": "list_AAABnpAJcLi-0xCsfWJNYabf",
-      "title": "AI Safety Experts \u2014 English & Bengali",
-      "domain": "Miscellaneous",
-      "pay": "$16 - $22 / hr",
-      "pay_min": 16.0,
-      "pay_max": 22.0,
-      "pay_unit": "hour",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABnpAJcLi-0xCsfWJNYabf/ai-safety-experts-english-bengali?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnpAJcLi-0xCsfWJNYabf&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnpAJcLi-0xCsfWJNYabf",
-      "created_at": "2026-06-04T00:29:58"
     },
     {
       "id": "list_AAABno92DM4AMr1rhoZEhJJq",
