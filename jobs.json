@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-08T00:00:05.840648+00:00",
-  "total": 297,
+  "updated_at": "2026-10-08T03:09:42.032254+00:00",
+  "total": 295,
   "jobs": [
     {
       "id": "list_AAABoRiaKGOq5ceLrrpLR6zE",
-      "title": "Software Developers: Share Your AI Coding Sessions",
+      "title": "Builders & Developers: Share Your AI Coding Sessions",
       "domain": "Software Engineering",
       "pay": "$500 / hr",
       "pay_min": 500.0,
@@ -17,7 +17,7 @@
       "hired_count": null,
       "is_new": true,
       "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoRiaKGOq5ceLrrpLR6zE/software-developers-share-your-ai-coding-sessions?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoRiaKGOq5ceLrrpLR6zE&utm_medium=direct&utm_source=referral",
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoRiaKGOq5ceLrrpLR6zE/builders-developers-share-your-ai-coding-sessions?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoRiaKGOq5ceLrrpLR6zE&utm_medium=direct&utm_source=referral",
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoRiaKGOq5ceLrrpLR6zE",
       "created_at": "2026-10-07T23:01:59"
@@ -3027,26 +3027,6 @@
       "created_at": "2026-09-04T02:04:53"
     },
     {
-      "id": "list_AAABoGooH80BbOEfTJlNVYkp",
-      "title": "Bilingual Turkish Generalist Expert \u2014 AI Safety",
-      "domain": "Miscellaneous",
-      "pay": "$23 - $27 / hr",
-      "pay_min": 23.0,
-      "pay_max": 27.0,
-      "pay_unit": "hour",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote \u2014 MENA preferred",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGooH80BbOEfTJlNVYkp/bilingual-turkish-generalist-expert-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGooH80BbOEfTJlNVYkp&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGooH80BbOEfTJlNVYkp",
-      "created_at": "2026-09-04T02:03:30"
-    },
-    {
       "id": "list_AAABoGonOrCV9mdgmSxBEJS5",
       "title": "Bilingual Indonesian STEM Expert (PhD) \u2014 AI Safety",
       "domain": "Life, Physical, and Social Science",
@@ -5375,28 +5355,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnt-8MlDeId9gbqBF77Ec",
       "created_at": "2026-06-19T11:55:13"
-    },
-    {
-      "id": "list_AAABnr6UO2Q-_nQyuwJD6Ykq",
-      "title": "Personalized Life Assistant Expert",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$50 - $200 / hr",
-      "pay_min": 50.0,
-      "pay_max": 200.0,
-      "pay_unit": "hour",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABnr6UO2Q-_nQyuwJD6Ykq/personalized-life-assistant-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnr6UO2Q-_nQyuwJD6Ykq&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnr6UO2Q-_nQyuwJD6Ykq",
-      "created_at": "2026-06-13T01:24:06"
     },
     {
       "id": "list_AAABnpApucbJSHrM35xOZ5Bq",
