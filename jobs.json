@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T16:00:05.115652+00:00",
-  "total": 290,
+  "updated_at": "2026-10-08T20:00:07.551576+00:00",
+  "total": 292,
   "jobs": [
     {
       "id": "list_AAABoRnISCyU_P0zjjBMAr5L",
@@ -3289,6 +3289,29 @@
       "created_at": "2026-09-02T03:23:13"
     },
     {
+      "id": "list_AAABoGAP3V-k8KwDw5lNUIq8",
+      "title": "PDF Annotation & Transcription Experts \u2013 Gujarati",
+      "domain": "Miscellaneous",
+      "pay": "$10 - $11 / hr",
+      "pay_min": 10.0,
+      "pay_max": 11.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "IND"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoGAP3V-k8KwDw5lNUIq8/pdf-annotation-transcription-experts-gujarati?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGAP3V-k8KwDw5lNUIq8&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGAP3V-k8KwDw5lNUIq8",
+      "created_at": "2026-09-02T03:00:47"
+    },
+    {
       "id": "list_AAABoF__GX9ydZzPYZ9PNYAt",
       "title": "PDF Annotation & Transcription Experts \u2013 Telugu",
       "domain": "Language and Audio",
@@ -5565,6 +5588,27 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnt-8MlDeId9gbqBF77Ec",
       "created_at": "2026-06-19T11:55:13"
+    },
+    {
+      "id": "list_AAABnpApucbJSHrM35xOZ5Bq",
+      "title": "AI Safety Experts \u2014 English & Tamil",
+      "domain": "Miscellaneous",
+      "pay": "$16 - $22 / hr",
+      "pay_min": 16.0,
+      "pay_max": 22.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABnpApucbJSHrM35xOZ5Bq/ai-safety-experts-english-tamil?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnpApucbJSHrM35xOZ5Bq&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnpApucbJSHrM35xOZ5Bq",
+      "created_at": "2026-06-04T01:05:14"
     },
     {
       "id": "list_AAABnpAl6GSzF1Eq8S5GPpnj",
