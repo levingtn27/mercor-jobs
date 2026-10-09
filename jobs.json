@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T12:00:05.137082+00:00",
-  "total": 289,
+  "updated_at": "2026-10-09T16:00:05.331724+00:00",
+  "total": 288,
   "jobs": [
     {
       "id": "list_AAABoR2PeFf7cQwruS5FCqF1",
@@ -243,29 +243,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoP3B8SkA4VcfExhLrYa3",
       "created_at": "2026-10-02T17:55:41"
-    },
-    {
-      "id": "list_AAABoPTEz86y9nW5ZppKFo4B",
-      "title": "Emergency Medicine Physician (MD)",
-      "domain": "Medicine",
-      "pay": "$150 - $170 / hr",
-      "pay_min": 150.0,
-      "pay_max": 170.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoPTEz86y9nW5ZppKFo4B/emergency-medicine-physician-md?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoPTEz86y9nW5ZppKFo4B&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoPTEz86y9nW5ZppKFo4B",
-      "created_at": "2026-10-01T00:02:14"
     },
     {
       "id": "list_AAABoPJ_fWgrIgAI-ilEL5S3",
