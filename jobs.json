@@ -1,7 +1,53 @@
 {
-  "updated_at": "2026-10-09T16:00:05.331724+00:00",
-  "total": 288,
+  "updated_at": "2026-10-09T20:00:06.300826+00:00",
+  "total": 289,
   "jobs": [
+    {
+      "id": "list_AAABoSF-Wwg8IZofdQNAuaTS",
+      "title": "Cardiologist \u2013 Clinical Consultant (ATTR Cardiac Amyloidosis)",
+      "domain": "Medicine",
+      "pay": "$120 - $150 / hr",
+      "pay_min": 120.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "part-time",
+      "tab": "project-based",
+      "location": "Remote (US)",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoSF-Wwg8IZofdQNAuaTS/cardiologist-clinical-consultant-attr-cardiac-amyloidosis?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoSF-Wwg8IZofdQNAuaTS&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoSF-Wwg8IZofdQNAuaTS",
+      "created_at": "2026-10-09T16:28:11"
+    },
+    {
+      "id": "list_AAABoR2xjYr8XjgWp0VJJJ3W",
+      "title": "Cardiology NP / PA / RN \u2013 ATTR Clinical Consultant",
+      "domain": "Medicine",
+      "pay": "$80 - $120 / hr",
+      "pay_min": 80.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "part-time",
+      "tab": "project-based",
+      "location": "Remote (US)",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoR2xjYr8XjgWp0VJJJ3W/cardiology-np-pa-rn-attr-clinical-consultant?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoR2xjYr8XjgWp0VJJJ3W&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoR2xjYr8XjgWp0VJJJ3W",
+      "created_at": "2026-10-08T22:45:38"
+    },
     {
       "id": "list_AAABoR2PeFf7cQwruS5FCqF1",
       "title": "Video Editing Professional",
@@ -3598,43 +3644,6 @@
       "created_at": "2026-08-25T21:19:58"
     },
     {
-      "id": "list_AAABoDqSlwwRWmQrkTVBWJbl",
-      "title": "Senior Multiline Claims Examiner",
-      "domain": "Miscellaneous",
-      "pay": "$80 / hr",
-      "pay_min": 80.0,
-      "pay_max": 80.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote - United States, Canada, or United Kingdom",
-      "eligible": [
-        "USA",
-        "CAN",
-        "GBR",
-        "AUS",
-        "NZL",
-        "IRL",
-        "MLT",
-        "NLD",
-        "SWE",
-        "DNK",
-        "NOR",
-        "FIN",
-        "DEU",
-        "AUT",
-        "BEL"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoDqSlwwRWmQrkTVBWJbl/senior-multiline-claims-examiner?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoDqSlwwRWmQrkTVBWJbl&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoDqSlwwRWmQrkTVBWJbl",
-      "created_at": "2026-08-25T20:18:01"
-    },
-    {
       "id": "list_AAABoDaJyTMiOtlXq15DFq6-",
       "title": "Compensation & Equity Expert (Total Rewards)",
       "domain": "Business Operations",
@@ -5055,12 +5064,12 @@
       "id": "list_AAABn6i483EoSNpFPh1PSKFO",
       "title": "Stanford Youth Study \u2014 US Parents & Kids (Age 9\u201313)",
       "domain": "Life, Physical, and Social Science",
-      "pay": "$110 / one-time",
+      "pay": "$110 / hr",
       "pay_min": 110.0,
       "pay_max": 110.0,
-      "pay_unit": "task",
-      "pay_freq": "one-time",
-      "commitment": "task-based",
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "part-time",
       "tab": "project-based",
       "location": "Remote (United States)",
       "eligible": [
@@ -5532,8 +5541,8 @@
       "created_at": "2026-06-19T11:55:13"
     },
     {
-      "id": "list_AAABnpApucbJSHrM35xOZ5Bq",
-      "title": "AI Safety Experts \u2014 English & Tamil",
+      "id": "list_AAABnpAl6GSzF1Eq8S5GPpnj",
+      "title": "AI Safety Experts \u2014 English & Malayalam",
       "domain": "Miscellaneous",
       "pay": "$16 - $22 / hr",
       "pay_min": 16.0,
@@ -5547,10 +5556,10 @@
       "hired_count": null,
       "is_new": true,
       "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABnpApucbJSHrM35xOZ5Bq/ai-safety-experts-english-tamil?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnpApucbJSHrM35xOZ5Bq&utm_medium=direct&utm_source=referral",
+      "referral_link": "https://work.mercor.com/jobs/list_AAABnpAl6GSzF1Eq8S5GPpnj/ai-safety-experts-english-malayalam?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnpAl6GSzF1Eq8S5GPpnj&utm_medium=direct&utm_source=referral",
       "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnpApucbJSHrM35xOZ5Bq",
-      "created_at": "2026-06-04T01:05:14"
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnpAl6GSzF1Eq8S5GPpnj",
+      "created_at": "2026-06-04T01:01:03"
     },
     {
       "id": "list_AAABnoTi00jc2tVdQ0xG17qd",
