@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T08:00:06.358070+00:00",
-  "total": 290,
+  "updated_at": "2026-10-09T12:00:05.137082+00:00",
+  "total": 289,
   "jobs": [
     {
       "id": "list_AAABoR2PeFf7cQwruS5FCqF1",
@@ -3790,29 +3790,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWcdRfMfHbtzjdKpL9-",
       "created_at": "2026-08-21T18:36:45"
-    },
-    {
-      "id": "list_AAABoCWaT-Nn5YtIt9tNC7Hh",
-      "title": "Medical and Health Services Managers",
-      "domain": "Business Operations",
-      "pay": "$100 - $120 / hr",
-      "pay_min": 100.0,
-      "pay_max": 120.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoCWaT-Nn5YtIt9tNC7Hh/medical-and-health-services-managers?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCWaT-Nn5YtIt9tNC7Hh&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWaT-Nn5YtIt9tNC7Hh",
-      "created_at": "2026-08-21T18:34:25"
     },
     {
       "id": "list_AAABoCWZLgyS_XMeXVxE9pIU",
