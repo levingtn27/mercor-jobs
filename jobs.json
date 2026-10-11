@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T16:00:05.495792+00:00",
+  "updated_at": "2026-10-11T20:00:07.749595+00:00",
   "total": 284,
   "jobs": [
     {
@@ -48,9 +48,9 @@
       "id": "list_AAABoSaogGy2NBr71LpJgrqO",
       "title": "Primary Care Physician (MD) -  Clinical Documentation & AI Evaluation",
       "domain": "Medicine",
-      "pay": "$170 - $190 / hr",
+      "pay": "$170 / hr",
       "pay_min": 170.0,
-      "pay_max": 190.0,
+      "pay_max": 170.0,
       "pay_unit": "hour",
       "pay_freq": "hourly",
       "commitment": "hourly",
