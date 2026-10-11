@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T04:00:10.489044+00:00",
-  "total": 292,
+  "updated_at": "2026-10-11T08:00:05.629506+00:00",
+  "total": 283,
   "jobs": [
     {
       "id": "list_AAABoSaogGy2NBr71LpJgrqO",
@@ -4566,29 +4566,6 @@
       "created_at": "2026-08-11T19:01:17"
     },
     {
-      "id": "list_AAABn-4PicfjeenulMRFuZPZ",
-      "title": "Software Engineer, Full Stack \u2014 India",
-      "domain": "Software Engineering",
-      "pay": "$25 - $30 / hr",
-      "pay_min": 25.0,
-      "pay_max": 30.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "full-time",
-      "tab": "project-based",
-      "location": "India",
-      "eligible": [
-        "IND"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn-4PicfjeenulMRFuZPZ/software-engineer-full-stack-india?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn-4PicfjeenulMRFuZPZ&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn-4PicfjeenulMRFuZPZ",
-      "created_at": "2026-08-10T23:43:43"
-    },
-    {
       "id": "list_AAABn9frMRn_uyjbOmxIjp8i",
       "title": "Medicare Advantage Brokers Survey \u2013 Agent & Enrollment Insights",
       "domain": "Life, Physical, and Social Science",
@@ -4805,52 +4782,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn8s_5pBqtFNJEKBJyrdM",
       "created_at": "2026-08-04T05:29:50"
-    },
-    {
-      "id": "list_AAABn8oFAwRyb1dh995LHLBV",
-      "title": "Senior Software Engineer, Full Stack (Python, Java, Rust, C#, C++)",
-      "domain": "Software Engineering",
-      "pay": "$90 - $110 / hr",
-      "pay_min": 90.0,
-      "pay_max": 110.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "full-time",
-      "tab": "project-based",
-      "location": "United States",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn8oFAwRyb1dh995LHLBV/senior-software-engineer-full-stack-python-java-rust-c-c?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn8oFAwRyb1dh995LHLBV&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn8oFAwRyb1dh995LHLBV",
-      "created_at": "2026-08-03T23:45:54"
-    },
-    {
-      "id": "list_AAABn8oCPAhaAFmwEEhPDYO5",
-      "title": "Software Engineer, Full Stack (Python, Java, Rust, C#, C++)",
-      "domain": "Software Engineering",
-      "pay": "$50 - $65 / hr",
-      "pay_min": 50.0,
-      "pay_max": 65.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "full-time",
-      "tab": "project-based",
-      "location": "United States",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn8oCPAhaAFmwEEhPDYO5/software-engineer-full-stack-python-java-rust-c-c?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn8oCPAhaAFmwEEhPDYO5&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn8oCPAhaAFmwEEhPDYO5",
-      "created_at": "2026-08-03T23:42:52"
     },
     {
       "id": "list_AAABn7y1hc_w_rS_H_hIF6Zt",
@@ -5449,144 +5380,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn2t1L9IIQXb5jIdMlYOz",
       "created_at": "2026-07-16T15:04:30"
-    },
-    {
-      "id": "list_AAABn0xjKswuPj94gt9Ea5EL",
-      "title": "Finance Program Coordinator \u2014 AI Training Data Operations",
-      "domain": "Finance",
-      "pay": "$40 - $60 / hr",
-      "pay_min": 40.0,
-      "pay_max": 60.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "United States",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn0xjKswuPj94gt9Ea5EL/finance-program-coordinator-ai-training-data-operations?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn0xjKswuPj94gt9Ea5EL&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn0xjKswuPj94gt9Ea5EL",
-      "created_at": "2026-07-10T14:16:35"
-    },
-    {
-      "id": "list_AAABn0xi95jC-2rn08FLqYbG",
-      "title": "Marketing Specialist",
-      "domain": "Business Operations",
-      "pay": "$60 - $80 / hr",
-      "pay_min": 60.0,
-      "pay_max": 80.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "United States",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn0xi95jC-2rn08FLqYbG/marketing-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn0xi95jC-2rn08FLqYbG&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn0xi95jC-2rn08FLqYbG",
-      "created_at": "2026-07-10T14:16:22"
-    },
-    {
-      "id": "list_AAABn0xiwK4Zmegb20BANqbl",
-      "title": "Insurance Specialist",
-      "domain": "Finance",
-      "pay": "$60 - $80 / hr",
-      "pay_min": 60.0,
-      "pay_max": 80.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "United States",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn0xiwK4Zmegb20BANqbl/insurance-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn0xiwK4Zmegb20BANqbl&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn0xiwK4Zmegb20BANqbl",
-      "created_at": "2026-07-10T14:16:08"
-    },
-    {
-      "id": "list_AAABn0xioAvyGOqmWw1EDr1l",
-      "title": "Retail Specialist",
-      "domain": "Business Operations",
-      "pay": "$60 - $80 / hr",
-      "pay_min": 60.0,
-      "pay_max": 80.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "United States",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn0xioAvyGOqmWw1EDr1l/retail-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn0xioAvyGOqmWw1EDr1l&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn0xioAvyGOqmWw1EDr1l",
-      "created_at": "2026-07-10T14:16:00"
-    },
-    {
-      "id": "list_AAABn0xiefzEHVnyXalMYaPv",
-      "title": "Finance Specialist",
-      "domain": "Finance",
-      "pay": "$65 - $90 / hr",
-      "pay_min": 65.0,
-      "pay_max": 90.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "United States",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn0xiefzEHVnyXalMYaPv/finance-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn0xiefzEHVnyXalMYaPv&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn0xiefzEHVnyXalMYaPv",
-      "created_at": "2026-07-10T14:15:50"
-    },
-    {
-      "id": "list_AAABn0xiYRNkHA5ERT5MhJh8",
-      "title": "AI Rater Guidelines Writer (Linguist / Instructional Designer)",
-      "domain": "Language and Audio",
-      "pay": "$45 - $65 / hr",
-      "pay_min": 45.0,
-      "pay_max": 65.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "United States",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn0xiYRNkHA5ERT5MhJh8/ai-rater-guidelines-writer-linguist-instructional-designer?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn0xiYRNkHA5ERT5MhJh8&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn0xiYRNkHA5ERT5MhJh8",
-      "created_at": "2026-07-10T14:15:44"
     },
     {
       "id": "list_AAABnzh0lIymACKXZE9D4Jo7",
