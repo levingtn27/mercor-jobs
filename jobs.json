@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14T16:00:09.306278+00:00",
-  "total": 306,
+  "updated_at": "2026-10-14T20:00:06.588809+00:00",
+  "total": 308,
   "jobs": [
     {
       "id": "list_AAABoTkcILZn0Pwd8qZBwJO0",
@@ -169,6 +169,27 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoTka9ZtRjBUVaidKQJFL",
       "created_at": "2026-10-14T06:30:31"
+    },
+    {
+      "id": "list_AAABoTka5TaNtc_AgWtNLbLl",
+      "title": "Human Resources Expert, German (Germany) - AI Training",
+      "domain": "Business Operations",
+      "pay": "$65 / hr",
+      "pay_min": 65.0,
+      "pay_max": 65.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoTka5TaNtc_AgWtNLbLl/human-resources-expert-german-germany-ai-training?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoTka5TaNtc_AgWtNLbLl&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoTka5TaNtc_AgWtNLbLl",
+      "created_at": "2026-10-14T06:30:26"
     },
     {
       "id": "list_AAABoTkaz5Hn7af0WfZLt7to",
@@ -723,27 +744,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoRePE1qiY1-aJqFLRrSi",
       "created_at": "2026-10-07T18:10:15"
-    },
-    {
-      "id": "list_AAABoRF0_T8Qt6YeWGBHI7oe",
-      "title": "CAD / PCB / 3D Design Engineer \u2014 AI Evaluation",
-      "domain": "Other Engineering",
-      "pay": "$60 - $100 / hr",
-      "pay_min": 60.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoRF0_T8Qt6YeWGBHI7oe/cad-pcb-3d-design-engineer-ai-evaluation?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoRF0_T8Qt6YeWGBHI7oe&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoRF0_T8Qt6YeWGBHI7oe",
-      "created_at": "2026-10-06T13:44:02"
     },
     {
       "id": "list_AAABoQ-cdi_vZ6xXGWdM4YRV",
@@ -1474,6 +1474,29 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoLBLyxtYgIe8NZNJkZaA",
       "created_at": "2026-09-17T16:55:52"
+    },
+    {
+      "id": "list_AAABoK32PA1tljTFSVZKApAs",
+      "title": "General Clinician (MD/DO) - HLS Expert Pool",
+      "domain": "Medicine",
+      "pay": "$150 / hr",
+      "pay_min": 150.0,
+      "pay_max": 150.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote \u2014 worldwide",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoK32PA1tljTFSVZKApAs/general-clinician-md-do-hls-expert-pool?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoK32PA1tljTFSVZKApAs&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoK32PA1tljTFSVZKApAs",
+      "created_at": "2026-09-17T06:03:10"
     },
     {
       "id": "list_AAABoKver4zykD33JeRD2YDT",
@@ -3877,6 +3900,27 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoFcY8EKGD1geuEpN-Lqi",
       "created_at": "2026-08-31T09:14:07"
+    },
+    {
+      "id": "list_AAABoFcXq-GdBUxvUuBByYMp",
+      "title": "Drug Discovery Scientist",
+      "domain": "Life, Physical, and Social Science",
+      "pay": "$60 - $90 / hr",
+      "pay_min": 60.0,
+      "pay_max": 90.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoFcXq-GdBUxvUuBByYMp/drug-discovery-scientist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoFcXq-GdBUxvUuBByYMp&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoFcXq-GdBUxvUuBByYMp",
+      "created_at": "2026-08-31T09:12:44"
     },
     {
       "id": "list_AAABoEwwgpr7smpYapZMPKgR",
