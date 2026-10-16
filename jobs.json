@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T04:00:07.085092+00:00",
-  "total": 308,
+  "updated_at": "2026-10-16T08:00:05.639285+00:00",
+  "total": 306,
   "jobs": [
     {
       "id": "list_AAABoUCyCieEKxAsNFtGkabI",
@@ -583,9 +583,9 @@
       "id": "list_AAABoTZ4mfydwp1nvddFwLi4",
       "title": "English AI Safety Specialist",
       "domain": "Miscellaneous",
-      "pay": "$40 - $45 / hr",
-      "pay_min": 40.0,
-      "pay_max": 45.0,
+      "pay": "$30 / hr",
+      "pay_min": 30.0,
+      "pay_max": 30.0,
       "pay_unit": "hour",
       "pay_freq": "hourly",
       "commitment": "hourly",
@@ -706,29 +706,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoSF-Wwg8IZofdQNAuaTS",
       "created_at": "2026-10-09T16:28:11"
-    },
-    {
-      "id": "list_AAABoR2xjYr8XjgWp0VJJJ3W",
-      "title": "Cardiology NP / PA / RN \u2013 ATTR Clinical Consultant",
-      "domain": "Medicine",
-      "pay": "$80 - $120 / hr",
-      "pay_min": 80.0,
-      "pay_max": 120.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote (US)",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoR2xjYr8XjgWp0VJJJ3W/cardiology-np-pa-rn-attr-clinical-consultant?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoR2xjYr8XjgWp0VJJJ3W&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoR2xjYr8XjgWp0VJJJ3W",
-      "created_at": "2026-10-08T22:45:38"
     },
     {
       "id": "list_AAABoR2PeFf7cQwruS5FCqF1",
@@ -1671,31 +1648,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoKhQUOaNza1DjNZHGKnP",
       "created_at": "2026-09-16T03:43:51"
-    },
-    {
-      "id": "list_AAABoKUL7XiGrtAUHDlD3K_O",
-      "title": "MLOps Engineer, LLM Systems (Serving, GPU Kernels, Profiling)",
-      "domain": "Software Engineering",
-      "pay": "$90 - $120 / hr",
-      "pay_min": 90.0,
-      "pay_max": 120.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Canada, UK, US",
-      "eligible": [
-        "CAN",
-        "GBR",
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoKUL7XiGrtAUHDlD3K_O/mlops-engineer-llm-systems-serving-gpu-kernels-profiling?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoKUL7XiGrtAUHDlD3K_O&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoKUL7XiGrtAUHDlD3K_O",
-      "created_at": "2026-09-15T12:30:18"
     },
     {
       "id": "list_AAABoKORCF2dakrez4FCAo_G",
@@ -3048,6 +3000,27 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoKG68a2Ye1PiakdPq7FS",
       "created_at": "2026-09-14T21:02:58"
+    },
+    {
+      "id": "list_AAABoKFxrfgCCKpkF81C8rGq",
+      "title": "Public Defenders \u2014 Paid Research Study",
+      "domain": "Law",
+      "pay": "$100 / hr",
+      "pay_min": 100.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoKFxrfgCCKpkF81C8rGq/public-defenders-paid-research-study?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoKFxrfgCCKpkF81C8rGq&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoKFxrfgCCKpkF81C8rGq",
+      "created_at": "2026-09-14T19:42:57"
     },
     {
       "id": "list_AAABoJgvqc1gDoK02dZJpq-m",
@@ -5668,27 +5641,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn6TCgs826CBSyVRP6L2k",
       "created_at": "2026-07-27T18:07:19"
-    },
-    {
-      "id": "list_AAABn6Fe-vlJAcKdzM5M27VT",
-      "title": "Non-Investment Finance Expert",
-      "domain": "Finance",
-      "pay": "$85 / hr",
-      "pay_min": 85.0,
-      "pay_max": 85.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn6Fe-vlJAcKdzM5M27VT/non-investment-finance-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn6Fe-vlJAcKdzM5M27VT&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn6Fe-vlJAcKdzM5M27VT",
-      "created_at": "2026-07-27T02:19:44"
     },
     {
       "id": "list_AAABn5vEYCY9JpDvdTdM1Y-0",
