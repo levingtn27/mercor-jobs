@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T00:00:13.270498+00:00",
-  "total": 301,
+  "updated_at": "2026-10-17T04:00:05.097849+00:00",
+  "total": 299,
   "jobs": [
     {
       "id": "list_AAABoUaziz924AgOiw5EJob_",
@@ -4362,29 +4362,6 @@
       "created_at": "2026-08-24T19:35:10"
     },
     {
-      "id": "list_AAABoDT_548oyfsZk-FIq7-W",
-      "title": "Computer and Information Systems Managers",
-      "domain": "Business Operations",
-      "pay": "$70 - $110 / hr",
-      "pay_min": 70.0,
-      "pay_max": 110.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoDT_548oyfsZk-FIq7-W/computer-and-information-systems-managers?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoDT_548oyfsZk-FIq7-W&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoDT_548oyfsZk-FIq7-W",
-      "created_at": "2026-08-24T18:19:41"
-    },
-    {
       "id": "list_AAABoCl905TW9jWTfs9Oh44S",
       "title": "Legacy Codebase Migration Expert",
       "domain": "Software Engineering",
@@ -4473,29 +4450,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWZLgyS_XMeXVxE9pIU",
       "created_at": "2026-08-21T18:33:10"
-    },
-    {
-      "id": "list_AAABoCWWr6HmJrVOgcREqpk2",
-      "title": "Lawyers",
-      "domain": "Law",
-      "pay": "$100 - $120 / hr",
-      "pay_min": 100.0,
-      "pay_max": 120.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoCWWr6HmJrVOgcREqpk2/lawyers?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCWWr6HmJrVOgcREqpk2&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWWr6HmJrVOgcREqpk2",
-      "created_at": "2026-08-21T18:30:27"
     },
     {
       "id": "list_AAABoCWUQw5m1AlrVM1M-p7i",
