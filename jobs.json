@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T08:00:06.183412+00:00",
-  "total": 298,
+  "updated_at": "2026-10-17T12:00:05.267088+00:00",
+  "total": 297,
   "jobs": [
     {
       "id": "list_AAABoUaziz924AgOiw5EJob_",
@@ -3983,27 +3983,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoF6Jhh_gEMICBt9PQoR0",
       "created_at": "2026-09-01T19:54:26"
-    },
-    {
-      "id": "list_AAABoFcY8EKGD1geuEpN-Lqi",
-      "title": "Engineering Simulation Specialist",
-      "domain": "Other Engineering",
-      "pay": "$60 - $90 / hr",
-      "pay_min": 60.0,
-      "pay_max": 90.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoFcY8EKGD1geuEpN-Lqi/engineering-simulation-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoFcY8EKGD1geuEpN-Lqi&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoFcY8EKGD1geuEpN-Lqi",
-      "created_at": "2026-08-31T09:14:07"
     },
     {
       "id": "list_AAABoFcXq-GdBUxvUuBByYMp",
