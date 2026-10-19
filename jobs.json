@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-18T20:00:05.495776+00:00",
-  "total": 298,
+  "updated_at": "2026-10-19T00:00:05.288418+00:00",
+  "total": 299,
   "jobs": [
     {
       "id": "list_AAABoVBme63yIgVpzitF4Y_k",
@@ -364,6 +364,27 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoT1vGd94TFFDINNPm6-H",
       "created_at": "2026-10-15T02:40:54"
+    },
+    {
+      "id": "list_AAABoT1nFCqZJLypXTlCJ5IB",
+      "title": "Content Designer",
+      "domain": "Arts & Design",
+      "pay": "$85 / task",
+      "pay_min": 85.0,
+      "pay_max": 85.0,
+      "pay_unit": "task",
+      "pay_freq": "per-task",
+      "commitment": "task-based",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoT1nFCqZJLypXTlCJ5IB/content-designer?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoT1nFCqZJLypXTlCJ5IB&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoT1nFCqZJLypXTlCJ5IB",
+      "created_at": "2026-10-15T02:32:08"
     },
     {
       "id": "list_AAABoTw2X50MatW_D09FdpXK",
