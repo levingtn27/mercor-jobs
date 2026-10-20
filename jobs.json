@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-10-20T00:00:05.798754+00:00",
-  "total": 298,
+  "updated_at": "2026-10-20T04:00:05.243578+00:00",
+  "total": 296,
   "jobs": [
+    {
+      "id": "list_AAABoVbx1lSSTH-CB6hAt4WE",
+      "title": "Machine Learning Expert",
+      "domain": "Data Analysis",
+      "pay": "$150 - $200 / hr",
+      "pay_min": 150.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoVbx1lSSTH-CB6hAt4WE/machine-learning-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoVbx1lSSTH-CB6hAt4WE&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoVbx1lSSTH-CB6hAt4WE",
+      "created_at": "2026-10-20T01:34:12"
+    },
     {
       "id": "list_AAABoVXp4Fza5Tp6BWFOiZkF",
       "title": "Clinical Survey Research & Methodology Expert (Physician / PhD)",
@@ -362,29 +383,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoUCyCieEKxAsNFtGkabI",
       "created_at": "2026-10-15T17:52:52"
-    },
-    {
-      "id": "list_AAABoT1vGd94TFFDINNPm6-H",
-      "title": "Pediatrician (MD)",
-      "domain": "Medicine",
-      "pay": "$150 / hr",
-      "pay_min": 150.0,
-      "pay_max": 150.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoT1vGd94TFFDINNPm6-H/pediatrician-md?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoT1vGd94TFFDINNPm6-H&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoT1vGd94TFFDINNPm6-H",
-      "created_at": "2026-10-15T02:40:54"
     },
     {
       "id": "list_AAABoT1nFCqZJLypXTlCJ5IB",
@@ -1071,27 +1069,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoQ-cSgR4ID6BkOdMpplc",
       "created_at": "2026-10-06T05:07:43"
-    },
-    {
-      "id": "list_AAABoQ9G4DSSNzu_zvdIJYwu",
-      "title": "Database Systems Evaluation Expert",
-      "domain": "Software Engineering",
-      "pay": "$2.2K / task",
-      "pay_min": 2200.0,
-      "pay_max": 2200.0,
-      "pay_unit": "task",
-      "pay_freq": "per-task",
-      "commitment": "task-based",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoQ9G4DSSNzu_zvdIJYwu/database-systems-evaluation-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoQ9G4DSSNzu_zvdIJYwu&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoQ9G4DSSNzu_zvdIJYwu",
-      "created_at": "2026-10-06T03:34:25"
     },
     {
       "id": "list_AAABoP3B8SkA4VcfExhLrYa3",
@@ -4616,29 +4593,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWZLgyS_XMeXVxE9pIU",
       "created_at": "2026-08-21T18:33:10"
-    },
-    {
-      "id": "list_AAABoCWUQw5m1AlrVM1M-p7i",
-      "title": "Financial and Investment Analysts",
-      "domain": "Finance",
-      "pay": "$70 - $110 / hr",
-      "pay_min": 70.0,
-      "pay_max": 110.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoCWUQw5m1AlrVM1M-p7i/financial-and-investment-analysts?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCWUQw5m1AlrVM1M-p7i&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWUQw5m1AlrVM1M-p7i",
-      "created_at": "2026-08-21T18:27:48"
     },
     {
       "id": "list_AAABoCWSTbhgejc0oLZDmbSP",
