@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T04:00:28.985543+00:00",
-  "total": 298,
+  "updated_at": "2026-10-21T08:00:05.494093+00:00",
+  "total": 297,
   "jobs": [
     {
       "id": "list_AAABoVq3wqHQTphJMAhBY5gQ",
@@ -6303,33 +6303,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnJxZFVfIEAN0_ZNOCrGk",
       "created_at": "2026-02-26T23:46:50"
-    },
-    {
-      "id": "list_AAABnJgt_BFNmaWvyuJD6pPn",
-      "title": "Google Workspace & Business Profile Owners",
-      "domain": "Business Operations",
-      "pay": "$60 / hr",
-      "pay_min": 60.0,
-      "pay_max": 60.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "GBR",
-        "USA",
-        "CAN",
-        "NZL",
-        "AUS"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABnJgt_BFNmaWvyuJD6pPn/google-workspace-business-profile-owners?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnJgt_BFNmaWvyuJD6pPn&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnJgt_BFNmaWvyuJD6pPn",
-      "created_at": "2026-02-26T04:21:16"
     },
     {
       "id": "list_AAABnHwqmLo6wvviVuRHh7T3",
