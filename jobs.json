@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-21T16:00:06.134249+00:00",
-  "total": 297,
+  "updated_at": "2026-10-21T20:00:06.750288+00:00",
+  "total": 300,
   "jobs": [
     {
       "id": "list_AAABoVq3wqHQTphJMAhBY5gQ",
       "title": "[LONG PROJECT] Anonymization Writer",
-      "domain": null,
+      "domain": "Miscellaneous",
       "pay": "$45 - $55 / hr",
       "pay_min": 45.0,
       "pay_max": 55.0,
@@ -14,9 +14,7 @@
       "commitment": "hourly",
       "tab": "project-based",
       "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
+      "eligible": [],
       "hired_count": null,
       "is_new": true,
       "closing_soon": false,
@@ -66,6 +64,29 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoVXp4Fza5Tp6BWFOiZkF",
       "created_at": "2026-10-19T20:45:53"
+    },
+    {
+      "id": "list_AAABoVRd9P1zaUo4VyVMfZES",
+      "title": "Customer Experience Operations (India)",
+      "domain": "Business Operations",
+      "pay": "$35K - $50K / yr",
+      "pay_min": 35000.0,
+      "pay_max": 50000.0,
+      "pay_unit": "year",
+      "pay_freq": "yearly",
+      "commitment": "full-time",
+      "tab": "project-based",
+      "location": "India",
+      "eligible": [
+        "IND"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoVRd9P1zaUo4VyVMfZES/customer-experience-operations-india?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoVRd9P1zaUo4VyVMfZES&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoVRd9P1zaUo4VyVMfZES",
+      "created_at": "2026-10-19T13:33:26"
     },
     {
       "id": "list_AAABoVBme63yIgVpzitF4Y_k",
@@ -299,6 +320,27 @@
       "created_at": "2026-10-18T01:55:53"
     },
     {
+      "id": "list_AAABoUaziz924AgOiw5EJob_",
+      "title": "Local Political Expert (Iowa) \u2014 Elections Forecasting & Political Risk",
+      "domain": "Life, Physical, and Social Science",
+      "pay": "$100 - $200 / hr",
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoUaziz924AgOiw5EJob_/local-political-expert-iowa-elections-forecasting-political-risk?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoUaziz924AgOiw5EJob_&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoUaziz924AgOiw5EJob_",
+      "created_at": "2026-10-16T21:52:14"
+    },
+    {
       "id": "list_AAABoUazfFnsPZ2MxGFE0p32",
       "title": "Local Political Expert (Maine) \u2014 Elections Forecasting & Political Risk",
       "domain": "Life, Physical, and Social Science",
@@ -408,29 +450,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoTw2X50MatW_D09FdpXK",
       "created_at": "2026-10-14T20:59:19"
-    },
-    {
-      "id": "list_AAABoTwR7bLZeYD0SnBB9qqA",
-      "title": "Legal Expert \u2014 Civil Litigator (Deposition Transcript Review)",
-      "domain": "Law",
-      "pay": "$120 / hr",
-      "pay_min": 120.0,
-      "pay_max": 120.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "United States (remote)",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoTwR7bLZeYD0SnBB9qqA/legal-expert-civil-litigator-deposition-transcript-review?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoTwR7bLZeYD0SnBB9qqA&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoTwR7bLZeYD0SnBB9qqA",
-      "created_at": "2026-10-14T20:19:30"
     },
     {
       "id": "list_AAABoTkcG25jtgPkmkNGSKEf",
@@ -832,6 +851,27 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoTaaCqWbv9-5L3ZCnrvq",
       "created_at": "2026-10-13T18:50:27"
+    },
+    {
+      "id": "list_AAABoTZ4mfydwp1nvddFwLi4",
+      "title": "English AI Safety Specialist",
+      "domain": "Miscellaneous",
+      "pay": "$30 / hr",
+      "pay_min": 30.0,
+      "pay_max": 30.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoTZ4mfydwp1nvddFwLi4/english-ai-safety-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoTZ4mfydwp1nvddFwLi4&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoTZ4mfydwp1nvddFwLi4",
+      "created_at": "2026-10-13T18:13:56"
     },
     {
       "id": "list_AAABoTSnXon2NKOaCWVFA6I-",
@@ -1639,6 +1679,27 @@
       "created_at": "2026-09-22T18:27:09"
     },
     {
+      "id": "list_AAABoMZlDn5LJvVj3XBA3YGz",
+      "title": "Local Political Expert \u2014 Elections Forecasting & Political Risk",
+      "domain": "Life, Physical, and Social Science",
+      "pay": "$100 - $200 / hr",
+      "pay_min": 100.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoMZlDn5LJvVj3XBA3YGz/local-political-expert-elections-forecasting-political-risk?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoMZlDn5LJvVj3XBA3YGz&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoMZlDn5LJvVj3XBA3YGz",
+      "created_at": "2026-09-21T23:55:06"
+    },
+    {
       "id": "list_AAABoLvSwx0SgdNK9ZhCeoSy",
       "title": "[LONG PROJECT] Anonymization Quality Reviewer",
       "domain": "Law",
@@ -1650,9 +1711,7 @@
       "commitment": "hourly",
       "tab": "project-based",
       "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
+      "eligible": [],
       "hired_count": null,
       "is_new": true,
       "closing_soon": false,
@@ -2586,6 +2645,27 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoKIwHt2zNelvV1hDvKjQ",
       "created_at": "2026-09-14T23:10:58"
+    },
+    {
+      "id": "list_AAABoKIv5yrqvN56ZlRMUJj0",
+      "title": "Political Expert \u2014 Elections Forecasting & Political Risk",
+      "domain": "Life, Physical, and Social Science",
+      "pay": "$150 - $200 / hr",
+      "pay_min": 150.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoKIv5yrqvN56ZlRMUJj0/political-expert-elections-forecasting-political-risk?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoKIv5yrqvN56ZlRMUJj0&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoKIv5yrqvN56ZlRMUJj0",
+      "created_at": "2026-09-14T23:10:44"
     },
     {
       "id": "list_AAABoKHds2e4X1lxEltFyJa7",
@@ -4915,12 +4995,12 @@
       "created_at": "2026-08-14T12:16:45"
     },
     {
-      "id": "list_AAABn_yKs7zLvfVYPg5O87wF",
-      "title": "Applied Philosophy Benchmark Specialist",
-      "domain": "Humanities",
-      "pay": "$50 - $63 / hr",
-      "pay_min": 50.0,
-      "pay_max": 63.0,
+      "id": "list_AAABn_yIZR1__lQF4UFJWK4b",
+      "title": "Applied Mathematics Benchmark Specialist",
+      "domain": "Life, Physical, and Social Science",
+      "pay": "$61 - $77 / hr",
+      "pay_min": 61.0,
+      "pay_max": 77.0,
       "pay_unit": "hour",
       "pay_freq": "hourly",
       "commitment": "hourly",
@@ -4930,10 +5010,31 @@
       "hired_count": null,
       "is_new": true,
       "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn_yKs7zLvfVYPg5O87wF/applied-philosophy-benchmark-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn_yKs7zLvfVYPg5O87wF&utm_medium=direct&utm_source=referral",
+      "referral_link": "https://work.mercor.com/jobs/list_AAABn_yIZR1__lQF4UFJWK4b/applied-mathematics-benchmark-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn_yIZR1__lQF4UFJWK4b&utm_medium=direct&utm_source=referral",
       "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn_yKs7zLvfVYPg5O87wF",
-      "created_at": "2026-08-13T19:12:56"
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn_yIZR1__lQF4UFJWK4b",
+      "created_at": "2026-08-13T19:10:25"
+    },
+    {
+      "id": "list_AAABn_yIA7lRhn_Aos9LS7jE",
+      "title": "Applied Physics Benchmark Specialist",
+      "domain": "Life, Physical, and Social Science",
+      "pay": "$61 - $77 / hr",
+      "pay_min": 61.0,
+      "pay_max": 77.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABn_yIA7lRhn_Aos9LS7jE/applied-physics-benchmark-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn_yIA7lRhn_Aos9LS7jE&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn_yIA7lRhn_Aos9LS7jE",
+      "created_at": "2026-08-13T19:10:00"
     },
     {
       "id": "list_AAABn_hJu3e9hgqimAtByK05",
@@ -5531,27 +5632,6 @@
       "created_at": "2026-07-26T00:12:45"
     },
     {
-      "id": "list_AAABn5VZd-pn1Ae-osROeqoW",
-      "title": "STEM PhDs and Technical Domain Experts",
-      "domain": "Data Analysis",
-      "pay": "$60 - $120 / hr",
-      "pay_min": 60.0,
-      "pay_max": 120.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn5VZd-pn1Ae-osROeqoW/stem-phds-and-technical-domain-experts?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn5VZd-pn1Ae-osROeqoW&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn5VZd-pn1Ae-osROeqoW",
-      "created_at": "2026-07-24T18:18:16"
-    },
-    {
       "id": "list_AAABn4KNStkBMy2K25lN2ati",
       "title": "Sales and Marketing Expert",
       "domain": "Business Operations",
@@ -5594,27 +5674,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn2445JJgOdUpk4dC65kk",
       "created_at": "2026-07-17T03:57:30"
-    },
-    {
-      "id": "list_AAABnzh0lIymACKXZE9D4Jo7",
-      "title": "Music Production Expert - Russian",
-      "domain": "Arts & Design",
-      "pay": "$35 - $49 / hr",
-      "pay_min": 35.0,
-      "pay_max": 49.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABnzh0lIymACKXZE9D4Jo7/music-production-expert-russian?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnzh0lIymACKXZE9D4Jo7&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnzh0lIymACKXZE9D4Jo7",
-      "created_at": "2026-07-06T17:23:12"
     },
     {
       "id": "list_AAABnxIY9_U0wUIMB3JBp7IO",
