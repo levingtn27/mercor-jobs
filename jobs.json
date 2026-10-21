@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T20:00:06.991627+00:00",
-  "total": 296,
+  "updated_at": "2026-10-21T00:00:06.011707+00:00",
+  "total": 297,
   "jobs": [
     {
       "id": "list_AAABoVq3wqHQTphJMAhBY5gQ",
@@ -364,6 +364,27 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoUCyCieEKxAsNFtGkabI",
       "created_at": "2026-10-15T17:52:52"
+    },
+    {
+      "id": "list_AAABoT1nFCqZJLypXTlCJ5IB",
+      "title": "Content Designer",
+      "domain": "Arts & Design",
+      "pay": "$85 / task",
+      "pay_min": 85.0,
+      "pay_max": 85.0,
+      "pay_unit": "task",
+      "pay_freq": "per-task",
+      "commitment": "task-based",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoT1nFCqZJLypXTlCJ5IB/content-designer?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoT1nFCqZJLypXTlCJ5IB&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoT1nFCqZJLypXTlCJ5IB",
+      "created_at": "2026-10-15T02:32:08"
     },
     {
       "id": "list_AAABoTw2X50MatW_D09FdpXK",
@@ -1029,6 +1050,27 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoQ-cSgR4ID6BkOdMpplc",
       "created_at": "2026-10-06T05:07:43"
+    },
+    {
+      "id": "list_AAABoP45Rv7xHNa1xtpEZ7nZ",
+      "title": "Task Writer",
+      "domain": "Miscellaneous",
+      "pay": "$60 / hr",
+      "pay_min": 60.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoP45Rv7xHNa1xtpEZ7nZ/task-writer?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoP45Rv7xHNa1xtpEZ7nZ&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoP45Rv7xHNa1xtpEZ7nZ",
+      "created_at": "2026-10-02T20:06:02"
     },
     {
       "id": "list_AAABoP3B8SkA4VcfExhLrYa3",
@@ -4014,32 +4056,6 @@
       "created_at": "2026-09-02T03:23:22"
     },
     {
-      "id": "list_AAABoGAkZhPWPiQWt3lKTZZA",
-      "title": "PDF Annotation & Transcription Experts \u2013 Japanese",
-      "domain": "Language and Audio",
-      "pay": "$31 / hr",
-      "pay_min": 31.0,
-      "pay_max": 31.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "JPN",
-        "USA",
-        "CAN",
-        "GBR"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGAkZhPWPiQWt3lKTZZA/pdf-annotation-transcription-experts-japanese?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGAkZhPWPiQWt3lKTZZA&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGAkZhPWPiQWt3lKTZZA",
-      "created_at": "2026-09-02T03:23:13"
-    },
-    {
       "id": "list_AAABoGAQfhxYOAZAd21EGaDv",
       "title": "PDF Annotation & Transcription Experts \u2013 Odiya",
       "domain": "Language and Audio",
@@ -5870,9 +5886,9 @@
       "id": "list_AAABnQw10KNPyjduO8lAFo-e",
       "title": "Voice Actor: CX Agent Voice Cloning (USA)",
       "domain": "Language and Audio",
-      "pay": "$50 - $150 / hr",
+      "pay": "$50 - $200 / hr",
       "pay_min": 50.0,
-      "pay_max": 150.0,
+      "pay_max": 200.0,
       "pay_unit": "hour",
       "pay_freq": "hourly",
       "commitment": "hourly",
