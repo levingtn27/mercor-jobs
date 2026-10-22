@@ -1,7 +1,30 @@
 {
-  "updated_at": "2026-10-21T20:00:06.750288+00:00",
-  "total": 300,
+  "updated_at": "2026-10-22T00:00:05.170873+00:00",
+  "total": 298,
   "jobs": [
+    {
+      "id": "list_AAABoWBnenaSlmvHenJL2qpb",
+      "title": "Employer Group Benefits Brokers & Consultants \u2013 One-Time Paid Research Survey",
+      "domain": "Business Operations",
+      "pay": "$105 / one-time",
+      "pay_min": 105.0,
+      "pay_max": 105.0,
+      "pay_unit": "task",
+      "pay_freq": "one-time",
+      "commitment": "task-based",
+      "tab": "project-based",
+      "location": "Remote (United States)",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoWBnenaSlmvHenJL2qpb/employer-group-benefits-brokers-consultants-one-time-paid-research-survey?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoWBnenaSlmvHenJL2qpb&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoWBnenaSlmvHenJL2qpb",
+      "created_at": "2026-10-21T21:39:17"
+    },
     {
       "id": "list_AAABoVq3wqHQTphJMAhBY5gQ",
       "title": "[LONG PROJECT] Anonymization Writer",
@@ -1092,27 +1115,6 @@
       "created_at": "2026-10-06T05:07:43"
     },
     {
-      "id": "list_AAABoP45Rv7xHNa1xtpEZ7nZ",
-      "title": "Task Writer",
-      "domain": "Miscellaneous",
-      "pay": "$60 / hr",
-      "pay_min": 60.0,
-      "pay_max": 60.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoP45Rv7xHNa1xtpEZ7nZ/task-writer?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoP45Rv7xHNa1xtpEZ7nZ&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoP45Rv7xHNa1xtpEZ7nZ",
-      "created_at": "2026-10-02T20:06:02"
-    },
-    {
       "id": "list_AAABoP3B8SkA4VcfExhLrYa3",
       "title": "Behavioral Health Expert, AI Safety and Model Evaluation",
       "domain": "Life, Physical, and Social Science",
@@ -1677,27 +1679,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoMpfJwEz6JAEUZZPMo7Q",
       "created_at": "2026-09-22T18:27:09"
-    },
-    {
-      "id": "list_AAABoMZlDn5LJvVj3XBA3YGz",
-      "title": "Local Political Expert \u2014 Elections Forecasting & Political Risk",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$100 - $200 / hr",
-      "pay_min": 100.0,
-      "pay_max": 200.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoMZlDn5LJvVj3XBA3YGz/local-political-expert-elections-forecasting-political-risk?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoMZlDn5LJvVj3XBA3YGz&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoMZlDn5LJvVj3XBA3YGz",
-      "created_at": "2026-09-21T23:55:06"
     },
     {
       "id": "list_AAABoLvSwx0SgdNK9ZhCeoSy",
@@ -2645,27 +2626,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoKIwHt2zNelvV1hDvKjQ",
       "created_at": "2026-09-14T23:10:58"
-    },
-    {
-      "id": "list_AAABoKIv5yrqvN56ZlRMUJj0",
-      "title": "Political Expert \u2014 Elections Forecasting & Political Risk",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$150 - $200 / hr",
-      "pay_min": 150.0,
-      "pay_max": 200.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoKIv5yrqvN56ZlRMUJj0/political-expert-elections-forecasting-political-risk?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoKIv5yrqvN56ZlRMUJj0&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoKIv5yrqvN56ZlRMUJj0",
-      "created_at": "2026-09-14T23:10:44"
     },
     {
       "id": "list_AAABoKHds2e4X1lxEltFyJa7",
