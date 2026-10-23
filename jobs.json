@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T12:00:05.017176+00:00",
-  "total": 295,
+  "updated_at": "2026-10-23T16:00:05.115604+00:00",
+  "total": 293,
   "jobs": [
     {
       "id": "list_AAABoWa5lPEq7jlqhxZNLqEJ",
@@ -209,29 +209,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoWTgIFc6PljFQHhBDpYR",
       "created_at": "2026-10-22T18:29:32"
-    },
-    {
-      "id": "list_AAABoWBnenaSlmvHenJL2qpb",
-      "title": "Employer Group Benefits Brokers & Consultants \u2013 One-Time Paid Research Survey",
-      "domain": "Business Operations",
-      "pay": "$105 / one-time",
-      "pay_min": 105.0,
-      "pay_max": 105.0,
-      "pay_unit": "task",
-      "pay_freq": "one-time",
-      "commitment": "task-based",
-      "tab": "project-based",
-      "location": "Remote (United States)",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoWBnenaSlmvHenJL2qpb/employer-group-benefits-brokers-consultants-one-time-paid-research-survey?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoWBnenaSlmvHenJL2qpb&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoWBnenaSlmvHenJL2qpb",
-      "created_at": "2026-10-21T21:39:17"
     },
     {
       "id": "list_AAABoVq3wqHQTphJMAhBY5gQ",
@@ -4663,29 +4640,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCV6ZKL0cmUT7-BExqtw",
       "created_at": "2026-08-21T17:59:33"
-    },
-    {
-      "id": "list_AAABoCVpVbx3Il0MJIpLTKHA",
-      "title": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
-      "domain": "Business Operations",
-      "pay": "$70 - $110 / hr",
-      "pay_min": 70.0,
-      "pay_max": 110.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoCVpVbx3Il0MJIpLTKHA/sales-representatives-wholesale-and-manufacturing-technical-and-scientific-products?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCVpVbx3Il0MJIpLTKHA&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCVpVbx3Il0MJIpLTKHA",
-      "created_at": "2026-08-21T17:40:55"
     },
     {
       "id": "list_AAABoBt9Gyyhs3BhJitBYYIf",
