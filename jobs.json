@@ -1,7 +1,99 @@
 {
-  "updated_at": "2026-10-23T20:00:06.061494+00:00",
-  "total": 295,
+  "updated_at": "2026-10-24T00:00:05.482576+00:00",
+  "total": 297,
   "jobs": [
+    {
+      "id": "list_AAABoWoZmUZ_SLUqJNtCkJsp",
+      "title": "US Contract Attorney \u2014 Litigation",
+      "domain": "Law",
+      "pay": "$100 - $120 / hr",
+      "pay_min": 100.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoWoZmUZ_SLUqJNtCkJsp/us-contract-attorney-litigation?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoWoZmUZ_SLUqJNtCkJsp&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoWoZmUZ_SLUqJNtCkJsp",
+      "created_at": "2026-10-23T18:50:25"
+    },
+    {
+      "id": "list_AAABoWoHuWaDFZD8pR9DzbZ7",
+      "title": "US Contract Attorney \u2014 In-House Counsel",
+      "domain": "Law",
+      "pay": "$100 - $120 / hr",
+      "pay_min": 100.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoWoHuWaDFZD8pR9DzbZ7/us-contract-attorney-in-house-counsel?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoWoHuWaDFZD8pR9DzbZ7&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoWoHuWaDFZD8pR9DzbZ7",
+      "created_at": "2026-10-23T18:30:54"
+    },
+    {
+      "id": "list_AAABoWoHm--lhpCWq05MdZXj",
+      "title": "US Contract Attorney \u2014 Transactional",
+      "domain": "Law",
+      "pay": "$100 - $120 / hr",
+      "pay_min": 100.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoWoHm--lhpCWq05MdZXj/us-contract-attorney-transactional?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoWoHm--lhpCWq05MdZXj&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoWoHm--lhpCWq05MdZXj",
+      "created_at": "2026-10-23T18:30:46"
+    },
+    {
+      "id": "list_AAABoWoHfr1BOfMq7LtFPbpS",
+      "title": "US Contract Attorney \u2014 Federal Litigation",
+      "domain": "Law",
+      "pay": "$100 - $120 / hr",
+      "pay_min": 100.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoWoHfr1BOfMq7LtFPbpS/us-contract-attorney-federal-litigation?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoWoHfr1BOfMq7LtFPbpS&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoWoHfr1BOfMq7LtFPbpS",
+      "created_at": "2026-10-23T18:30:39"
+    },
     {
       "id": "list_AAABoWnmo_r9-E68CJJDo4xA",
       "title": "Vision Verticals Reviewer",
@@ -56,9 +148,7 @@
       "commitment": "hourly",
       "tab": "project-based",
       "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
+      "eligible": [],
       "hired_count": null,
       "is_new": true,
       "closing_soon": false,
@@ -1101,29 +1191,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoSqwAbJg5l-P-uROLKnm",
       "created_at": "2026-10-11T11:19:00"
-    },
-    {
-      "id": "list_AAABoSF-Wwg8IZofdQNAuaTS",
-      "title": "Cardiologist \u2013 Clinical Consultant (ATTR Cardiac Amyloidosis)",
-      "domain": "Medicine",
-      "pay": "$120 - $150 / hr",
-      "pay_min": 120.0,
-      "pay_max": 150.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote (US)",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoSF-Wwg8IZofdQNAuaTS/cardiologist-clinical-consultant-attr-cardiac-amyloidosis?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoSF-Wwg8IZofdQNAuaTS&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoSF-Wwg8IZofdQNAuaTS",
-      "created_at": "2026-10-09T16:28:11"
     },
     {
       "id": "list_AAABoRnISCyU_P0zjjBMAr5L",
@@ -3972,27 +4039,6 @@
       "created_at": "2026-09-12T23:37:26"
     },
     {
-      "id": "list_AAABoJPByk9inhwbGQ5APYVW",
-      "title": "Quality Analyst",
-      "domain": "Miscellaneous",
-      "pay": "$20 - $50 / hr",
-      "pay_min": 20.0,
-      "pay_max": 50.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoJPByk9inhwbGQ5APYVW/quality-analyst?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoJPByk9inhwbGQ5APYVW&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoJPByk9inhwbGQ5APYVW",
-      "created_at": "2026-09-12T03:55:46"
-    },
-    {
       "id": "list_AAABoJEZsx-GA2FkHqpMwZV9",
       "title": "Molecular Biology Experts - US",
       "domain": "Life, Physical, and Social Science",
@@ -4121,27 +4167,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGjGzv03O8zFAm9KAp7n",
       "created_at": "2026-09-03T19:37:35"
-    },
-    {
-      "id": "list_AAABoGhhxWgF7ygE2LZOgIy3",
-      "title": "B2B Sales Expert (3+ YOE, US Only)",
-      "domain": "Business Operations",
-      "pay": "$50 - $70 / hr",
-      "pay_min": 50.0,
-      "pay_max": 70.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGhhxWgF7ygE2LZOgIy3/b2b-sales-expert-3-yoe-us-only?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGhhxWgF7ygE2LZOgIy3&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGhhxWgF7ygE2LZOgIy3",
-      "created_at": "2026-09-03T17:47:13"
     },
     {
       "id": "list_AAABoGYcR_Q8k7gMhOdC84s-",
@@ -5420,6 +5445,27 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn7QE-IGAlH7zJwpKN6uM",
       "created_at": "2026-07-30T17:14:12"
+    },
+    {
+      "id": "list_AAABn7GGjCWSrvaOt-lIFoB2",
+      "title": "AI Safety Experts \u2014 English & Vietnamese",
+      "domain": "Data Analysis",
+      "pay": "$17 - $25 / hr",
+      "pay_min": 17.0,
+      "pay_max": 25.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABn7GGjCWSrvaOt-lIFoB2/ai-safety-experts-english-vietnamese?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn7GGjCWSrvaOt-lIFoB2&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn7GGjCWSrvaOt-lIFoB2",
+      "created_at": "2026-07-30T05:36:52"
     },
     {
       "id": "list_AAABn6vGkxZngsMTe7xP7rqG",
