@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T04:00:05.245841+00:00",
-  "total": 311,
+  "updated_at": "2026-10-24T08:00:05.120912+00:00",
+  "total": 309,
   "jobs": [
     {
       "id": "list_AAABoWtwzY78zzncm-FELrjZ",
@@ -1619,6 +1619,27 @@
       "created_at": "2026-10-06T05:07:43"
     },
     {
+      "id": "list_AAABoQ9G4DSSNzu_zvdIJYwu",
+      "title": "Database Systems Evaluation Expert",
+      "domain": "Software Engineering",
+      "pay": "$2.2K / task",
+      "pay_min": 2200.0,
+      "pay_max": 2200.0,
+      "pay_unit": "task",
+      "pay_freq": "per-task",
+      "commitment": "task-based",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoQ9G4DSSNzu_zvdIJYwu/database-systems-evaluation-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoQ9G4DSSNzu_zvdIJYwu&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoQ9G4DSSNzu_zvdIJYwu",
+      "created_at": "2026-10-06T03:34:25"
+    },
+    {
       "id": "list_AAABoP3B8SkA4VcfExhLrYa3",
       "title": "Behavioral Health Expert, AI Safety and Model Evaluation",
       "domain": "Life, Physical, and Social Science",
@@ -2091,75 +2112,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoNEASAHvBkQQfdJC0ar3",
       "created_at": "2026-09-24T01:20:51"
-    },
-    {
-      "id": "list_AAABoNB0XIYO9wcITgdLWrr3",
-      "title": "Cybersecurity Practitioner: Paid Expert Interviews (SOC, Incident Response, Detection, AppSec)",
-      "domain": "Software Engineering",
-      "pay": "$125 - $175 / hr",
-      "pay_min": 125.0,
-      "pay_max": 175.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "United States (remote)",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoNB0XIYO9wcITgdLWrr3/cybersecurity-practitioner-paid-expert-interviews-soc-incident-response-detection-appsec?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoNB0XIYO9wcITgdLWrr3&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoNB0XIYO9wcITgdLWrr3",
-      "created_at": "2026-09-23T22:48:02"
-    },
-    {
-      "id": "list_AAABoMtS0qmSPtVtBq1NBaon",
-      "title": "Staff Software Engineer, Mobile (Android, Kotlin, Full Stack)",
-      "domain": "Software Engineering",
-      "pay": "$50 - $90 / hr",
-      "pay_min": 50.0,
-      "pay_max": 90.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "full-time",
-      "tab": "project-based",
-      "location": "United States",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoMtS0qmSPtVtBq1NBaon/staff-software-engineer-mobile-android-kotlin-full-stack?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoMtS0qmSPtVtBq1NBaon&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoMtS0qmSPtVtBq1NBaon",
-      "created_at": "2026-09-22T22:53:18"
-    },
-    {
-      "id": "list_AAABoMtDExxnRVLyaolPD7pJ",
-      "title": "Senior Software Engineer, Backend (Node.js, TypeScript, Rust)",
-      "domain": "Software Engineering",
-      "pay": "$50 - $80 / hr",
-      "pay_min": 50.0,
-      "pay_max": 80.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "full-time",
-      "tab": "project-based",
-      "location": "United States",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoMtDExxnRVLyaolPD7pJ/senior-software-engineer-backend-node-js-typescript-rust?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoMtDExxnRVLyaolPD7pJ&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoMtDExxnRVLyaolPD7pJ",
-      "created_at": "2026-09-22T22:36:06"
     },
     {
       "id": "list_AAABoMpfJwEz6JAEUZZPMo7Q",
