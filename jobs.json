@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T08:00:05.120912+00:00",
+  "updated_at": "2026-10-24T12:00:12.317538+00:00",
   "total": 309,
   "jobs": [
     {
@@ -318,6 +318,29 @@
       "created_at": "2026-10-24T01:04:16"
     },
     {
+      "id": "list_AAABoWsjEohggV1F8gdLEoVO",
+      "title": "Retail Trader",
+      "domain": null,
+      "pay": "$400 / task",
+      "pay_min": 400.0,
+      "pay_max": 400.0,
+      "pay_unit": "task",
+      "pay_freq": "per-task",
+      "commitment": "task-based",
+      "tab": "project-based",
+      "location": "United States (remote)",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoWsjEohggV1F8gdLEoVO/retail-trader?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoWsjEohggV1F8gdLEoVO&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoWsjEohggV1F8gdLEoVO",
+      "created_at": "2026-10-23T23:40:23"
+    },
+    {
       "id": "list_AAABoWoZmUZ_SLUqJNtCkJsp",
       "title": "US Contract Attorney \u2014 Litigation",
       "domain": "Law",
@@ -408,27 +431,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoWoHfr1BOfMq7LtFPbpS",
       "created_at": "2026-10-23T18:30:39"
-    },
-    {
-      "id": "list_AAABoWnmo_r9-E68CJJDo4xA",
-      "title": "Vision Verticals Reviewer",
-      "domain": "Miscellaneous",
-      "pay": "$60 - $80 / hr",
-      "pay_min": 60.0,
-      "pay_max": 80.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoWnmo_r9-E68CJJDo4xA/vision-verticals-reviewer?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoWnmo_r9-E68CJJDo4xA&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoWnmo_r9-E68CJJDo4xA",
-      "created_at": "2026-10-23T17:54:45"
     },
     {
       "id": "list_AAABoWa5lPEq7jlqhxZNLqEJ",
