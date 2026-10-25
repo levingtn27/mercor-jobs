@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T08:00:04.983498+00:00",
-  "total": 306,
+  "updated_at": "2026-10-25T12:00:04.964843+00:00",
+  "total": 307,
   "jobs": [
     {
       "id": "list_AAABoWtwzY78zzncm-FELrjZ",
@@ -5758,6 +5758,27 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn6TCgs826CBSyVRP6L2k",
       "created_at": "2026-07-27T18:07:19"
+    },
+    {
+      "id": "list_AAABn5vEYCY9JpDvdTdM1Y-0",
+      "title": "Generalist (Must own MacBook)",
+      "domain": "Data Analysis",
+      "pay": "$50 - $60 / hr",
+      "pay_min": 50.0,
+      "pay_max": 60.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABn5vEYCY9JpDvdTdM1Y-0/generalist-must-own-macbook?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn5vEYCY9JpDvdTdM1Y-0&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn5vEYCY9JpDvdTdM1Y-0",
+      "created_at": "2026-07-26T00:12:45"
     },
     {
       "id": "list_AAABn4KNStkBMy2K25lN2ati",
