@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T04:00:05.135388+00:00",
-  "total": 307,
+  "updated_at": "2026-10-26T08:00:05.431861+00:00",
+  "total": 302,
   "jobs": [
     {
       "id": "list_AAABoWtwzY78zzncm-FELrjZ",
@@ -1913,29 +1913,6 @@
       "created_at": "2026-09-26T11:36:22"
     },
     {
-      "id": "list_AAABoNh6pneKJYR-IGNBcqWr",
-      "title": "Senior Product Designer, UI/UX",
-      "domain": "Arts & Design",
-      "pay": "$80 - $110 / hr",
-      "pay_min": 80.0,
-      "pay_max": 110.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "full-time",
-      "tab": "project-based",
-      "location": "United States",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoNh6pneKJYR-IGNBcqWr/senior-product-designer-ui-ux?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoNh6pneKJYR-IGNBcqWr&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoNh6pneKJYR-IGNBcqWr",
-      "created_at": "2026-09-25T12:11:52"
-    },
-    {
       "id": "list_AAABoNenq3JyZlIVdEJB1LAw",
       "title": "Stochastic Biophysics Physicist (PhD)",
       "domain": "Life, Physical, and Social Science",
@@ -2213,61 +2190,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoLvSwx0SgdNK9ZhCeoSy",
       "created_at": "2026-09-19T22:39:07"
-    },
-    {
-      "id": "list_AAABoLBL8QQESPRVXb9Aybnn",
-      "title": "Private Equity Associate \u2013 Consumer & Leisure (France/Europe)",
-      "domain": "Finance",
-      "pay": "$80 - $100 / hr",
-      "pay_min": 80.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "France / Europe (remote)",
-      "eligible": [
-        "FRA",
-        "GBR",
-        "DEU",
-        "NLD",
-        "ESP",
-        "ITA",
-        "BEL",
-        "LUX",
-        "IRL",
-        "CHE"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoLBL8QQESPRVXb9Aybnn/private-equity-associate-consumer-leisure-france-europe?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoLBL8QQESPRVXb9Aybnn&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoLBL8QQESPRVXb9Aybnn",
-      "created_at": "2026-09-17T16:56:02"
-    },
-    {
-      "id": "list_AAABoLBLyxtYgIe8NZNJkZaA",
-      "title": "Private Equity Associate \u2013 Real Estate (US)",
-      "domain": "Finance",
-      "pay": "$80 - $100 / hr",
-      "pay_min": 80.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "United States (remote)",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoLBLyxtYgIe8NZNJkZaA/private-equity-associate-real-estate-us?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoLBLyxtYgIe8NZNJkZaA&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoLBLyxtYgIe8NZNJkZaA",
-      "created_at": "2026-09-17T16:55:52"
     },
     {
       "id": "list_AAABoKver4zykD33JeRD2YDT",
@@ -5687,27 +5609,6 @@
       "created_at": "2026-07-30T17:14:12"
     },
     {
-      "id": "list_AAABn7GGjCWSrvaOt-lIFoB2",
-      "title": "AI Safety Experts \u2014 English & Vietnamese",
-      "domain": "Data Analysis",
-      "pay": "$17 - $25 / hr",
-      "pay_min": 17.0,
-      "pay_max": 25.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn7GGjCWSrvaOt-lIFoB2/ai-safety-experts-english-vietnamese?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn7GGjCWSrvaOt-lIFoB2&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn7GGjCWSrvaOt-lIFoB2",
-      "created_at": "2026-07-30T05:36:52"
-    },
-    {
       "id": "list_AAABn6vGkxZngsMTe7xP7rqG",
       "title": "Data Scientist Talent Network",
       "domain": "Data Analysis",
@@ -5792,27 +5693,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn6TCgs826CBSyVRP6L2k",
       "created_at": "2026-07-27T18:07:19"
-    },
-    {
-      "id": "list_AAABn5vEYCY9JpDvdTdM1Y-0",
-      "title": "Generalist (Must own MacBook)",
-      "domain": "Data Analysis",
-      "pay": "$50 - $60 / hr",
-      "pay_min": 50.0,
-      "pay_max": 60.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn5vEYCY9JpDvdTdM1Y-0/generalist-must-own-macbook?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn5vEYCY9JpDvdTdM1Y-0&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn5vEYCY9JpDvdTdM1Y-0",
-      "created_at": "2026-07-26T00:12:45"
     },
     {
       "id": "list_AAABn4KNStkBMy2K25lN2ati",
