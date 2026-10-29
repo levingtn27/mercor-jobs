@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-29T00:00:05.452881+00:00",
-  "total": 309,
+  "updated_at": "2026-10-29T04:00:05.422193+00:00",
+  "total": 308,
   "jobs": [
     {
       "id": "list_AAABoYQqZfrpr7vPO4JFA62D",
@@ -200,27 +200,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoXuE96XzQVNYx-VDPpQa",
       "created_at": "2026-10-27T04:01:14"
-    },
-    {
-      "id": "list_AAABoXlzADizwRyyDutBMpdx",
-      "title": "Indonesian Linguistic Experts",
-      "domain": null,
-      "pay": "$30 / hr",
-      "pay_min": 30.0,
-      "pay_max": 30.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoXlzADizwRyyDutBMpdx/indonesian-linguistic-experts?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoXlzADizwRyyDutBMpdx&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoXlzADizwRyyDutBMpdx",
-      "created_at": "2026-10-26T18:22:22"
     },
     {
       "id": "list_AAABoXlyYOQK6mM0D4FG05Qu",
