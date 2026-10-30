@@ -1,7 +1,99 @@
 {
-  "updated_at": "2026-10-30T16:00:05.128048+00:00",
-  "total": 318,
+  "updated_at": "2026-10-30T20:00:05.244260+00:00",
+  "total": 321,
   "jobs": [
+    {
+      "id": "list_AAABoYr34sDSXamCPtFMIrdv",
+      "title": "Mathematics Domain Expert",
+      "domain": null,
+      "pay": "$90 - $140 / hr",
+      "pay_min": 90.0,
+      "pay_max": 140.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote (United States)",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoYr34sDSXamCPtFMIrdv/mathematics-domain-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoYr34sDSXamCPtFMIrdv&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoYr34sDSXamCPtFMIrdv",
+      "created_at": "2026-10-30T04:01:04"
+    },
+    {
+      "id": "list_AAABoYr3vuO4cXwvq0FKEZxq",
+      "title": "Biology & Life Sciences Domain Expert",
+      "domain": null,
+      "pay": "$90 - $140 / hr",
+      "pay_min": 90.0,
+      "pay_max": 140.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote (United States)",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoYr3vuO4cXwvq0FKEZxq/biology-life-sciences-domain-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoYr3vuO4cXwvq0FKEZxq&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoYr3vuO4cXwvq0FKEZxq",
+      "created_at": "2026-10-30T04:00:55"
+    },
+    {
+      "id": "list_AAABoYr3mMPdrm41A5tHTK36",
+      "title": "Chemistry Domain Expert",
+      "domain": null,
+      "pay": "$90 - $140 / hr",
+      "pay_min": 90.0,
+      "pay_max": 140.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote (United States)",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoYr3mMPdrm41A5tHTK36/chemistry-domain-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoYr3mMPdrm41A5tHTK36&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoYr3mMPdrm41A5tHTK36",
+      "created_at": "2026-10-30T04:00:45"
+    },
+    {
+      "id": "list_AAABoYr3SG3-4yi5ct9Bgp3k",
+      "title": "Physics Domain Expert",
+      "domain": null,
+      "pay": "$90 - $140 / hr",
+      "pay_min": 90.0,
+      "pay_max": 140.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote (United States)",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoYr3SG3-4yi5ct9Bgp3k/physics-domain-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoYr3SG3-4yi5ct9Bgp3k&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoYr3SG3-4yi5ct9Bgp3k",
+      "created_at": "2026-10-30T04:00:24"
+    },
     {
       "id": "list_AAABoYQqZfrpr7vPO4JFA62D",
       "title": "Luxury Automotive Strategy Expert",
@@ -6333,29 +6425,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnoQC2bLQ9YaeK3JHzIPK",
       "created_at": "2026-06-01T16:27:20"
-    },
-    {
-      "id": "list_AAABnoPpfzmf04TLNuZKYrd4",
-      "title": "Voice Actor: CX Agent Voice Cloning (Canadian French)",
-      "domain": "Language and Audio",
-      "pay": "$50 / hr",
-      "pay_min": 50.0,
-      "pay_max": 50.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "CAN"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABnoPpfzmf04TLNuZKYrd4/voice-actor-cx-agent-voice-cloning-canadian-french?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnoPpfzmf04TLNuZKYrd4&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnoPpfzmf04TLNuZKYrd4",
-      "created_at": "2026-06-01T15:59:38"
     },
     {
       "id": "list_AAABnlNc5vKNKKMWYLxGQ7NX",
