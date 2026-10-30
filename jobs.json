@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T20:00:05.552969+00:00",
+  "updated_at": "2026-10-30T00:00:05.270322+00:00",
   "total": 307,
   "jobs": [
     {
@@ -45,27 +45,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoYOO8zQtYcKO699P24Q1",
       "created_at": "2026-10-28T17:29:06"
-    },
-    {
-      "id": "list_AAABoYIA_JerHWae4sBExJ8r",
-      "title": "Spanish (Spain) Linguistic Expert",
-      "domain": null,
-      "pay": "$40 / hr",
-      "pay_min": 40.0,
-      "pay_max": 40.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoYIA_JerHWae4sBExJ8r/spanish-spain-linguistic-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoYIA_JerHWae4sBExJ8r&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoYIA_JerHWae4sBExJ8r",
-      "created_at": "2026-10-28T10:14:25"
     },
     {
       "id": "list_AAABoYCbZiiqq45XRMtOh7-4",
@@ -179,6 +158,27 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoXuE96XzQVNYx-VDPpQa",
       "created_at": "2026-10-27T04:01:14"
+    },
+    {
+      "id": "list_AAABoXq9t0y0EaX_MQROQ69T",
+      "title": "Search Generalist",
+      "domain": null,
+      "pay": "$30 - $40 / hr",
+      "pay_min": 30.0,
+      "pay_max": 40.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoXq9t0y0EaX_MQROQ69T/search-generalist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoXq9t0y0EaX_MQROQ69T&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoXq9t0y0EaX_MQROQ69T",
+      "created_at": "2026-10-27T00:23:36"
     },
     {
       "id": "list_AAABoXlzElsOghL6D6NMkrR1",
@@ -2068,6 +2068,27 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoO94SrBCWFrRmM1A07Rq",
       "created_at": "2026-09-29T23:20:33"
+    },
+    {
+      "id": "list_AAABoOppU3x5v3XMbLRHP4rK",
+      "title": "Senior Economics Research Expert",
+      "domain": "Life, Physical, and Social Science",
+      "pay": "$150 - $200 / hr",
+      "pay_min": 150.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoOppU3x5v3XMbLRHP4rK/senior-economics-research-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoOppU3x5v3XMbLRHP4rK&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoOppU3x5v3XMbLRHP4rK",
+      "created_at": "2026-09-28T23:46:06"
     },
     {
       "id": "list_AAABoN3f7l-LB1Be6AdMFJqm",
@@ -5712,27 +5733,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn6TCgs826CBSyVRP6L2k",
       "created_at": "2026-07-27T18:07:19"
-    },
-    {
-      "id": "list_AAABn6FezgqpcfJCfGpD7oHm",
-      "title": "Consulting Expert",
-      "domain": "Finance",
-      "pay": "$95 / hr",
-      "pay_min": 95.0,
-      "pay_max": 95.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn6FezgqpcfJCfGpD7oHm/consulting-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn6FezgqpcfJCfGpD7oHm&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn6FezgqpcfJCfGpD7oHm",
-      "created_at": "2026-07-27T02:19:33"
     },
     {
       "id": "list_AAABn5vEYCY9JpDvdTdM1Y-0",
