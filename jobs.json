@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30T00:00:05.270322+00:00",
-  "total": 307,
+  "updated_at": "2026-10-30T04:00:05.797961+00:00",
+  "total": 306,
   "jobs": [
     {
       "id": "list_AAABoYQqZfrpr7vPO4JFA62D",
@@ -1980,27 +1980,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoPJ_fWgrIgAI-ilEL5S3",
       "created_at": "2026-09-30T13:27:17"
-    },
-    {
-      "id": "list_AAABoPDII7B-8WgpI_tO4YbK",
-      "title": "Clinical Mental Health Expert \u2014 AI Conversation Evaluation",
-      "domain": "Medicine",
-      "pay": "$100 / hr",
-      "pay_min": 100.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoPDII7B-8WgpI_tO4YbK/clinical-mental-health-expert-ai-conversation-evaluation?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoPDII7B-8WgpI_tO4YbK&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoPDII7B-8WgpI_tO4YbK",
-      "created_at": "2026-09-30T05:27:23"
     },
     {
       "id": "list_AAABoPCke-s0JMTy24RAioi9",
