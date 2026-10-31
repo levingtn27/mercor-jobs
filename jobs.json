@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-31T00:00:05.041961+00:00",
-  "total": 328,
+  "updated_at": "2026-10-31T04:00:05.434904+00:00",
+  "total": 327,
   "jobs": [
     {
       "id": "list_AAABoY6KV-qA2S205AlLgrqM",
@@ -5333,29 +5333,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWSTbhgejc0oLZDmbSP",
       "created_at": "2026-08-21T18:25:40"
-    },
-    {
-      "id": "list_AAABoCV6ZKL0cmUT7-BExqtw",
-      "title": "Project Management Specialists",
-      "domain": "Business Operations",
-      "pay": "$70 - $110 / hr",
-      "pay_min": 70.0,
-      "pay_max": 110.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoCV6ZKL0cmUT7-BExqtw/project-management-specialists?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCV6ZKL0cmUT7-BExqtw&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCV6ZKL0cmUT7-BExqtw",
-      "created_at": "2026-08-21T17:59:33"
     },
     {
       "id": "list_AAABoCVpVbx3Il0MJIpLTKHA",
