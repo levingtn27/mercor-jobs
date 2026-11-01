@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T04:00:06.965429+00:00",
-  "total": 320,
+  "updated_at": "2026-11-01T08:00:05.051171+00:00",
+  "total": 314,
   "jobs": [
     {
       "id": "list_AAABoZQFI1_FwyFlEzJGgZW-",
@@ -2322,27 +2322,6 @@
       "created_at": "2026-10-02T17:55:41"
     },
     {
-      "id": "list_AAABoPJ_fWgrIgAI-ilEL5S3",
-      "title": "Lean Engineer, Formal Mathematics (Lean 4, Mathlib, Theorem Proving)",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$90 - $110 / hr",
-      "pay_min": 90.0,
-      "pay_max": 110.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoPJ_fWgrIgAI-ilEL5S3/lean-engineer-formal-mathematics-lean-4-mathlib-theorem-proving?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoPJ_fWgrIgAI-ilEL5S3&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoPJ_fWgrIgAI-ilEL5S3",
-      "created_at": "2026-09-30T13:27:17"
-    },
-    {
       "id": "list_AAABoPCke-s0JMTy24RAioi9",
       "title": "Pharmacist / Pharmacy Technician \u2014 Medication Pronunciation Reviewer",
       "domain": "Medicine",
@@ -4537,52 +4516,6 @@
       "created_at": "2026-09-12T23:37:26"
     },
     {
-      "id": "list_AAABoJEZsx-GA2FkHqpMwZV9",
-      "title": "Molecular Biology Experts - US",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$70 - $105 / hr",
-      "pay_min": 70.0,
-      "pay_max": 105.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote US",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoJEZsx-GA2FkHqpMwZV9/molecular-biology-experts-us?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoJEZsx-GA2FkHqpMwZV9&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoJEZsx-GA2FkHqpMwZV9",
-      "created_at": "2026-09-11T15:32:56"
-    },
-    {
-      "id": "list_AAABoJCcEIgg7W6u-FNGqJ6x",
-      "title": "Molecular Biology Experts - UK",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$70 - $105 / hr",
-      "pay_min": 70.0,
-      "pay_max": 105.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote UK",
-      "eligible": [
-        "GBR"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoJCcEIgg7W6u-FNGqJ6x/molecular-biology-experts-uk?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoJCcEIgg7W6u-FNGqJ6x&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoJCcEIgg7W6u-FNGqJ6x",
-      "created_at": "2026-09-11T13:15:42"
-    },
-    {
       "id": "list_AAABoIcnmT3k_xSnNc9OZ7EN",
       "title": "Chemicals Safety for Redteaming",
       "domain": "Life, Physical, and Social Science",
@@ -4665,27 +4598,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoIaWxs6wYeEZpsJEZbPu",
       "created_at": "2026-09-09T14:33:43"
-    },
-    {
-      "id": "list_AAABoGjGzv03O8zFAm9KAp7n",
-      "title": "Customer Success - Operations (India Region)",
-      "domain": "Business Operations",
-      "pay": "$15K - $30K / yr",
-      "pay_min": 15000.0,
-      "pay_max": 30000.0,
-      "pay_unit": "year",
-      "pay_freq": "yearly",
-      "commitment": "full-time",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGjGzv03O8zFAm9KAp7n/customer-success-operations-india-region?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGjGzv03O8zFAm9KAp7n&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGjGzv03O8zFAm9KAp7n",
-      "created_at": "2026-09-03T19:37:35"
     },
     {
       "id": "list_AAABoGYcR_Q8k7gMhOdC84s-",
@@ -5090,29 +5002,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoDrLTtVzOBh5_cNK5rFh",
       "created_at": "2026-08-25T21:19:58"
-    },
-    {
-      "id": "list_AAABoDVFAgVYx8zPqb1P9bL4",
-      "title": "Cloud / DevOps Engineer (Infra & IaC)",
-      "domain": "Software Engineering",
-      "pay": "$75 - $110 / hr",
-      "pay_min": 75.0,
-      "pay_max": 110.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "full-time",
-      "tab": "project-based",
-      "location": "United States (Remote)",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoDVFAgVYx8zPqb1P9bL4/cloud-devops-engineer-infra-iac?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoDVFAgVYx8zPqb1P9bL4&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoDVFAgVYx8zPqb1P9bL4",
-      "created_at": "2026-08-24T19:35:10"
     },
     {
       "id": "list_AAABoCl905TW9jWTfs9Oh44S",
@@ -6092,27 +5981,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn2445JJgOdUpk4dC65kk",
       "created_at": "2026-07-17T03:57:30"
-    },
-    {
-      "id": "list_AAABn2YuaXCvlWVmKj1OV53l",
-      "title": "Pro Bono Counsel (Access to Justice Expert)",
-      "domain": "Law",
-      "pay": "$170 / hr",
-      "pay_min": 170.0,
-      "pay_max": 170.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn2YuaXCvlWVmKj1OV53l/pro-bono-counsel-access-to-justice-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn2YuaXCvlWVmKj1OV53l&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn2YuaXCvlWVmKj1OV53l",
-      "created_at": "2026-07-15T14:29:06"
     },
     {
       "id": "list_AAABn0P58KdDXVKjCURPtoyr",
