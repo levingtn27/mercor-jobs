@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T00:00:05.605960+00:00",
-  "total": 322,
+  "updated_at": "2026-11-01T04:00:06.965429+00:00",
+  "total": 320,
   "jobs": [
     {
       "id": "list_AAABoZQFI1_FwyFlEzJGgZW-",
@@ -45,48 +45,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoY6KV-qA2S205AlLgrqM",
       "created_at": "2026-10-30T20:39:54"
-    },
-    {
-      "id": "list_AAABoY6KSH5Gy3pn0CZOFrHd",
-      "title": "Physical Sciences & Engineering Professional",
-      "domain": null,
-      "pay": "$84 / hr",
-      "pay_min": 84.0,
-      "pay_max": 84.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoY6KSH5Gy3pn0CZOFrHd/physical-sciences-engineering-professional?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoY6KSH5Gy3pn0CZOFrHd&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoY6KSH5Gy3pn0CZOFrHd",
-      "created_at": "2026-10-30T20:39:50"
-    },
-    {
-      "id": "list_AAABoY6KKlFwa2GA4jxPrI7D",
-      "title": "Healthcare Professional",
-      "domain": null,
-      "pay": "$39 / hr",
-      "pay_min": 39.0,
-      "pay_max": 39.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoY6KKlFwa2GA4jxPrI7D/healthcare-professional?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoY6KKlFwa2GA4jxPrI7D&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoY6KKlFwa2GA4jxPrI7D",
-      "created_at": "2026-10-30T20:39:42"
     },
     {
       "id": "list_AAABoY6KFy91tsNIky9FhYzd",
