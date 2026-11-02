@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02T12:00:05.778441+00:00",
-  "total": 317,
+  "updated_at": "2026-11-02T16:00:07.571562+00:00",
+  "total": 316,
   "jobs": [
     {
       "id": "list_AAABoZp0wzuyh1qXnV5ADJMG",
@@ -6048,27 +6048,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn2445JJgOdUpk4dC65kk",
       "created_at": "2026-07-17T03:57:30"
-    },
-    {
-      "id": "list_AAABn0P58KdDXVKjCURPtoyr",
-      "title": "Legal Expert",
-      "domain": "Law",
-      "pay": "$90 / hr",
-      "pay_min": 90.0,
-      "pay_max": 90.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn0P58KdDXVKjCURPtoyr/legal-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn0P58KdDXVKjCURPtoyr&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn0P58KdDXVKjCURPtoyr",
-      "created_at": "2026-07-08T23:04:41"
     },
     {
       "id": "list_AAABn0MTnuGa6YO-AKFD_ah0",
