@@ -1,7 +1,30 @@
 {
-  "updated_at": "2026-11-03T20:00:06.872839+00:00",
+  "updated_at": "2026-11-04T00:00:04.848704+00:00",
   "total": 323,
   "jobs": [
+    {
+      "id": "list_AAABoaOWz1A9HHs5C2VDcas_",
+      "title": "Loan Underwriter / Loan Officer \u2014 Paid Research Survey (US)",
+      "domain": null,
+      "pay": "$70 / one-time",
+      "pay_min": 70.0,
+      "pay_max": 70.0,
+      "pay_unit": "task",
+      "pay_freq": "one-time",
+      "commitment": "task-based",
+      "tab": "project-based",
+      "location": "Remote (United States)",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoaOWz1A9HHs5C2VDcas_/loan-underwriter-loan-officer-paid-research-survey-us?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoaOWz1A9HHs5C2VDcas_&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoaOWz1A9HHs5C2VDcas_",
+      "created_at": "2026-11-03T22:45:32"
+    },
     {
       "id": "list_AAABoZ5Af5H0GMoyXaBBDKW2",
       "title": "Open Source Maintainer / Core Contributor \u2013 Software Engineer",
@@ -309,6 +332,27 @@
       "created_at": "2026-10-28T17:29:06"
     },
     {
+      "id": "list_AAABoYIA_JerHWae4sBExJ8r",
+      "title": "Spanish (Spain) Linguistic Expert",
+      "domain": null,
+      "pay": "$40 / hr",
+      "pay_min": 40.0,
+      "pay_max": 40.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "part-time",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoYIA_JerHWae4sBExJ8r/spanish-spain-linguistic-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoYIA_JerHWae4sBExJ8r&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoYIA_JerHWae4sBExJ8r",
+      "created_at": "2026-10-28T10:14:25"
+    },
+    {
       "id": "list_AAABoYCbZiiqq45XRMtOh7-4",
       "title": "Orthodontist",
       "domain": null,
@@ -420,27 +464,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoXuE96XzQVNYx-VDPpQa",
       "created_at": "2026-10-27T04:01:14"
-    },
-    {
-      "id": "list_AAABoXq9t0y0EaX_MQROQ69T",
-      "title": "Search Generalist",
-      "domain": null,
-      "pay": "$30 - $40 / hr",
-      "pay_min": 30.0,
-      "pay_max": 40.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoXq9t0y0EaX_MQROQ69T/search-generalist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoXq9t0y0EaX_MQROQ69T&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoXq9t0y0EaX_MQROQ69T",
-      "created_at": "2026-10-27T00:23:36"
     },
     {
       "id": "list_AAABoXlzElsOghL6D6NMkrR1",
@@ -2513,27 +2536,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoNekthWNOoiOk35BMpG5",
       "created_at": "2026-09-25T08:18:11"
-    },
-    {
-      "id": "list_AAABoNej3OtEv4hfNs5JAbJm",
-      "title": "Condensed Matter Physicist (PhD)",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$80 - $110 / hr",
-      "pay_min": 80.0,
-      "pay_max": 110.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoNej3OtEv4hfNs5JAbJm/condensed-matter-physicist-phd?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoNej3OtEv4hfNs5JAbJm&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoNej3OtEv4hfNs5JAbJm",
-      "created_at": "2026-09-25T08:17:16"
     },
     {
       "id": "list_AAABoNLsLfvO46zBcIpE4ZlF",
