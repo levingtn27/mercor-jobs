@@ -1,7 +1,30 @@
 {
-  "updated_at": "2026-11-04T16:00:06.426546+00:00",
-  "total": 348,
+  "updated_at": "2026-11-04T20:00:07.708351+00:00",
+  "total": 349,
   "jobs": [
+    {
+      "id": "list_AAABoaeNrWp59rmBuyZIepKI",
+      "title": "Lifestyle & Travel Concierge Expert",
+      "domain": null,
+      "pay": "$65 / hr",
+      "pay_min": 65.0,
+      "pay_max": 65.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote (US)",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoaeNrWp59rmBuyZIepKI/lifestyle-travel-concierge-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoaeNrWp59rmBuyZIepKI&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoaeNrWp59rmBuyZIepKI",
+      "created_at": "2026-11-04T17:14:02"
+    },
     {
       "id": "list_AAABoaOWz1A9HHs5C2VDcas_",
       "title": "Loan Underwriter / Loan Officer \u2014 Paid Research Survey (US)",
