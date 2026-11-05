@@ -1,30 +1,7 @@
 {
-  "updated_at": "2026-11-05T00:00:05.058385+00:00",
+  "updated_at": "2026-11-05T04:00:05.000894+00:00",
   "total": 349,
   "jobs": [
-    {
-      "id": "list_AAABoah17EMnvPQa_h5PIYLJ",
-      "title": "Travel & Hospitality Annotation Expert",
-      "domain": null,
-      "pay": "$40 / hr",
-      "pay_min": 40.0,
-      "pay_max": 40.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote (US)",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoah17EMnvPQa_h5PIYLJ/travel-hospitality-annotation-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoah17EMnvPQa_h5PIYLJ&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoah17EMnvPQa_h5PIYLJ",
-      "created_at": "2026-11-04T21:27:43"
-    },
     {
       "id": "list_AAABoaeNrWp59rmBuyZIepKI",
       "title": "Lifestyle & Travel Concierge Expert",
@@ -533,6 +510,27 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoXuE96XzQVNYx-VDPpQa",
       "created_at": "2026-10-27T04:01:14"
+    },
+    {
+      "id": "list_AAABoXq9t0y0EaX_MQROQ69T",
+      "title": "Search Generalist",
+      "domain": null,
+      "pay": "$30 - $40 / hr",
+      "pay_min": 30.0,
+      "pay_max": 40.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoXq9t0y0EaX_MQROQ69T/search-generalist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoXq9t0y0EaX_MQROQ69T&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoXq9t0y0EaX_MQROQ69T",
+      "created_at": "2026-10-27T00:23:36"
     },
     {
       "id": "list_AAABoXlzElsOghL6D6NMkrR1",
