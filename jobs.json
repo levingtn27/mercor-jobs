@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-05T08:00:05.921600+00:00",
-  "total": 350,
+  "updated_at": "2026-11-05T16:00:06.134712+00:00",
+  "total": 347,
   "jobs": [
     {
       "id": "list_AAABoapSGvDU6zFqLA5OZo8T",
@@ -82,8 +82,10 @@
       "pay_freq": "hourly",
       "commitment": "hourly",
       "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
+      "location": "US, Canada and Europe",
+      "eligible": [
+        "USA"
+      ],
       "hired_count": null,
       "is_new": true,
       "closing_soon": false,
@@ -911,27 +913,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoWtwvCp5G7Swt0JDu7wl",
       "created_at": "2026-10-24T01:05:12"
-    },
-    {
-      "id": "list_AAABoWtwpFEaRuHYqcNK6KyX",
-      "title": "Anesthesiologist",
-      "domain": null,
-      "pay": "$350 / hr",
-      "pay_min": 350.0,
-      "pay_max": 350.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoWtwpFEaRuHYqcNK6KyX/anesthesiologist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoWtwpFEaRuHYqcNK6KyX&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoWtwpFEaRuHYqcNK6KyX",
-      "created_at": "2026-10-24T01:05:06"
     },
     {
       "id": "list_AAABoWtwmMBbLnGYAPFKNLAQ",
@@ -4982,27 +4963,6 @@
       "created_at": "2026-09-04T02:01:09"
     },
     {
-      "id": "list_AAABoGolujPeojikHWRLCaH-",
-      "title": "Bilingual Spanish Generalist Expert \u2014 AI Safety",
-      "domain": "Miscellaneous",
-      "pay": "$43 - $47 / hr",
-      "pay_min": 43.0,
-      "pay_max": 47.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote \u2014 Western Europe preferred",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGolujPeojikHWRLCaH-/bilingual-spanish-generalist-expert-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGolujPeojikHWRLCaH-&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGolujPeojikHWRLCaH-",
-      "created_at": "2026-09-04T02:00:53"
-    },
-    {
       "id": "list_AAABoGolO9gcnQ8YmYtCO4rY",
       "title": "Bilingual Portuguese Generalist Expert \u2014 AI Safety",
       "domain": "Miscellaneous",
@@ -5043,27 +5003,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGok9GFFuLXmcuFMfLJ_",
       "created_at": "2026-09-04T02:00:02"
-    },
-    {
-      "id": "list_AAABoGokt0hNtBFFSCZBIrQA",
-      "title": "Bilingual Japanese Generalist Expert \u2014 AI Safety",
-      "domain": "Miscellaneous",
-      "pay": "$48 - $52 / hr",
-      "pay_min": 48.0,
-      "pay_max": 52.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote \u2014 East Asia preferred",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGokt0hNtBFFSCZBIrQA/bilingual-japanese-generalist-expert-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGokt0hNtBFFSCZBIrQA&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGokt0hNtBFFSCZBIrQA",
-      "created_at": "2026-09-04T01:59:46"
     },
     {
       "id": "list_AAABoGokPDAgCLqSHQBGq4Pe",
