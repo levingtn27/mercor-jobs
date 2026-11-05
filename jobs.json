@@ -1,7 +1,30 @@
 {
-  "updated_at": "2026-11-05T04:00:05.000894+00:00",
-  "total": 349,
+  "updated_at": "2026-11-05T08:00:05.921600+00:00",
+  "total": 350,
   "jobs": [
+    {
+      "id": "list_AAABoapSGvDU6zFqLA5OZo8T",
+      "title": "Colombian Spanish expert",
+      "domain": null,
+      "pay": "$10 / hr",
+      "pay_min": 10.0,
+      "pay_max": 10.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "COL"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoapSGvDU6zFqLA5OZo8T/colombian-spanish-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoapSGvDU6zFqLA5OZo8T&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoapSGvDU6zFqLA5OZo8T",
+      "created_at": "2026-11-05T06:07:50"
+    },
     {
       "id": "list_AAABoaeNrWp59rmBuyZIepKI",
       "title": "Lifestyle & Travel Concierge Expert",
