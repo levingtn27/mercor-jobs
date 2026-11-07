@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T20:00:05.978597+00:00",
-  "total": 362,
+  "updated_at": "2026-11-07T00:00:05.416148+00:00",
+  "total": 361,
   "jobs": [
     {
       "id": "list_AAABoa1sLA0lq8iNfmRFUqbI",
@@ -778,12 +778,12 @@
     {
       "id": "list_AAABoX8yFU3zRlBRS-lJBaPO",
       "title": "(US Only) iPhone Users: Earn Money for Sharing Your Fitness Data",
-      "domain": null,
-      "pay": "$120 - $200 / one-time",
+      "domain": "Life, Physical, and Social Science",
+      "pay": "$120 - $200 / task",
       "pay_min": 120.0,
       "pay_max": 200.0,
       "pay_unit": "task",
-      "pay_freq": "one-time",
+      "pay_freq": "per-task",
       "commitment": "task-based",
       "tab": "project-based",
       "location": "United States (remote)",
@@ -1305,27 +1305,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoWtwgexs-u2gvjVJi7wH",
       "created_at": "2026-10-24T01:04:57"
-    },
-    {
-      "id": "list_AAABoWtwdnkg16LT79ZPDawT",
-      "title": "Critical Care Physician",
-      "domain": null,
-      "pay": "$200 / hr",
-      "pay_min": 200.0,
-      "pay_max": 200.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoWtwdnkg16LT79ZPDawT/critical-care-physician?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoWtwdnkg16LT79ZPDawT&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoWtwdnkg16LT79ZPDawT",
-      "created_at": "2026-10-24T01:04:54"
     },
     {
       "id": "list_AAABoWtwYkSInwja94FDHa0o",
