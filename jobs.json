@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T00:00:05.416148+00:00",
+  "updated_at": "2026-11-07T04:00:05.006377+00:00",
   "total": 361,
   "jobs": [
     {
@@ -187,7 +187,7 @@
     {
       "id": "list_AAABoa1Jr97bxLyOdZtG0bN2",
       "title": "Mechanical Engineering Writer",
-      "domain": null,
+      "domain": "Other Engineering",
       "pay": "$80 / hr",
       "pay_min": 80.0,
       "pay_max": 80.0,
@@ -1225,7 +1225,7 @@
     {
       "id": "list_AAABoWtwvCp5G7Swt0JDu7wl",
       "title": "Cardiologist",
-      "domain": null,
+      "domain": "Medicine",
       "pay": "$350 / hr",
       "pay_min": 350.0,
       "pay_max": 350.0,
@@ -1246,7 +1246,7 @@
     {
       "id": "list_AAABoWtwmMBbLnGYAPFKNLAQ",
       "title": "Orthopedic Surgeon",
-      "domain": null,
+      "domain": "Medicine",
       "pay": "$350 / hr",
       "pay_min": 350.0,
       "pay_max": 350.0,
@@ -1288,7 +1288,7 @@
     {
       "id": "list_AAABoWtwgexs-u2gvjVJi7wH",
       "title": "General Surgeon",
-      "domain": null,
+      "domain": "Medicine",
       "pay": "$200 / hr",
       "pay_min": 200.0,
       "pay_max": 200.0,
@@ -1309,7 +1309,7 @@
     {
       "id": "list_AAABoWtwYkSInwja94FDHa0o",
       "title": "Obstetrician-Gynecologist (OB/GYN)",
-      "domain": null,
+      "domain": "Medicine",
       "pay": "$200 / hr",
       "pay_min": 200.0,
       "pay_max": 200.0,
@@ -1351,7 +1351,7 @@
     {
       "id": "list_AAABoWtwTAuXPK49ZE5BY6j1",
       "title": "Rheumatologist",
-      "domain": null,
+      "domain": "Medicine",
       "pay": "$200 / hr",
       "pay_min": 200.0,
       "pay_max": 200.0,
@@ -1435,7 +1435,7 @@
     {
       "id": "list_AAABoWtwCj4E5CDOjQ1KxL5m",
       "title": "Ophthalmologist",
-      "domain": null,
+      "domain": "Medicine",
       "pay": "$175 / hr",
       "pay_min": 175.0,
       "pay_max": 175.0,
@@ -1456,7 +1456,7 @@
     {
       "id": "list_AAABoWtv9pI6MJtsV35ELp_E",
       "title": "Otolaryngologist (ENT)",
-      "domain": null,
+      "domain": "Medicine",
       "pay": "$150 / hr",
       "pay_min": 150.0,
       "pay_max": 150.0,
@@ -1498,7 +1498,7 @@
     {
       "id": "list_AAABoWtv330pzH8496dGyKTt",
       "title": "Psychiatrist",
-      "domain": null,
+      "domain": "Medicine",
       "pay": "$150 / hr",
       "pay_min": 150.0,
       "pay_max": 150.0,
@@ -1519,7 +1519,7 @@
     {
       "id": "list_AAABoWsjEohggV1F8gdLEoVO",
       "title": "Retail Trader",
-      "domain": null,
+      "domain": "Finance",
       "pay": "$400 / task",
       "pay_min": 400.0,
       "pay_max": 400.0,
