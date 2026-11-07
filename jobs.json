@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T04:00:05.006377+00:00",
+  "updated_at": "2026-11-07T08:00:05.162750+00:00",
   "total": 361,
   "jobs": [
     {
@@ -378,7 +378,7 @@
     {
       "id": "list_AAABoaeNrWp59rmBuyZIepKI",
       "title": "Lifestyle & Travel Concierge Expert",
-      "domain": null,
+      "domain": "Business Operations",
       "pay": "$65 / hr",
       "pay_min": 65.0,
       "pay_max": 65.0,
@@ -1372,7 +1372,7 @@
     {
       "id": "list_AAABoWtwOLHV8_xCHd5M26Cl",
       "title": "Nephrologist",
-      "domain": null,
+      "domain": "Medicine",
       "pay": "$200 / hr",
       "pay_min": 200.0,
       "pay_max": 200.0,
