@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T00:00:05.424674+00:00",
-  "total": 359,
+  "updated_at": "2026-11-08T04:00:05.420717+00:00",
+  "total": 358,
   "jobs": [
     {
       "id": "list_AAABoa1sLA0lq8iNfmRFUqbI",
@@ -1351,7 +1351,7 @@
     {
       "id": "list_AAABoWtwGWHBJHEIwBFOP4OG",
       "title": "Endocrinologist",
-      "domain": null,
+      "domain": "Medicine",
       "pay": "$200 / hr",
       "pay_min": 200.0,
       "pay_max": 200.0,
@@ -1414,7 +1414,7 @@
     {
       "id": "list_AAABoWtv69DhD_Gd84dDAocK",
       "title": "Geriatrician",
-      "domain": null,
+      "domain": "Medicine",
       "pay": "$150 / hr",
       "pay_min": 150.0,
       "pay_max": 150.0,
@@ -5891,29 +5891,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCV6ZKL0cmUT7-BExqtw",
       "created_at": "2026-08-21T17:59:33"
-    },
-    {
-      "id": "list_AAABoCVpVbx3Il0MJIpLTKHA",
-      "title": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
-      "domain": "Business Operations",
-      "pay": "$70 - $110 / hr",
-      "pay_min": 70.0,
-      "pay_max": 110.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoCVpVbx3Il0MJIpLTKHA/sales-representatives-wholesale-and-manufacturing-technical-and-scientific-products?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCVpVbx3Il0MJIpLTKHA&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCVpVbx3Il0MJIpLTKHA",
-      "created_at": "2026-08-21T17:40:55"
     },
     {
       "id": "list_AAABoBt9Gyyhs3BhJitBYYIf",
