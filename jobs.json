@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T04:00:06.280585+00:00",
+  "updated_at": "2026-11-09T08:00:06.624234+00:00",
   "total": 354,
   "jobs": [
     {
@@ -1307,7 +1307,7 @@
     {
       "id": "list_AAABoWtwJGwIgnnW9BdOwaZX",
       "title": "Infectious Disease Physician",
-      "domain": null,
+      "domain": "Medicine",
       "pay": "$200 / hr",
       "pay_min": 200.0,
       "pay_max": 200.0,
