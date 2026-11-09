@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T00:00:05.314759+00:00",
-  "total": 355,
+  "updated_at": "2026-11-09T04:00:06.280585+00:00",
+  "total": 354,
   "jobs": [
     {
       "id": "list_AAABoa1sLA0lq8iNfmRFUqbI",
@@ -374,29 +374,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoakxrPXaSjQJyZVELrab",
       "created_at": "2026-11-05T00:52:47"
-    },
-    {
-      "id": "list_AAABoaeNrWp59rmBuyZIepKI",
-      "title": "Lifestyle & Travel Concierge Expert",
-      "domain": "Business Operations",
-      "pay": "$65 / hr",
-      "pay_min": 65.0,
-      "pay_max": 65.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote (US)",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoaeNrWp59rmBuyZIepKI/lifestyle-travel-concierge-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoaeNrWp59rmBuyZIepKI&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoaeNrWp59rmBuyZIepKI",
-      "created_at": "2026-11-04T17:14:02"
     },
     {
       "id": "list_AAABoaOWz1A9HHs5C2VDcas_",
@@ -782,7 +759,7 @@
     {
       "id": "list_AAABoXuE96XzQVNYx-VDPpQa",
       "title": "Licensed US Pharmacist",
-      "domain": null,
+      "domain": "Medicine",
       "pay": "$70 / hr",
       "pay_min": 70.0,
       "pay_max": 70.0,
