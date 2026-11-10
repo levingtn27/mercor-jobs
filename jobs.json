@@ -1,7 +1,53 @@
 {
-  "updated_at": "2026-11-10T04:00:05.078155+00:00",
-  "total": 340,
+  "updated_at": "2026-11-10T08:00:05.402192+00:00",
+  "total": 343,
   "jobs": [
+    {
+      "id": "list_AAABocQXRHSLD4MqX_hGVZVy",
+      "title": "Individual Tax Professional (CPA / EA)",
+      "domain": "Finance",
+      "pay": "$110 - $130 / hr",
+      "pay_min": 110.0,
+      "pay_max": 130.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote (United States)",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABocQXRHSLD4MqX_hGVZVy/individual-tax-professional-cpa-ea?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocQXRHSLD4MqX_hGVZVy&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocQXRHSLD4MqX_hGVZVy",
+      "created_at": "2026-11-10T06:13:42"
+    },
+    {
+      "id": "list_AAABocPaBwm7yQ_sQEVK2IeX",
+      "title": "Legal Rubric & Ground Truth Auditor (Licensed Attorney)",
+      "domain": "Law",
+      "pay": "$120 - $140 / hr",
+      "pay_min": 120.0,
+      "pay_max": 140.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote (United States)",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABocPaBwm7yQ_sQEVK2IeX/legal-rubric-ground-truth-auditor-licensed-attorney?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocPaBwm7yQ_sQEVK2IeX&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocPaBwm7yQ_sQEVK2IeX",
+      "created_at": "2026-11-10T05:06:48"
+    },
     {
       "id": "list_AAABocI-OkrOixS81NNDVrWt",
       "title": "Creative & Media Expert",
@@ -275,6 +321,27 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocIcueulJNT7JWJBlZPV",
       "created_at": "2026-11-09T21:00:24"
+    },
+    {
+      "id": "list_AAABocH7WsSchpN0-_lM7qeZ",
+      "title": "Fab Safety and Emergency Response Expert (Japanese)",
+      "domain": "Other Engineering",
+      "pay": "$85 / hr",
+      "pay_min": 85.0,
+      "pay_max": 85.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABocH7WsSchpN0-_lM7qeZ/fab-safety-and-emergency-response-expert-japanese?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocH7WsSchpN0-_lM7qeZ&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocH7WsSchpN0-_lM7qeZ",
+      "created_at": "2026-11-09T20:23:58"
     },
     {
       "id": "list_AAABoa1sLA0lq8iNfmRFUqbI",
@@ -675,7 +742,7 @@
     {
       "id": "list_AAABoZp0wzuyh1qXnV5ADJMG",
       "title": "Market Research & Insights Experts",
-      "domain": null,
+      "domain": "Business Operations",
       "pay": "$120 / hr",
       "pay_min": 120.0,
       "pay_max": 120.0,
