@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T00:00:06.234897+00:00",
-  "total": 341,
+  "updated_at": "2026-11-10T04:00:05.078155+00:00",
+  "total": 340,
   "jobs": [
     {
       "id": "list_AAABocI-OkrOixS81NNDVrWt",
@@ -208,29 +208,6 @@
       "created_at": "2026-11-09T21:04:42"
     },
     {
-      "id": "list_AAABocIgpV2Ws9LcFgtFJ6u9",
-      "title": "Responsible AI / Security Specialist",
-      "domain": "Software Engineering",
-      "pay": "$90 - $140 / hr",
-      "pay_min": 90.0,
-      "pay_max": 140.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "United States",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABocIgpV2Ws9LcFgtFJ6u9/responsible-ai-security-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocIgpV2Ws9LcFgtFJ6u9&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocIgpV2Ws9LcFgtFJ6u9",
-      "created_at": "2026-11-09T21:04:41"
-    },
-    {
       "id": "list_AAABocIgpgg_Jh7V5E5AiJx-",
       "title": "DevOps / Infrastructure Engineer",
       "domain": "Software Engineering",
@@ -251,6 +228,29 @@
       "referral_link": "https://work.mercor.com/jobs/list_AAABocIgpgg_Jh7V5E5AiJx-/devops-infrastructure-engineer?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocIgpgg_Jh7V5E5AiJx-&utm_medium=direct&utm_source=referral",
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocIgpgg_Jh7V5E5AiJx-",
+      "created_at": "2026-11-09T21:04:41"
+    },
+    {
+      "id": "list_AAABocIgpV2Ws9LcFgtFJ6u9",
+      "title": "Responsible AI / Security Specialist",
+      "domain": "Software Engineering",
+      "pay": "$90 - $140 / hr",
+      "pay_min": 90.0,
+      "pay_max": 140.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "part-time",
+      "tab": "project-based",
+      "location": "United States",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABocIgpV2Ws9LcFgtFJ6u9/responsible-ai-security-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocIgpV2Ws9LcFgtFJ6u9&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocIgpV2Ws9LcFgtFJ6u9",
       "created_at": "2026-11-09T21:04:41"
     },
     {
@@ -440,7 +440,7 @@
     {
       "id": "list_AAABoa1JzxXUAzyb5dJAnooH",
       "title": "Mechanical Engineer Reviewer",
-      "domain": null,
+      "domain": "Other Engineering",
       "pay": "$90 / hr",
       "pay_min": 90.0,
       "pay_max": 90.0,
@@ -944,11 +944,11 @@
       "id": "list_AAABoX8yFU3zRlBRS-lJBaPO",
       "title": "(US Only) iPhone Users: Earn Money for Sharing Your Fitness Data",
       "domain": "Life, Physical, and Social Science",
-      "pay": "$120 - $200 / task",
+      "pay": "$120 - $200 / one-time",
       "pay_min": 120.0,
       "pay_max": 200.0,
       "pay_unit": "task",
-      "pay_freq": "per-task",
+      "pay_freq": "one-time",
       "commitment": "task-based",
       "tab": "project-based",
       "location": "United States (remote)",
@@ -1411,7 +1411,7 @@
     {
       "id": "list_AAABoWtwjZ8YPP1X8zpPf7U3",
       "title": "Dermatologist",
-      "domain": null,
+      "domain": "Medicine",
       "pay": "$275 / hr",
       "pay_min": 275.0,
       "pay_max": 275.0,
@@ -2938,9 +2938,9 @@
       "id": "list_AAABoOppU3x5v3XMbLRHP4rK",
       "title": "Economics Research Expert",
       "domain": "Life, Physical, and Social Science",
-      "pay": "$150 - $200 / hr",
+      "pay": "$150 - $160 / hr",
       "pay_min": 150.0,
-      "pay_max": 200.0,
+      "pay_max": 160.0,
       "pay_unit": "hour",
       "pay_freq": "hourly",
       "commitment": "hourly",
@@ -6351,29 +6351,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn7QFFl-KZetwbZ5BB6R1",
       "created_at": "2026-07-30T17:14:20"
-    },
-    {
-      "id": "list_AAABn7QE-IGAlH7zJwpKN6uM",
-      "title": "Voice Actor: CX Agent Voice Cloning (Australian English)",
-      "domain": "Language and Audio",
-      "pay": "$50 - $100 / hr",
-      "pay_min": 50.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "AUS"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn7QE-IGAlH7zJwpKN6uM/voice-actor-cx-agent-voice-cloning-australian-english?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn7QE-IGAlH7zJwpKN6uM&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn7QE-IGAlH7zJwpKN6uM",
-      "created_at": "2026-07-30T17:14:12"
     },
     {
       "id": "list_AAABn6vGkxZngsMTe7xP7rqG",
