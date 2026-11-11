@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-11-11T16:00:05.611649+00:00",
-  "total": 327,
+  "updated_at": "2026-11-11T20:00:06.712336+00:00",
+  "total": 326,
   "jobs": [
+    {
+      "id": "list_AAABocvmQyKqYVaWnhNJlLpY",
+      "title": "Fab Safety and Emergency Response Expert",
+      "domain": "Other Engineering",
+      "pay": "$85 / hr",
+      "pay_min": 85.0,
+      "pay_max": 85.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABocvmQyKqYVaWnhNJlLpY/fab-safety-and-emergency-response-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocvmQyKqYVaWnhNJlLpY&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocvmQyKqYVaWnhNJlLpY",
+      "created_at": "2026-11-11T18:37:08"
+    },
     {
       "id": "list_AAABocs4xIYqLBlbNtRKf6Mm",
       "title": "Certified Financial Planner (CFP\u00ae / CFA)",
@@ -765,9 +786,9 @@
     {
       "id": "list_AAABoaOWz1A9HHs5C2VDcas_",
       "title": "Loan Underwriter / Loan Officer \u2014 Paid Research Survey (US)",
-      "domain": null,
-      "pay": "$70 / one-time",
-      "pay_min": 70.0,
+      "domain": "Finance",
+      "pay": "$50 - $70 / one-time",
+      "pay_min": 50.0,
       "pay_max": 70.0,
       "pay_unit": "task",
       "pay_freq": "one-time",
@@ -1008,52 +1029,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoYIA_JerHWae4sBExJ8r",
       "created_at": "2026-10-28T10:14:25"
-    },
-    {
-      "id": "list_AAABoYCbZiiqq45XRMtOh7-4",
-      "title": "Orthodontist",
-      "domain": null,
-      "pay": "$150 / hr",
-      "pay_min": 150.0,
-      "pay_max": 150.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoYCbZiiqq45XRMtOh7-4/orthodontist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoYCbZiiqq45XRMtOh7-4&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoYCbZiiqq45XRMtOh7-4",
-      "created_at": "2026-10-28T03:43:50"
-    },
-    {
-      "id": "list_AAABoYCbMc_LN-3AeS5F25b5",
-      "title": "Breast Imaging Radiologist",
-      "domain": null,
-      "pay": "$300 / hr",
-      "pay_min": 300.0,
-      "pay_max": 300.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoYCbMc_LN-3AeS5F25b5/breast-imaging-radiologist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoYCbMc_LN-3AeS5F25b5&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoYCbMc_LN-3AeS5F25b5",
-      "created_at": "2026-10-28T03:43:37"
     },
     {
       "id": "list_AAABoX8yFU3zRlBRS-lJBaPO",
