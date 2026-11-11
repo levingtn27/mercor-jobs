@@ -1,7 +1,30 @@
 {
-  "updated_at": "2026-11-11T12:00:05.349231+00:00",
-  "total": 326,
+  "updated_at": "2026-11-11T16:00:05.611649+00:00",
+  "total": 327,
   "jobs": [
+    {
+      "id": "list_AAABocs4xIYqLBlbNtRKf6Mm",
+      "title": "Certified Financial Planner (CFP\u00ae / CFA)",
+      "domain": "Finance",
+      "pay": "$130 - $140 / hr",
+      "pay_min": 130.0,
+      "pay_max": 140.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote (United States)",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABocs4xIYqLBlbNtRKf6Mm/certified-financial-planner-cfp-cfa?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocs4xIYqLBlbNtRKf6Mm&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocs4xIYqLBlbNtRKf6Mm",
+      "created_at": "2026-11-11T15:27:38"
+    },
     {
       "id": "list_AAABocmoeg_YAVv5u-FEzp3f",
       "title": "Video Caption Auditor Expert",
