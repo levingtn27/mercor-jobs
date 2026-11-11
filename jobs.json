@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T20:00:06.394089+00:00",
-  "total": 326,
+  "updated_at": "2026-11-11T00:00:05.398339+00:00",
+  "total": 327,
   "jobs": [
     {
       "id": "list_AAABocYnVCQtatrGQj5G4767",
@@ -1015,11 +1015,11 @@
       "id": "list_AAABoX8yFU3zRlBRS-lJBaPO",
       "title": "(US Only) iPhone Users: Earn Money for Sharing Your Fitness Data",
       "domain": "Life, Physical, and Social Science",
-      "pay": "$120 - $200 / one-time",
+      "pay": "$120 - $200 / task",
       "pay_min": 120.0,
       "pay_max": 200.0,
       "pay_unit": "task",
-      "pay_freq": "one-time",
+      "pay_freq": "per-task",
       "commitment": "task-based",
       "tab": "project-based",
       "location": "United States (remote)",
@@ -4581,6 +4581,27 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGol-kkiUPOQvn1CsZFO",
       "created_at": "2026-09-04T02:01:09"
+    },
+    {
+      "id": "list_AAABoGolujPeojikHWRLCaH-",
+      "title": "Bilingual Spanish Generalist Expert \u2014 AI Safety",
+      "domain": "Miscellaneous",
+      "pay": "$43 - $47 / hr",
+      "pay_min": 43.0,
+      "pay_max": 47.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "part-time",
+      "tab": "project-based",
+      "location": "Remote \u2014 Western Europe preferred",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoGolujPeojikHWRLCaH-/bilingual-spanish-generalist-expert-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGolujPeojikHWRLCaH-&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGolujPeojikHWRLCaH-",
+      "created_at": "2026-09-04T02:00:53"
     },
     {
       "id": "list_AAABoGolO9gcnQ8YmYtCO4rY",
