@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-11-11T08:00:05.338247+00:00",
-  "total": 325,
+  "updated_at": "2026-11-11T12:00:05.349231+00:00",
+  "total": 326,
   "jobs": [
+    {
+      "id": "list_AAABocmoeg_YAVv5u-FEzp3f",
+      "title": "Video Caption Auditor Expert",
+      "domain": "Miscellaneous",
+      "pay": "$20 - $30 / hr",
+      "pay_min": 20.0,
+      "pay_max": 30.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote (worldwide)",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABocmoeg_YAVv5u-FEzp3f/video-caption-auditor-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocmoeg_YAVv5u-FEzp3f&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocmoeg_YAVv5u-FEzp3f",
+      "created_at": "2026-11-11T08:10:24"
+    },
     {
       "id": "list_AAABocYnVCQtatrGQj5G4767",
       "title": "Customer Support & Success Domain Expert",
