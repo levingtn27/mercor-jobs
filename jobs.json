@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T20:00:06.712336+00:00",
-  "total": 326,
+  "updated_at": "2026-11-12T00:00:05.576864+00:00",
+  "total": 324,
   "jobs": [
     {
       "id": "list_AAABocvmQyKqYVaWnhNJlLpY",
@@ -782,6 +782,29 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoakxrPXaSjQJyZVELrab",
       "created_at": "2026-11-05T00:52:47"
+    },
+    {
+      "id": "list_AAABoaeNrWp59rmBuyZIepKI",
+      "title": "Lifestyle & Travel Concierge Expert",
+      "domain": "Business Operations",
+      "pay": "$65 / hr",
+      "pay_min": 65.0,
+      "pay_max": 65.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote (US)",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoaeNrWp59rmBuyZIepKI/lifestyle-travel-concierge-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoaeNrWp59rmBuyZIepKI&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoaeNrWp59rmBuyZIepKI",
+      "created_at": "2026-11-04T17:14:02"
     },
     {
       "id": "list_AAABoaOWz1A9HHs5C2VDcas_",
@@ -5476,48 +5499,6 @@
       "created_at": "2026-08-14T12:16:45"
     },
     {
-      "id": "list_AAABn_yJZ81NLZ-jBXxIZ5gv",
-      "title": "Applied Economics & Finance Benchmark Specialist",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$77 - $98 / hr",
-      "pay_min": 77.0,
-      "pay_max": 98.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn_yJZ81NLZ-jBXxIZ5gv/applied-economics-finance-benchmark-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn_yJZ81NLZ-jBXxIZ5gv&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn_yJZ81NLZ-jBXxIZ5gv",
-      "created_at": "2026-08-13T19:11:31"
-    },
-    {
-      "id": "list_AAABn_yIA7lRhn_Aos9LS7jE",
-      "title": "Applied Physics Benchmark Specialist",
-      "domain": "Life, Physical, and Social Science",
-      "pay": "$61 - $77 / hr",
-      "pay_min": 61.0,
-      "pay_max": 77.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn_yIA7lRhn_Aos9LS7jE/applied-physics-benchmark-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn_yIA7lRhn_Aos9LS7jE&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn_yIA7lRhn_Aos9LS7jE",
-      "created_at": "2026-08-13T19:10:00"
-    },
-    {
       "id": "list_AAABn_hJu3e9hgqimAtByK05",
       "title": "Agent Engineer",
       "domain": "Software Engineering",
@@ -6216,27 +6197,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn2445JJgOdUpk4dC65kk",
       "created_at": "2026-07-17T03:57:30"
-    },
-    {
-      "id": "list_AAABn0P58KdDXVKjCURPtoyr",
-      "title": "Legal Expert",
-      "domain": "Law",
-      "pay": "$90 / hr",
-      "pay_min": 90.0,
-      "pay_max": 90.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn0P58KdDXVKjCURPtoyr/legal-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn0P58KdDXVKjCURPtoyr&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn0P58KdDXVKjCURPtoyr",
-      "created_at": "2026-07-08T23:04:41"
     },
     {
       "id": "list_AAABn0MTnuGa6YO-AKFD_ah0",
