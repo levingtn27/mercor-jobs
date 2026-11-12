@@ -1,7 +1,30 @@
 {
-  "updated_at": "2026-11-12T04:00:05.579593+00:00",
-  "total": 323,
+  "updated_at": "2026-11-12T08:00:05.155571+00:00",
+  "total": 321,
   "jobs": [
+    {
+      "id": "list_AAABoc3i1VY8MNT4obtJuJhY",
+      "title": "Enterprise Sales Expert (AE / Sales Leader)",
+      "domain": "Business Operations",
+      "pay": "$50 - $70 / hr",
+      "pay_min": 50.0,
+      "pay_max": 70.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote (US)",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoc3i1VY8MNT4obtJuJhY/enterprise-sales-expert-ae-sales-leader?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoc3i1VY8MNT4obtJuJhY&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoc3i1VY8MNT4obtJuJhY",
+      "created_at": "2026-11-12T03:52:37"
+    },
     {
       "id": "list_AAABoc1YpFIYUktJmyxFc5mB",
       "title": "Chip Design Expert (RTL Design & Verification)",
@@ -66,27 +89,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocs4xIYqLBlbNtRKf6Mm",
       "created_at": "2026-11-11T15:27:38"
-    },
-    {
-      "id": "list_AAABocmoeg_YAVv5u-FEzp3f",
-      "title": "Video Caption Auditor Expert",
-      "domain": "Miscellaneous",
-      "pay": "$20 - $30 / hr",
-      "pay_min": 20.0,
-      "pay_max": 30.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote (worldwide)",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABocmoeg_YAVv5u-FEzp3f/video-caption-auditor-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocmoeg_YAVv5u-FEzp3f&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocmoeg_YAVv5u-FEzp3f",
-      "created_at": "2026-11-11T08:10:24"
     },
     {
       "id": "list_AAABocYnVCQtatrGQj5G4767",
@@ -156,29 +158,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocQXRHSLD4MqX_hGVZVy",
       "created_at": "2026-11-10T06:13:42"
-    },
-    {
-      "id": "list_AAABocPaBwm7yQ_sQEVK2IeX",
-      "title": "Legal Rubric & Ground Truth Auditor (Licensed Attorney)",
-      "domain": "Law",
-      "pay": "$120 - $140 / hr",
-      "pay_min": 120.0,
-      "pay_max": 140.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote (United States)",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABocPaBwm7yQ_sQEVK2IeX/legal-rubric-ground-truth-auditor-licensed-attorney?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocPaBwm7yQ_sQEVK2IeX&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocPaBwm7yQ_sQEVK2IeX",
-      "created_at": "2026-11-10T05:06:48"
     },
     {
       "id": "list_AAABocI-OkrOixS81NNDVrWt",
@@ -4411,27 +4390,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGoo3l5-iyoJ2QdMfKfq",
       "created_at": "2026-09-04T02:04:18"
-    },
-    {
-      "id": "list_AAABoGooYwrk7O6KVJ1CpZ3I",
-      "title": "Bilingual Vietnamese Generalist Expert \u2014 AI Safety",
-      "domain": "Miscellaneous",
-      "pay": "$18 - $22 / hr",
-      "pay_min": 18.0,
-      "pay_max": 22.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote \u2014 Southeast Asia preferred",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGooYwrk7O6KVJ1CpZ3I/bilingual-vietnamese-generalist-expert-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGooYwrk7O6KVJ1CpZ3I&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGooYwrk7O6KVJ1CpZ3I",
-      "created_at": "2026-09-04T02:03:47"
     },
     {
       "id": "list_AAABoGooH80BbOEfTJlNVYkp",
