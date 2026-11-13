@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T04:00:05.001892+00:00",
-  "total": 314,
+  "updated_at": "2026-11-13T08:00:04.987197+00:00",
+  "total": 313,
   "jobs": [
     {
       "id": "list_AAABoc3i1VY8MNT4obtJuJhY",
@@ -4371,27 +4371,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGopKr-AAiw_UztLz4Y7",
       "created_at": "2026-09-04T02:04:38"
-    },
-    {
-      "id": "list_AAABoGon4PfvcmZO7_tO-Y2-",
-      "title": "Bilingual Russian Generalist Expert \u2014 AI Safety",
-      "domain": "Miscellaneous",
-      "pay": "$38 - $42 / hr",
-      "pay_min": 38.0,
-      "pay_max": 42.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote \u2014 Eastern Europe preferred",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGon4PfvcmZO7_tO-Y2-/bilingual-russian-generalist-expert-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGon4PfvcmZO7_tO-Y2-&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGon4PfvcmZO7_tO-Y2-",
-      "created_at": "2026-09-04T02:03:14"
     },
     {
       "id": "list_AAABoGonT1yabY1vTGNDT4i9",
