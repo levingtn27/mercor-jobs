@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-12T20:00:05.334698+00:00",
-  "total": 313,
+  "updated_at": "2026-11-13T00:00:04.795848+00:00",
+  "total": 316,
   "jobs": [
     {
       "id": "list_AAABoc3i1VY8MNT4obtJuJhY",
@@ -1522,6 +1522,27 @@
       "created_at": "2026-10-24T01:05:12"
     },
     {
+      "id": "list_AAABoWtwpFEaRuHYqcNK6KyX",
+      "title": "Anesthesiologist",
+      "domain": null,
+      "pay": "$350 / hr",
+      "pay_min": 350.0,
+      "pay_max": 350.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoWtwpFEaRuHYqcNK6KyX/anesthesiologist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoWtwpFEaRuHYqcNK6KyX&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoWtwpFEaRuHYqcNK6KyX",
+      "created_at": "2026-10-24T01:05:06"
+    },
+    {
       "id": "list_AAABoWtwmMBbLnGYAPFKNLAQ",
       "title": "Orthopedic Surgeon",
       "domain": "Medicine",
@@ -1543,6 +1564,27 @@
       "created_at": "2026-10-24T01:05:03"
     },
     {
+      "id": "list_AAABoWtwjZ8YPP1X8zpPf7U3",
+      "title": "Dermatologist",
+      "domain": "Medicine",
+      "pay": "$275 / hr",
+      "pay_min": 275.0,
+      "pay_max": 275.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoWtwjZ8YPP1X8zpPf7U3/dermatologist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoWtwjZ8YPP1X8zpPf7U3&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoWtwjZ8YPP1X8zpPf7U3",
+      "created_at": "2026-10-24T01:05:00"
+    },
+    {
       "id": "list_AAABoWtwgexs-u2gvjVJi7wH",
       "title": "General Surgeon",
       "domain": "Medicine",
@@ -1562,6 +1604,27 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoWtwgexs-u2gvjVJi7wH",
       "created_at": "2026-10-24T01:04:57"
+    },
+    {
+      "id": "list_AAABoWtwdnkg16LT79ZPDawT",
+      "title": "Critical Care Physician",
+      "domain": null,
+      "pay": "$200 / hr",
+      "pay_min": 200.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoWtwdnkg16LT79ZPDawT/critical-care-physician?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoWtwdnkg16LT79ZPDawT&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoWtwdnkg16LT79ZPDawT",
+      "created_at": "2026-10-24T01:04:54"
     },
     {
       "id": "list_AAABoWtwYkSInwja94FDHa0o",
@@ -4289,29 +4352,6 @@
       "created_at": "2026-09-04T09:53:20"
     },
     {
-      "id": "list_AAABoGopY_i3_FUE_eFDKYKk",
-      "title": "Bilingual Dutch (Belgium) Generalist Expert \u2014 AI Safety",
-      "domain": "Miscellaneous",
-      "pay": "$48 - $52 / hr",
-      "pay_min": 48.0,
-      "pay_max": 52.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Belgium",
-      "eligible": [
-        "BEL"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGopY_i3_FUE_eFDKYKk/bilingual-dutch-belgium-generalist-expert-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGopY_i3_FUE_eFDKYKk&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGopY_i3_FUE_eFDKYKk",
-      "created_at": "2026-09-04T02:04:53"
-    },
-    {
       "id": "list_AAABoGopKr-AAiw_UztLz4Y7",
       "title": "Bilingual Danish Generalist Expert \u2014 AI Safety",
       "domain": "Miscellaneous",
@@ -6012,6 +6052,27 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnzh0-n7dhIrcl7ZCpq5r",
       "created_at": "2026-07-06T17:23:38"
+    },
+    {
+      "id": "list_AAABnzh0lIymACKXZE9D4Jo7",
+      "title": "Music Production Expert - Russian",
+      "domain": "Arts & Design",
+      "pay": "$35 - $49 / hr",
+      "pay_min": 35.0,
+      "pay_max": 49.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABnzh0lIymACKXZE9D4Jo7/music-production-expert-russian?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnzh0lIymACKXZE9D4Jo7&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnzh0lIymACKXZE9D4Jo7",
+      "created_at": "2026-07-06T17:23:12"
     },
     {
       "id": "list_AAABnzh0CO9UhmGtnTRMz50Y",
