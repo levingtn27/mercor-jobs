@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T00:00:04.795848+00:00",
-  "total": 316,
+  "updated_at": "2026-11-13T04:00:05.001892+00:00",
+  "total": 314,
   "jobs": [
     {
       "id": "list_AAABoc3i1VY8MNT4obtJuJhY",
@@ -1524,7 +1524,7 @@
     {
       "id": "list_AAABoWtwpFEaRuHYqcNK6KyX",
       "title": "Anesthesiologist",
-      "domain": null,
+      "domain": "Medicine",
       "pay": "$350 / hr",
       "pay_min": 350.0,
       "pay_max": 350.0,
@@ -1608,7 +1608,7 @@
     {
       "id": "list_AAABoWtwdnkg16LT79ZPDawT",
       "title": "Critical Care Physician",
-      "domain": null,
+      "domain": "Medicine",
       "pay": "$200 / hr",
       "pay_min": 200.0,
       "pay_max": 200.0,
@@ -4373,27 +4373,6 @@
       "created_at": "2026-09-04T02:04:38"
     },
     {
-      "id": "list_AAABoGooYwrk7O6KVJ1CpZ3I",
-      "title": "Bilingual Vietnamese Generalist Expert \u2014 AI Safety",
-      "domain": "Miscellaneous",
-      "pay": "$18 - $22 / hr",
-      "pay_min": 18.0,
-      "pay_max": 22.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote \u2014 Southeast Asia preferred",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGooYwrk7O6KVJ1CpZ3I/bilingual-vietnamese-generalist-expert-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGooYwrk7O6KVJ1CpZ3I&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGooYwrk7O6KVJ1CpZ3I",
-      "created_at": "2026-09-04T02:03:47"
-    },
-    {
       "id": "list_AAABoGon4PfvcmZO7_tO-Y2-",
       "title": "Bilingual Russian Generalist Expert \u2014 AI Safety",
       "domain": "Miscellaneous",
@@ -6052,27 +6031,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnzh0-n7dhIrcl7ZCpq5r",
       "created_at": "2026-07-06T17:23:38"
-    },
-    {
-      "id": "list_AAABnzh0lIymACKXZE9D4Jo7",
-      "title": "Music Production Expert - Russian",
-      "domain": "Arts & Design",
-      "pay": "$35 - $49 / hr",
-      "pay_min": 35.0,
-      "pay_max": 49.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABnzh0lIymACKXZE9D4Jo7/music-production-expert-russian?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnzh0lIymACKXZE9D4Jo7&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnzh0lIymACKXZE9D4Jo7",
-      "created_at": "2026-07-06T17:23:12"
     },
     {
       "id": "list_AAABnzh0CO9UhmGtnTRMz50Y",
