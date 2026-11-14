@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T08:00:06.155403+00:00",
-  "total": 359,
+  "updated_at": "2026-11-14T12:00:05.610499+00:00",
+  "total": 358,
   "jobs": [
     {
       "id": "list_AAABodjkhcin__KeNFZHg54O",
@@ -1036,27 +1036,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoc1YpFIYUktJmyxFc5mB",
       "created_at": "2026-11-12T01:21:41"
-    },
-    {
-      "id": "list_AAABocvmQyKqYVaWnhNJlLpY",
-      "title": "Fab Safety and Emergency Response Expert",
-      "domain": "Other Engineering",
-      "pay": "$85 / hr",
-      "pay_min": 85.0,
-      "pay_max": 85.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABocvmQyKqYVaWnhNJlLpY/fab-safety-and-emergency-response-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocvmQyKqYVaWnhNJlLpY&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocvmQyKqYVaWnhNJlLpY",
-      "created_at": "2026-11-11T18:37:08"
     },
     {
       "id": "list_AAABocs4xIYqLBlbNtRKf6Mm",
