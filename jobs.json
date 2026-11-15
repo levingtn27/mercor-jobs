@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15T16:00:06.100321+00:00",
-  "total": 375,
+  "updated_at": "2026-11-15T20:00:06.102659+00:00",
+  "total": 374,
   "jobs": [
     {
       "id": "list_AAABod-ddE8TIdVeFnNC-5qt",
@@ -1760,29 +1760,6 @@
       "created_at": "2026-11-09T21:04:42"
     },
     {
-      "id": "list_AAABocIgpgg_Jh7V5E5AiJx-",
-      "title": "DevOps / Infrastructure Engineer",
-      "domain": "Software Engineering",
-      "pay": "$80 - $120 / hr",
-      "pay_min": 80.0,
-      "pay_max": 120.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "United States",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABocIgpgg_Jh7V5E5AiJx-/devops-infrastructure-engineer?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocIgpgg_Jh7V5E5AiJx-&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocIgpgg_Jh7V5E5AiJx-",
-      "created_at": "2026-11-09T21:04:41"
-    },
-    {
       "id": "list_AAABocIgpV2Ws9LcFgtFJ6u9",
       "title": "Responsible AI / Security Specialist",
       "domain": "Software Engineering",
@@ -1803,6 +1780,29 @@
       "referral_link": "https://work.mercor.com/jobs/list_AAABocIgpV2Ws9LcFgtFJ6u9/responsible-ai-security-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocIgpV2Ws9LcFgtFJ6u9&utm_medium=direct&utm_source=referral",
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocIgpV2Ws9LcFgtFJ6u9",
+      "created_at": "2026-11-09T21:04:41"
+    },
+    {
+      "id": "list_AAABocIgpgg_Jh7V5E5AiJx-",
+      "title": "DevOps / Infrastructure Engineer",
+      "domain": "Software Engineering",
+      "pay": "$80 - $120 / hr",
+      "pay_min": 80.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "part-time",
+      "tab": "project-based",
+      "location": "United States",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABocIgpgg_Jh7V5E5AiJx-/devops-infrastructure-engineer?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocIgpgg_Jh7V5E5AiJx-&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocIgpgg_Jh7V5E5AiJx-",
       "created_at": "2026-11-09T21:04:41"
     },
     {
@@ -7296,27 +7296,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn2445JJgOdUpk4dC65kk",
       "created_at": "2026-07-17T03:57:30"
-    },
-    {
-      "id": "list_AAABn0MTnuGa6YO-AKFD_ah0",
-      "title": "Accounting Expert",
-      "domain": "Finance",
-      "pay": "$85 / hr",
-      "pay_min": 85.0,
-      "pay_max": 85.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn0MTnuGa6YO-AKFD_ah0/accounting-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn0MTnuGa6YO-AKFD_ah0&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn0MTnuGa6YO-AKFD_ah0",
-      "created_at": "2026-07-08T18:53:07"
     },
     {
       "id": "list_AAABnzh0-n7dhIrcl7ZCpq5r",
