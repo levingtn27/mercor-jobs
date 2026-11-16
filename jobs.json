@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-11-16T08:00:05.572662+00:00",
-  "total": 372,
+  "updated_at": "2026-11-16T12:00:05.827711+00:00",
+  "total": 370,
   "jobs": [
+    {
+      "id": "list_AAABoeIksoinQkS__UxOZ7G1",
+      "title": "AI Evaluation Rubric Reviewer",
+      "domain": "Data Analysis",
+      "pay": "$40 - $75 / hr",
+      "pay_min": 40.0,
+      "pay_max": 75.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoeIksoinQkS__UxOZ7G1/ai-evaluation-rubric-reviewer?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoeIksoinQkS__UxOZ7G1&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoeIksoinQkS__UxOZ7G1",
+      "created_at": "2026-11-16T02:16:58"
+    },
     {
       "id": "list_AAABod-ddE8TIdVeFnNC-5qt",
       "title": "Insurance Distribution Market Expert \u2013 Paid Research Interview",
@@ -1718,29 +1739,6 @@
       "created_at": "2026-11-09T21:04:42"
     },
     {
-      "id": "list_AAABocIgpgg_Jh7V5E5AiJx-",
-      "title": "DevOps / Infrastructure Engineer",
-      "domain": "Software Engineering",
-      "pay": "$80 - $120 / hr",
-      "pay_min": 80.0,
-      "pay_max": 120.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "United States",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABocIgpgg_Jh7V5E5AiJx-/devops-infrastructure-engineer?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocIgpgg_Jh7V5E5AiJx-&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocIgpgg_Jh7V5E5AiJx-",
-      "created_at": "2026-11-09T21:04:41"
-    },
-    {
       "id": "list_AAABocIgpV2Ws9LcFgtFJ6u9",
       "title": "Responsible AI / Security Specialist",
       "domain": "Software Engineering",
@@ -1761,6 +1759,29 @@
       "referral_link": "https://work.mercor.com/jobs/list_AAABocIgpV2Ws9LcFgtFJ6u9/responsible-ai-security-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocIgpV2Ws9LcFgtFJ6u9&utm_medium=direct&utm_source=referral",
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocIgpV2Ws9LcFgtFJ6u9",
+      "created_at": "2026-11-09T21:04:41"
+    },
+    {
+      "id": "list_AAABocIgpgg_Jh7V5E5AiJx-",
+      "title": "DevOps / Infrastructure Engineer",
+      "domain": "Software Engineering",
+      "pay": "$80 - $120 / hr",
+      "pay_min": 80.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "part-time",
+      "tab": "project-based",
+      "location": "United States",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABocIgpgg_Jh7V5E5AiJx-/devops-infrastructure-engineer?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocIgpgg_Jh7V5E5AiJx-&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocIgpgg_Jh7V5E5AiJx-",
       "created_at": "2026-11-09T21:04:41"
     },
     {
@@ -5682,27 +5703,6 @@
       "created_at": "2026-09-04T09:53:20"
     },
     {
-      "id": "list_AAABoGopKr-AAiw_UztLz4Y7",
-      "title": "Bilingual Danish Generalist Expert \u2014 AI Safety",
-      "domain": "Miscellaneous",
-      "pay": "$48 - $52 / hr",
-      "pay_min": 48.0,
-      "pay_max": 52.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "Remote \u2014 Western Europe preferred",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoGopKr-AAiw_UztLz4Y7/bilingual-danish-generalist-expert-ai-safety?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoGopKr-AAiw_UztLz4Y7&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoGopKr-AAiw_UztLz4Y7",
-      "created_at": "2026-09-04T02:04:38"
-    },
-    {
       "id": "list_AAABoGol-kkiUPOQvn1CsZFO",
       "title": "Bilingual Hindi Generalist Expert \u2014 AI Safety",
       "domain": "Miscellaneous",
@@ -6690,27 +6690,6 @@
       "created_at": "2026-08-12T17:57:37"
     },
     {
-      "id": "list_AAABn_cfTzoWNDg2B7hOHpvU",
-      "title": "Music & Lyrics Expert - Telugu",
-      "domain": "Language and Audio",
-      "pay": "$11 - $19 / hr",
-      "pay_min": 11.0,
-      "pay_max": 19.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABn_cfTzoWNDg2B7hOHpvU/music-lyrics-expert-telugu?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn_cfTzoWNDg2B7hOHpvU&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn_cfTzoWNDg2B7hOHpvU",
-      "created_at": "2026-08-12T17:57:32"
-    },
-    {
       "id": "list_AAABn_cd2Y4M1Abj0JJFqaY-",
       "title": "Music & Lyrics Expert - Korean",
       "domain": "Arts & Design",
@@ -7296,27 +7275,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnzh0CO9UhmGtnTRMz50Y",
       "created_at": "2026-07-06T17:22:36"
-    },
-    {
-      "id": "list_AAABnzhzpTRykCmGaJ9Nta1s",
-      "title": "Music Production Expert - Hindi",
-      "domain": "Arts & Design",
-      "pay": "$14 - $42 / hr",
-      "pay_min": 14.0,
-      "pay_max": 42.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABnzhzpTRykCmGaJ9Nta1s/music-production-expert-hindi?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnzhzpTRykCmGaJ9Nta1s&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnzhzpTRykCmGaJ9Nta1s",
-      "created_at": "2026-07-06T17:22:10"
     },
     {
       "id": "list_AAABnzhzhwBMMeMWHlhEWL_h",
