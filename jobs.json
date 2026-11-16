@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T00:00:05.708813+00:00",
-  "total": 374,
+  "updated_at": "2026-11-16T04:00:05.197579+00:00",
+  "total": 373,
   "jobs": [
     {
       "id": "list_AAABod-ddE8TIdVeFnNC-5qt",
@@ -1400,27 +1400,6 @@
       "created_at": "2026-11-12T03:52:37"
     },
     {
-      "id": "list_AAABoc1YpFIYUktJmyxFc5mB",
-      "title": "Chip Design Expert (RTL Design & Verification)",
-      "domain": "Other Engineering",
-      "pay": "$100 / hr",
-      "pay_min": 100.0,
-      "pay_max": 100.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoc1YpFIYUktJmyxFc5mB/chip-design-expert-rtl-design-verification?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoc1YpFIYUktJmyxFc5mB&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoc1YpFIYUktJmyxFc5mB",
-      "created_at": "2026-11-12T01:21:41"
-    },
-    {
       "id": "list_AAABocvmQyKqYVaWnhNJlLpY",
       "title": "Fab Safety and Emergency Response Expert",
       "domain": "Other Engineering",
@@ -1760,29 +1739,6 @@
       "created_at": "2026-11-09T21:04:42"
     },
     {
-      "id": "list_AAABocIgpV2Ws9LcFgtFJ6u9",
-      "title": "Responsible AI / Security Specialist",
-      "domain": "Software Engineering",
-      "pay": "$90 - $140 / hr",
-      "pay_min": 90.0,
-      "pay_max": 140.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "United States",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABocIgpV2Ws9LcFgtFJ6u9/responsible-ai-security-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocIgpV2Ws9LcFgtFJ6u9&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocIgpV2Ws9LcFgtFJ6u9",
-      "created_at": "2026-11-09T21:04:41"
-    },
-    {
       "id": "list_AAABocIgpgg_Jh7V5E5AiJx-",
       "title": "DevOps / Infrastructure Engineer",
       "domain": "Software Engineering",
@@ -1803,6 +1759,29 @@
       "referral_link": "https://work.mercor.com/jobs/list_AAABocIgpgg_Jh7V5E5AiJx-/devops-infrastructure-engineer?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocIgpgg_Jh7V5E5AiJx-&utm_medium=direct&utm_source=referral",
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocIgpgg_Jh7V5E5AiJx-",
+      "created_at": "2026-11-09T21:04:41"
+    },
+    {
+      "id": "list_AAABocIgpV2Ws9LcFgtFJ6u9",
+      "title": "Responsible AI / Security Specialist",
+      "domain": "Software Engineering",
+      "pay": "$90 - $140 / hr",
+      "pay_min": 90.0,
+      "pay_max": 140.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "part-time",
+      "tab": "project-based",
+      "location": "United States",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABocIgpV2Ws9LcFgtFJ6u9/responsible-ai-security-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocIgpV2Ws9LcFgtFJ6u9&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocIgpV2Ws9LcFgtFJ6u9",
       "created_at": "2026-11-09T21:04:41"
     },
     {
