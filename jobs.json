@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T08:00:06.292144+00:00",
-  "total": 368,
+  "updated_at": "2026-11-17T12:00:06.862910+00:00",
+  "total": 367,
   "jobs": [
     {
       "id": "list_AAABoeeVTHt-o7DZROFJ_IM5",
@@ -4424,29 +4424,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoLA_3WENxZ1c_rpCtI2L",
       "created_at": "2026-09-17T16:42:51"
-    },
-    {
-      "id": "list_AAABoKver4zykD33JeRD2YDT",
-      "title": "Mechanical Engineer",
-      "domain": "Other Engineering",
-      "pay": "$60 - $90 / hr",
-      "pay_min": 60.0,
-      "pay_max": 90.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "full-time",
-      "tab": "project-based",
-      "location": "United States",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoKver4zykD33JeRD2YDT/mechanical-engineer?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoKver4zykD33JeRD2YDT&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoKver4zykD33JeRD2YDT",
-      "created_at": "2026-09-16T20:18:13"
     },
     {
       "id": "list_AAABoKORCF2dakrez4FCAo_G",
