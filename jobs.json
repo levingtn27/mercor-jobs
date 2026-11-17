@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-11-16T20:00:06.006226+00:00",
-  "total": 368,
+  "updated_at": "2026-11-17T00:00:05.022769+00:00",
+  "total": 369,
   "jobs": [
+    {
+      "id": "list_AAABoeaZZ5aPp9cXNF9DVrUb",
+      "title": "AI Evaluation Rubric Auditor",
+      "domain": "Miscellaneous",
+      "pay": "$60 - $85 / hr",
+      "pay_min": 60.0,
+      "pay_max": 85.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoeaZZ5aPp9cXNF9DVrUb/ai-evaluation-rubric-auditor?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoeaZZ5aPp9cXNF9DVrUb&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoeaZZ5aPp9cXNF9DVrUb",
+      "created_at": "2026-11-16T23:02:55"
+    },
     {
       "id": "list_AAABoeIksoinQkS__UxOZ7G1",
       "title": "AI Evaluation Rubric Reviewer",
