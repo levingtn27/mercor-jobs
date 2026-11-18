@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T04:00:05.343659+00:00",
-  "total": 369,
+  "updated_at": "2026-11-18T08:00:06.218412+00:00",
+  "total": 368,
   "jobs": [
     {
       "id": "list_AAABoeqolT5tlmjFO69CV5TO",
@@ -183,27 +183,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoeaZZ5aPp9cXNF9DVrUb",
       "created_at": "2026-11-16T23:02:55"
-    },
-    {
-      "id": "list_AAABoeIksoinQkS__UxOZ7G1",
-      "title": "AI Evaluation Rubric Reviewer",
-      "domain": "Data Analysis",
-      "pay": "$40 - $75 / hr",
-      "pay_min": 40.0,
-      "pay_max": 75.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoeIksoinQkS__UxOZ7G1/ai-evaluation-rubric-reviewer?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoeIksoinQkS__UxOZ7G1&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoeIksoinQkS__UxOZ7G1",
-      "created_at": "2026-11-16T02:16:58"
     },
     {
       "id": "list_AAABod-ddE8TIdVeFnNC-5qt",
