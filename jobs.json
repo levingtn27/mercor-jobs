@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-11-19T12:00:06.875615+00:00",
-  "total": 371,
+  "updated_at": "2026-11-19T16:00:06.091594+00:00",
+  "total": 372,
   "jobs": [
+    {
+      "id": "list_AAABofNxJ_IwaVsIsCJL0pyn",
+      "title": "Generalist for Queries Testing Vision",
+      "domain": "Miscellaneous",
+      "pay": "$35 / hr",
+      "pay_min": 35.0,
+      "pay_max": 35.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABofNxJ_IwaVsIsCJL0pyn/generalist-for-queries-testing-vision?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABofNxJ_IwaVsIsCJL0pyn&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABofNxJ_IwaVsIsCJL0pyn",
+      "created_at": "2026-11-19T10:54:02"
+    },
     {
       "id": "list_AAABofHGD07UlwjpJg5AyIFY",
       "title": "Practising Lawyer (Korea, Spain, Germany, France, Japan) \u2014 AI Legal Writing Survey",
