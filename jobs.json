@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21T08:00:06.133874+00:00",
-  "total": 367,
+  "updated_at": "2026-11-21T12:00:05.188114+00:00",
+  "total": 364,
   "jobs": [
     {
       "id": "list_AAABofHGD07UlwjpJg5AyIFY",
@@ -1602,29 +1602,6 @@
       "created_at": "2026-11-13T14:06:54"
     },
     {
-      "id": "list_AAABoc3i1VY8MNT4obtJuJhY",
-      "title": "Enterprise Sales Expert (AE / Sales Leader)",
-      "domain": "Business Operations",
-      "pay": "$50 - $70 / hr",
-      "pay_min": 50.0,
-      "pay_max": 70.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote (US)",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoc3i1VY8MNT4obtJuJhY/enterprise-sales-expert-ae-sales-leader?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoc3i1VY8MNT4obtJuJhY&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoc3i1VY8MNT4obtJuJhY",
-      "created_at": "2026-11-12T03:52:37"
-    },
-    {
       "id": "list_AAABocvmQyKqYVaWnhNJlLpY",
       "title": "Fab Safety and Emergency Response Expert",
       "domain": "Other Engineering",
@@ -1943,29 +1920,6 @@
       "created_at": "2026-11-09T21:04:42"
     },
     {
-      "id": "list_AAABocIgpV2Ws9LcFgtFJ6u9",
-      "title": "Responsible AI / Security Specialist",
-      "domain": "Software Engineering",
-      "pay": "$90 - $140 / hr",
-      "pay_min": 90.0,
-      "pay_max": 140.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "part-time",
-      "tab": "project-based",
-      "location": "United States",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABocIgpV2Ws9LcFgtFJ6u9/responsible-ai-security-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocIgpV2Ws9LcFgtFJ6u9&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocIgpV2Ws9LcFgtFJ6u9",
-      "created_at": "2026-11-09T21:04:41"
-    },
-    {
       "id": "list_AAABocIgpgg_Jh7V5E5AiJx-",
       "title": "DevOps / Infrastructure Engineer",
       "domain": "Software Engineering",
@@ -1986,6 +1940,29 @@
       "referral_link": "https://work.mercor.com/jobs/list_AAABocIgpgg_Jh7V5E5AiJx-/devops-infrastructure-engineer?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocIgpgg_Jh7V5E5AiJx-&utm_medium=direct&utm_source=referral",
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocIgpgg_Jh7V5E5AiJx-",
+      "created_at": "2026-11-09T21:04:41"
+    },
+    {
+      "id": "list_AAABocIgpV2Ws9LcFgtFJ6u9",
+      "title": "Responsible AI / Security Specialist",
+      "domain": "Software Engineering",
+      "pay": "$90 - $140 / hr",
+      "pay_min": 90.0,
+      "pay_max": 140.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "part-time",
+      "tab": "project-based",
+      "location": "United States",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABocIgpV2Ws9LcFgtFJ6u9/responsible-ai-security-specialist?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocIgpV2Ws9LcFgtFJ6u9&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocIgpV2Ws9LcFgtFJ6u9",
       "created_at": "2026-11-09T21:04:41"
     },
     {
@@ -3390,29 +3367,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoWtv330pzH8496dGyKTt",
       "created_at": "2026-10-24T01:04:16"
-    },
-    {
-      "id": "list_AAABoWsjEohggV1F8gdLEoVO",
-      "title": "Retail Trader",
-      "domain": "Finance",
-      "pay": "$400 / task",
-      "pay_min": 400.0,
-      "pay_max": 400.0,
-      "pay_unit": "task",
-      "pay_freq": "per-task",
-      "commitment": "task-based",
-      "tab": "project-based",
-      "location": "United States (remote)",
-      "eligible": [
-        "USA"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoWsjEohggV1F8gdLEoVO/retail-trader?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoWsjEohggV1F8gdLEoVO&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoWsjEohggV1F8gdLEoVO",
-      "created_at": "2026-10-23T23:40:23"
     },
     {
       "id": "list_AAABoWoZmUZ_SLUqJNtCkJsp",
@@ -6194,27 +6148,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoEpy3lTX4ecyqy9GZ6_u",
       "created_at": "2026-08-28T22:17:17"
-    },
-    {
-      "id": "list_AAABoEkE3Fx5nN65LndAloi6",
-      "title": "Spanish Tutors",
-      "domain": "Humanities",
-      "pay": "$60 - $65 / hr",
-      "pay_min": 60.0,
-      "pay_max": 65.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoEkE3Fx5nN65LndAloi6/spanish-tutors?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoEkE3Fx5nN65LndAloi6&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoEkE3Fx5nN65LndAloi6",
-      "created_at": "2026-08-28T15:37:30"
     },
     {
       "id": "list_AAABoDrYQdAJqq6xRalOo4e9",
