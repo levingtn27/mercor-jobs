@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T04:00:06.192560+00:00",
+  "updated_at": "2026-11-22T08:00:05.405490+00:00",
   "total": 365,
   "jobs": [
     {
@@ -1621,27 +1621,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABodU7lw8bP6UCpLRNx5DM",
       "created_at": "2026-11-13T14:06:54"
-    },
-    {
-      "id": "list_AAABocvmQyKqYVaWnhNJlLpY",
-      "title": "Fab Safety and Emergency Response Expert",
-      "domain": "Other Engineering",
-      "pay": "$85 / hr",
-      "pay_min": 85.0,
-      "pay_max": 85.0,
-      "pay_unit": "hour",
-      "pay_freq": "hourly",
-      "commitment": "hourly",
-      "tab": "project-based",
-      "location": "Remote",
-      "eligible": [],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABocvmQyKqYVaWnhNJlLpY/fab-safety-and-emergency-response-expert?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABocvmQyKqYVaWnhNJlLpY&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABocvmQyKqYVaWnhNJlLpY",
-      "created_at": "2026-11-11T18:37:08"
     },
     {
       "id": "list_AAABocs4xIYqLBlbNtRKf6Mm",
@@ -4131,6 +4110,29 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoTSnXon2NKOaCWVFA6I-",
       "created_at": "2026-10-13T09:45:46"
+    },
+    {
+      "id": "list_AAABoSaogGy2NBr71LpJgrqO",
+      "title": "Primary Care Physician (MD) -  Clinical Documentation & AI Evaluation",
+      "domain": "Medicine",
+      "pay": "$170 / hr",
+      "pay_min": 170.0,
+      "pay_max": 170.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoSaogGy2NBr71LpJgrqO/primary-care-physician-md-clinical-documentation-ai-evaluation?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoSaogGy2NBr71LpJgrqO&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoSaogGy2NBr71LpJgrqO",
+      "created_at": "2026-10-10T16:32:20"
     },
     {
       "id": "list_AAABoRnCSK6MhF7a8UVK85GA",
