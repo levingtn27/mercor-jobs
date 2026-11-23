@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T12:00:05.515017+00:00",
-  "total": 362,
+  "updated_at": "2026-11-23T16:00:08.026395+00:00",
+  "total": 361,
   "jobs": [
     {
       "id": "list_AAABofHGD07UlwjpJg5AyIFY",
@@ -3720,29 +3720,6 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoVXp4Fza5Tp6BWFOiZkF",
       "created_at": "2026-10-19T20:45:53"
-    },
-    {
-      "id": "list_AAABoVRd9P1zaUo4VyVMfZES",
-      "title": "Customer Experience Operations (India)",
-      "domain": "Business Operations",
-      "pay": "$35K - $50K / yr",
-      "pay_min": 35000.0,
-      "pay_max": 50000.0,
-      "pay_unit": "year",
-      "pay_freq": "yearly",
-      "commitment": "full-time",
-      "tab": "project-based",
-      "location": "India",
-      "eligible": [
-        "IND"
-      ],
-      "hired_count": null,
-      "is_new": true,
-      "closing_soon": false,
-      "referral_link": "https://work.mercor.com/jobs/list_AAABoVRd9P1zaUo4VyVMfZES/customer-experience-operations-india?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoVRd9P1zaUo4VyVMfZES&utm_medium=direct&utm_source=referral",
-      "referral_bonus": null,
-      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoVRd9P1zaUo4VyVMfZES",
-      "created_at": "2026-10-19T13:33:26"
     },
     {
       "id": "list_AAABoVBme63yIgVpzitF4Y_k",
