@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T08:00:05.554780+00:00",
+  "updated_at": "2026-11-23T12:00:05.515017+00:00",
   "total": 362,
   "jobs": [
     {
@@ -1631,7 +1631,7 @@
       "pay_max": 140.0,
       "pay_unit": "hour",
       "pay_freq": "hourly",
-      "commitment": "hourly",
+      "commitment": "part-time",
       "tab": "project-based",
       "location": "Remote (United States)",
       "eligible": [
@@ -1700,7 +1700,7 @@
       "pay_max": 130.0,
       "pay_unit": "hour",
       "pay_freq": "hourly",
-      "commitment": "hourly",
+      "commitment": "part-time",
       "tab": "project-based",
       "location": "Remote (United States)",
       "eligible": [
