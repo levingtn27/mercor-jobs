@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T04:00:05.040889+00:00",
+  "updated_at": "2026-11-23T08:00:05.554780+00:00",
   "total": 362,
   "jobs": [
     {
@@ -432,12 +432,12 @@
       "id": "list_AAABod-cr6QtycCt_RVO8K85",
       "title": "Insurance Agency Software Survey \u2013 10 Minutes, Paid",
       "domain": "Business Operations",
-      "pay": "$69 - $118 / task",
+      "pay": "$69 - $118 / hr",
       "pay_min": 69.0,
       "pay_max": 118.0,
-      "pay_unit": "task",
-      "pay_freq": "per-task",
-      "commitment": "task-based",
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "part-time",
       "tab": "project-based",
       "location": "United States",
       "eligible": [
