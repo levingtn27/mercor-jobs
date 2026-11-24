@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T04:00:05.844108+00:00",
+  "updated_at": "2026-11-24T08:00:05.763381+00:00",
   "total": 355,
   "jobs": [
     {
@@ -2435,7 +2435,7 @@
       "pay_max": 120.0,
       "pay_unit": "hour",
       "pay_freq": "hourly",
-      "commitment": "hourly",
+      "commitment": "part-time",
       "tab": "project-based",
       "location": "Remote",
       "eligible": [],
