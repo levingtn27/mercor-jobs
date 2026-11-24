@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T20:00:13.782223+00:00",
-  "total": 352,
+  "updated_at": "2026-11-24T00:00:05.185919+00:00",
+  "total": 355,
   "jobs": [
     {
       "id": "list_AAABofHGD07UlwjpJg5AyIFY",
@@ -6263,6 +6263,29 @@
       "created_at": "2026-08-22T12:41:47"
     },
     {
+      "id": "list_AAABoCWaT-Nn5YtIt9tNC7Hh",
+      "title": "Medical and Health Services Managers",
+      "domain": "Business Operations",
+      "pay": "$100 - $120 / hr",
+      "pay_min": 100.0,
+      "pay_max": 120.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "USA"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABoCWaT-Nn5YtIt9tNC7Hh/medical-and-health-services-managers?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABoCWaT-Nn5YtIt9tNC7Hh&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABoCWaT-Nn5YtIt9tNC7Hh",
+      "created_at": "2026-08-21T18:34:25"
+    },
+    {
       "id": "list_AAABoBt9Gyyhs3BhJitBYYIf",
       "title": "Business & Sales Operations Domain Expert",
       "domain": "Business Operations",
@@ -6936,6 +6959,29 @@
       "created_at": "2026-07-30T17:14:20"
     },
     {
+      "id": "list_AAABn7QE-IGAlH7zJwpKN6uM",
+      "title": "Voice Actor: CX Agent Voice Cloning (Australian English)",
+      "domain": "Language and Audio",
+      "pay": "$50 - $100 / hr",
+      "pay_min": 50.0,
+      "pay_max": 100.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [
+        "AUS"
+      ],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABn7QE-IGAlH7zJwpKN6uM/voice-actor-cx-agent-voice-cloning-australian-english?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABn7QE-IGAlH7zJwpKN6uM&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABn7QE-IGAlH7zJwpKN6uM",
+      "created_at": "2026-07-30T17:14:12"
+    },
+    {
       "id": "list_AAABn6vGkxZngsMTe7xP7rqG",
       "title": "Data Scientist Talent Network",
       "domain": "Data Analysis",
@@ -7219,6 +7265,27 @@
       "referral_bonus": null,
       "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnlNc5vKNKKMWYLxGQ7NX",
       "created_at": "2026-05-23T05:44:18"
+    },
+    {
+      "id": "list_AAABnQw10KNPyjduO8lAFo-e",
+      "title": "Voice Actor: CX Agent Voice Cloning (USA)",
+      "domain": "Language and Audio",
+      "pay": "$50 - $200 / hr",
+      "pay_min": 50.0,
+      "pay_max": 200.0,
+      "pay_unit": "hour",
+      "pay_freq": "hourly",
+      "commitment": "hourly",
+      "tab": "project-based",
+      "location": "Remote",
+      "eligible": [],
+      "hired_count": null,
+      "is_new": true,
+      "closing_soon": false,
+      "referral_link": "https://work.mercor.com/jobs/list_AAABnQw10KNPyjduO8lAFo-e/voice-actor-cx-agent-voice-cloning-usa?referralCode=8163e464-1905-44df-a074-7f019da2f759&utm_campaign=job&utm_content=list_AAABnQw10KNPyjduO8lAFo-e&utm_medium=direct&utm_source=referral",
+      "referral_bonus": null,
+      "listing_url": "https://work.mercor.com/explore?listingId=list_AAABnQw10KNPyjduO8lAFo-e",
+      "created_at": "2026-03-20T17:05:47"
     },
     {
       "id": "list_AAABnJ0Tj07Vgzf7imVMBZB6",
